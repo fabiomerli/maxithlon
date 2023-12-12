@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91948</teamId>
+  <teamName>Gaius</teamName>
+  <owner>Gaius</owner>
+  <founded>2021-06-30T12:30:56+02:00</founded>
+  <youthFounded>2021-06-30T13:35:21+02:00</youthFounded>
+  <arenaId>56982</arenaId>
+  <arenaName>GAIUS STADIUM</arenaName>
+  <leagueId>75</leagueId>
+  <youthLeagueId>162</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>196</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

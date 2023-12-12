@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>89555</teamId>
+  <teamName>Hacksaws</teamName>
+  <owner>Jim_Duggan</owner>
+  <founded>2019-06-25T21:56:38+02:00</founded>
+  <youthFounded>2019-06-26T01:15:20+02:00</youthFounded>
+  <arenaId>55459</arenaId>
+  <arenaName>Def Con One</arenaName>
+  <leagueId>563</leagueId>
+  <youthLeagueId>173</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>151</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

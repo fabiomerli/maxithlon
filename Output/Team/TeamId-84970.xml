@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>84970</teamId>
+  <teamName>Jocko club</teamName>
+  <owner>Jocko</owner>
+  <founded>2016-08-17T12:34:23+02:00</founded>
+  <youthFounded>2017-11-12T13:01:39+01:00</youthFounded>
+  <arenaId>52627</arenaId>
+  <arenaName>Jocko stadium</arenaName>
+  <leagueId>112</leagueId>
+  <youthLeagueId>144</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>177</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

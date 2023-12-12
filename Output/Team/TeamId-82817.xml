@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>82817</teamId>
+  <teamName>AC Thwarthen</teamName>
+  <owner>Mrbob</owner>
+  <founded>2015-08-22T21:24:53+02:00</founded>
+  <youthFounded>2018-02-11T20:34:35+01:00</youthFounded>
+  <arenaId>51265</arenaId>
+  <arenaName>Bosarena</arenaName>
+  <leagueId>35</leagueId>
+  <youthLeagueId>155</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>88</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

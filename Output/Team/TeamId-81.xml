@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>81</teamId>
+  <teamName>Rotten Athletic</teamName>
+  <owner>Rotten</owner>
+  <founded>2006-05-10T10:01:45+02:00</founded>
+  <youthFounded>2017-11-13T12:21:31+01:00</youthFounded>
+  <arenaId>63</arenaId>
+  <arenaName>Giacomo Galletti</arenaName>
+  <leagueId>1</leagueId>
+  <youthLeagueId>113</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

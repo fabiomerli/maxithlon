@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90571</teamId>
+  <teamName>MunZe</teamName>
+  <owner>nele40</owner>
+  <founded>2020-04-20T15:45:58+02:00</founded>
+  <youthFounded>2020-04-20T17:07:06+02:00</youthFounded>
+  <arenaId>56081</arenaId>
+  <arenaName>MunZe arena</arenaName>
+  <leagueId>563</leagueId>
+  <youthLeagueId>189</youthLeagueId>
+  <nationId>28</nationId>
+  <regionId>328</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

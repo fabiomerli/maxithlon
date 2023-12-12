@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>73986</teamId>
+  <teamName>TSV Verne 08/15</teamName>
+  <owner>Joern</owner>
+  <founded>2013-07-19T08:19:01+02:00</founded>
+  <youthFounded>2017-11-13T12:21:04+01:00</youthFounded>
+  <arenaId>46304</arenaId>
+  <arenaName>Alla-hop-Arena</arenaName>
+  <leagueId>34</leagueId>
+  <youthLeagueId>196</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>50</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

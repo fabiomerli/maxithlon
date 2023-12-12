@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>978</teamId>
+  <teamName>Brianza Team</teamName>
+  <owner>Andrea</owner>
+  <founded>2006-07-06T09:53:24+02:00</founded>
+  <youthFounded>2017-11-12T10:51:17+01:00</youthFounded>
+  <arenaId>791</arenaId>
+  <arenaName>Olimpico</arenaName>
+  <leagueId>1</leagueId>
+  <youthLeagueId>113</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

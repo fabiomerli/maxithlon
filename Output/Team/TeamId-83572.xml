@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>83572</teamId>
+  <teamName>Guns n' Roses</teamName>
+  <owner>slash</owner>
+  <founded>2015-12-08T14:12:22+01:00</founded>
+  <youthFounded>2017-11-14T10:42:22+01:00</youthFounded>
+  <arenaId>51734</arenaId>
+  <arenaName>Paradise City</arenaName>
+  <leagueId>179</leagueId>
+  <youthLeagueId>146</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>261</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

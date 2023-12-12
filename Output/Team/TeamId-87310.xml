@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>87310</teamId>
+  <teamName>Inter Rostock</teamName>
+  <owner>hdazim </owner>
+  <founded>2017-10-13T12:16:18+02:00</founded>
+  <youthFounded>2020-11-30T05:34:12+01:00</youthFounded>
+  <arenaId>54021</arenaId>
+  <arenaName>San Siro</arenaName>
+  <leagueId>40</leagueId>
+  <youthLeagueId>199</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>51</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

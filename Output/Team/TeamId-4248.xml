@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>4248</teamId>
+  <teamName>Iron Road Runners</teamName>
+  <owner>Ironside</owner>
+  <founded>2007-07-05T16:27:08+02:00</founded>
+  <youthFounded>2017-11-12T03:27:18+01:00</youthFounded>
+  <arenaId>3049</arenaId>
+  <arenaName>Iron Park</arenaName>
+  <leagueId>564</leagueId>
+  <youthLeagueId>169</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>161</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

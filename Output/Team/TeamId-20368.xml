@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>20368</teamId>
+  <teamName>SV Furpach</teamName>
+  <owner>stemmi</owner>
+  <founded>2008-10-03T16:59:24+02:00</founded>
+  <youthFounded>2017-12-30T15:07:01+01:00</youthFounded>
+  <arenaId>13441</arenaId>
+  <arenaName>Kreuzbergring</arenaName>
+  <leagueId>34</leagueId>
+  <youthLeagueId>196</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>55</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

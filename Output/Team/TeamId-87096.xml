@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>87096</teamId>
+  <teamName>AC Katowice</teamName>
+  <owner>Slawoj67</owner>
+  <founded>2017-09-09T15:26:37+02:00</founded>
+  <youthFounded>2017-11-21T17:04:12+01:00</youthFounded>
+  <arenaId>53913</arenaId>
+  <arenaName>Silesian Stadium</arenaName>
+  <leagueId>179</leagueId>
+  <youthLeagueId>146</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>272</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

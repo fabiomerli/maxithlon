@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>15401</teamId>
+  <teamName>Torpedo Barbarossa</teamName>
+  <owner>karibou</owner>
+  <founded>2008-06-25T23:57:06+02:00</founded>
+  <youthFounded>2017-11-19T11:04:15+01:00</youthFounded>
+  <arenaId>10352</arenaId>
+  <arenaName>Stella Rossa</arenaName>
+  <leagueId>4</leagueId>
+  <youthLeagueId>127</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

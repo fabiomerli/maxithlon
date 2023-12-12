@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>89396</teamId>
+  <teamName>Quemerford Harriers</teamName>
+  <owner>TxSprinter</owner>
+  <founded>2019-04-24T17:15:34+02:00</founded>
+  <youthFounded>2019-04-30T11:03:11+02:00</youthFounded>
+  <arenaId>55350</arenaId>
+  <arenaName>Quemerford Park</arenaName>
+  <leagueId>563</leagueId>
+  <youthLeagueId>173</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>154</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

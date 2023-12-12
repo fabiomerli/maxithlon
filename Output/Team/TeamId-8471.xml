@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>8471</teamId>
+  <teamName>Megalo Atletica Griso</teamName>
+  <owner>JoeGriso</owner>
+  <founded>2007-11-17T13:41:17+01:00</founded>
+  <youthFounded>2017-11-22T13:23:57+01:00</youthFounded>
+  <arenaId>5872</arenaId>
+  <arenaName>Megalo stadium</arenaName>
+  <leagueId>3</leagueId>
+  <youthLeagueId>116</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>4339</teamId>
+  <teamName>Caledonian</teamName>
+  <owner>deekw</owner>
+  <founded>2007-07-06T00:43:01+02:00</founded>
+  <youthFounded>2017-11-15T12:58:08+01:00</youthFounded>
+  <arenaId>3159</arenaId>
+  <arenaName>The Gasworks</arenaName>
+  <leagueId>563</leagueId>
+  <youthLeagueId>169</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>161</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

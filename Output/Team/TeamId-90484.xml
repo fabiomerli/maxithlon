@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90484</teamId>
+  <teamName>graviteu</teamName>
+  <owner>cmeu</owner>
+  <founded>2020-04-03T11:58:03+02:00</founded>
+  <youthFounded>2020-04-03T15:18:26+02:00</youthFounded>
+  <arenaId>56012</arenaId>
+  <arenaName>pista e campo graviteu</arenaName>
+  <leagueId>7</leagueId>
+  <youthLeagueId>114</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>15</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

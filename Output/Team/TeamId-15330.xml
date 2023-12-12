@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>15330</teamId>
+  <teamName>AV Parthenon</teamName>
+  <owner>Jan Zelezny</owner>
+  <founded>2008-06-23T21:28:49+02:00</founded>
+  <youthFounded>2022-03-31T00:30:30+02:00</youthFounded>
+  <arenaId>10274</arenaId>
+  <arenaName>De Arena</arenaName>
+  <leagueId>35</leagueId>
+  <youthLeagueId>157</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>90</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

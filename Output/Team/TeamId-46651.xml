@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>46651</teamId>
+  <teamName>Janelas Athletic</teamName>
+  <owner>mediam</owner>
+  <founded>2010-08-08T05:29:52+02:00</founded>
+  <youthFounded>2017-11-12T12:27:58+01:00</youthFounded>
+  <arenaId>30464</arenaId>
+  <arenaName>Estadio del Sureste</arenaName>
+  <leagueId>92</leagueId>
+  <youthLeagueId>131</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>117</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

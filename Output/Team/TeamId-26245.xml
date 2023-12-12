@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>26245</teamId>
+  <teamName>Elan Demars</teamName>
+  <owner>demars</owner>
+  <founded>2009-03-13T22:35:22+01:00</founded>
+  <youthFounded>2017-11-12T11:23:41+01:00</youthFounded>
+  <arenaId>17178</arenaId>
+  <arenaName>Sebastian Coe Stadium</arenaName>
+  <leagueId>74</leagueId>
+  <youthLeagueId>140</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>183</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

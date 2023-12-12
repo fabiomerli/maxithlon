@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>84420</teamId>
+  <teamName>Olympian</teamName>
+  <owner>athletix1</owner>
+  <founded>2016-06-01T09:37:12+02:00</founded>
+  <youthFounded>2017-11-20T14:36:31+01:00</youthFounded>
+  <arenaId>52284</arenaId>
+  <arenaName>OlympiansStad</arenaName>
+  <leagueId>166</leagueId>
+  <youthLeagueId>176</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>237</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

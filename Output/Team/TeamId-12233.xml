@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>12233</teamId>
+  <teamName>Atletica Corti e Veloci</teamName>
+  <owner>niklaus</owner>
+  <founded>2008-03-28T14:56:11+01:00</founded>
+  <youthFounded>2017-11-12T07:12:39+01:00</youthFounded>
+  <arenaId>8329</arenaId>
+  <arenaName>Campo Scuola Arrigo Ciufici</arenaName>
+  <leagueId>2</leagueId>
+  <youthLeagueId>113</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>8</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

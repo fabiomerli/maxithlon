@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>35647</teamId>
+  <teamName>AC Notor</teamName>
+  <owner>marsal</owner>
+  <founded>2009-11-12T21:10:46+01:00</founded>
+  <youthFounded>2017-11-13T09:29:25+01:00</youthFounded>
+  <arenaId>22975</arenaId>
+  <arenaName>Notor Stadium</arenaName>
+  <leagueId>316</leagueId>
+  <youthLeagueId>184</youthLeagueId>
+  <nationId>38</nationId>
+  <regionId>390</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

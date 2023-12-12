@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>43731</teamId>
+  <teamName>Kivikon Urheilijat</teamName>
+  <owner>heik_kki</owner>
+  <founded>2010-05-28T19:09:39+02:00</founded>
+  <youthFounded>2017-11-19T19:19:16+01:00</youthFounded>
+  <arenaId>28459</arenaId>
+  <arenaName>Kivikon Urheilupuisto</arenaName>
+  <leagueId>568</leagueId>
+  <youthLeagueId>180</youthLeagueId>
+  <nationId>16</nationId>
+  <regionId>220</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

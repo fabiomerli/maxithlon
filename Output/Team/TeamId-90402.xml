@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90402</teamId>
+  <teamName>Spordiklubi Tervis</teamName>
+  <owner>elagu_eesti</owner>
+  <founded>2020-03-17T22:36:48+01:00</founded>
+  <youthFounded>2020-03-17T23:38:22+01:00</youthFounded>
+  <arenaId>55961</arenaId>
+  <arenaName>Tervise staadion</arenaName>
+  <leagueId>565</leagueId>
+  <youthLeagueId>180</youthLeagueId>
+  <nationId>8</nationId>
+  <regionId>168</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

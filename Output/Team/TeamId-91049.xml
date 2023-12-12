@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91049</teamId>
+  <teamName>Goose Hollow RC</teamName>
+  <owner>bigrig387</owner>
+  <founded>2020-07-26T13:24:41+02:00</founded>
+  <youthFounded>2020-08-09T20:29:50+02:00</youthFounded>
+  <arenaId>56409</arenaId>
+  <arenaName>The Turn</arenaName>
+  <leagueId>142</leagueId>
+  <youthLeagueId>169</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>234</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

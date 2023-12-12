@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>89985</teamId>
+  <teamName>STV Silberklinge</teamName>
+  <owner>Mirko</owner>
+  <founded>2019-11-03T18:37:35+01:00</founded>
+  <youthFounded>2019-11-04T21:20:16+01:00</youthFounded>
+  <arenaId>55693</arenaId>
+  <arenaName>Die Silberhöhle</arenaName>
+  <leagueId>34</leagueId>
+  <youthLeagueId>194</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>52</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

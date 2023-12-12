@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>5307</teamId>
+  <teamName>Cul club</teamName>
+  <owner>tassl</owner>
+  <founded>2007-07-30T22:37:18+02:00</founded>
+  <youthFounded>2017-11-12T23:55:46+01:00</youthFounded>
+  <arenaId>3827</arenaId>
+  <arenaName>Cul Stadium</arenaName>
+  <leagueId>47</leagueId>
+  <youthLeagueId>134</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>109</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

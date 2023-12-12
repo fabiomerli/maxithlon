@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>22927</teamId>
+  <teamName>Squadra Rossa</teamName>
+  <owner>dereade</owner>
+  <founded>2008-12-18T17:56:11+01:00</founded>
+  <youthFounded>2021-11-18T00:30:27+01:00</youthFounded>
+  <arenaId>15070</arenaId>
+  <arenaName>Stadio Billiton</arenaName>
+  <leagueId>35</leagueId>
+  <youthLeagueId>157</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>83</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

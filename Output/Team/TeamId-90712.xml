@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90712</teamId>
+  <teamName>Fc Alisa</teamName>
+  <owner>Alisa</owner>
+  <founded>2020-05-19T16:36:45+02:00</founded>
+  <youthFounded>2020-05-19T19:36:19+02:00</youthFounded>
+  <arenaId>56182</arenaId>
+  <arenaName>The Alisian stadium</arenaName>
+  <leagueId>3</leagueId>
+  <youthLeagueId>114</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>18</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

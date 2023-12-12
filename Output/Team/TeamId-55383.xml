@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>55383</teamId>
+  <teamName>SG Endschuetz</teamName>
+  <owner>milky1</owner>
+  <founded>2011-05-23T18:45:15+02:00</founded>
+  <youthFounded>2017-11-13T17:49:09+01:00</youthFounded>
+  <arenaId>35814</arenaId>
+  <arenaName>Waldstadion am Fuchsbach</arenaName>
+  <leagueId>39</leagueId>
+  <youthLeagueId>194</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>59</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

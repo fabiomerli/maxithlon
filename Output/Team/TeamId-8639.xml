@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>8639</teamId>
+  <teamName>Itä-Helsingin Atleetit</teamName>
+  <owner>Garner</owner>
+  <founded>2007-11-27T07:17:39+01:00</founded>
+  <youthFounded>2017-11-13T10:08:49+01:00</youthFounded>
+  <arenaId>6078</arenaId>
+  <arenaName>Ullaksen Urheilupuisto</arenaName>
+  <leagueId>569</leagueId>
+  <youthLeagueId>181</youthLeagueId>
+  <nationId>16</nationId>
+  <regionId>220</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90462</teamId>
+  <teamName>Red Panda</teamName>
+  <owner>derfel</owner>
+  <founded>2020-03-28T19:34:29+01:00</founded>
+  <youthFounded>2020-03-30T14:11:45+02:00</youthFounded>
+  <arenaId>55997</arenaId>
+  <arenaName>Pandarena</arenaName>
+  <leagueId>6</leagueId>
+  <youthLeagueId>115</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

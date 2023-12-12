@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>76442</teamId>
+  <teamName>nonno bandi track &amp; field</teamName>
+  <owner>nonno bandi</owner>
+  <founded>2013-12-04T20:02:11+01:00</founded>
+  <youthFounded>2017-11-16T16:57:59+01:00</youthFounded>
+  <arenaId>47590</arenaId>
+  <arenaName>vecchie carampane arena</arenaName>
+  <leagueId>1</leagueId>
+  <youthLeagueId>113</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>12</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

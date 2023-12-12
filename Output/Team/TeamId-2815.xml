@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>2815</teamId>
+  <teamName>Munich Running Club</teamName>
+  <owner>Buziano</owner>
+  <founded>2007-04-27T16:20:58+02:00</founded>
+  <youthFounded>2017-11-13T06:47:11+01:00</youthFounded>
+  <arenaId>2125</arenaId>
+  <arenaName>English Garden</arenaName>
+  <leagueId>34</leagueId>
+  <youthLeagueId>194</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>45</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

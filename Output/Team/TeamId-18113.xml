@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>18113</teamId>
+  <teamName>LC Bisikon</teamName>
+  <owner>KruemelSimon</owner>
+  <founded>2008-08-24T14:55:47+02:00</founded>
+  <youthFounded>2017-11-23T00:08:05+01:00</youthFounded>
+  <arenaId>12039</arenaId>
+  <arenaName>Bisikon City Stadium</arenaName>
+  <leagueId>565</leagueId>
+  <youthLeagueId>195</youthLeagueId>
+  <nationId>2</nationId>
+  <regionId>43</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

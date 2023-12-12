@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>46144</teamId>
+  <teamName>Flying Borzakovskis</teamName>
+  <owner>pauwelgu</owner>
+  <founded>2010-07-31T23:02:52+02:00</founded>
+  <youthFounded>2017-12-25T23:28:58+01:00</youthFounded>
+  <arenaId>30149</arenaId>
+  <arenaName>Pauwels Park</arenaName>
+  <leagueId>33</leagueId>
+  <youthLeagueId>158</youthLeagueId>
+  <nationId>6</nationId>
+  <regionId>95</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>49572</teamId>
+  <teamName>Ballyfin</teamName>
+  <owner>cuddles</owner>
+  <founded>2010-10-26T21:11:33+02:00</founded>
+  <youthFounded>2017-11-12T10:46:32+01:00</youthFounded>
+  <arenaId>32291</arenaId>
+  <arenaName>Cuddles Park</arenaName>
+  <leagueId>567</leagueId>
+  <youthLeagueId>170</youthLeagueId>
+  <nationId>52</nationId>
+  <regionId>465</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

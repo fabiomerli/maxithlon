@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>49244</teamId>
+  <teamName>Dalmaria Athletics</teamName>
+  <owner>Dario Dalmar</owner>
+  <founded>2010-10-15T01:06:46+02:00</founded>
+  <youthFounded>2018-07-31T15:59:07+02:00</youthFounded>
+  <arenaId>32036</arenaId>
+  <arenaName>Crveni Park</arenaName>
+  <leagueId>565</leagueId>
+  <youthLeagueId>189</youthLeagueId>
+  <nationId>29</nationId>
+  <regionId>324</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

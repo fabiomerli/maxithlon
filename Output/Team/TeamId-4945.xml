@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>4945</teamId>
+  <teamName>ASS. ATL. REGGIO C.</teamName>
+  <owner>airone</owner>
+  <founded>2007-07-21T12:01:59+02:00</founded>
+  <youthFounded>2017-11-15T13:44:15+01:00</youthFounded>
+  <arenaId>3604</arenaId>
+  <arenaName>LA UNITARIA</arenaName>
+  <leagueId>1</leagueId>
+  <youthLeagueId>125</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>3</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

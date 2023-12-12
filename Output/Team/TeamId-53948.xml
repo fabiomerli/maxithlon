@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>53948</teamId>
+  <teamName>Olimpia Bilbao</teamName>
+  <owner>karmax</owner>
+  <founded>2011-03-23T20:12:10+01:00</founded>
+  <youthFounded>2017-12-08T17:49:02+01:00</youthFounded>
+  <arenaId>34888</arenaId>
+  <arenaName>Olimpia Arena</arenaName>
+  <leagueId>49</leagueId>
+  <youthLeagueId>133</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>111</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

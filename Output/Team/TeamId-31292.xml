@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>31292</teamId>
+  <teamName>Tauhorse</teamName>
+  <owner>Christianok</owner>
+  <founded>2009-08-17T09:04:25+02:00</founded>
+  <youthFounded>2017-11-16T06:30:00+01:00</youthFounded>
+  <arenaId>20261</arenaId>
+  <arenaName>Stadio Gilberto Laffi</arenaName>
+  <leagueId>2</leagueId>
+  <youthLeagueId>115</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>9</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>73602</teamId>
+  <teamName>Irvines AC</teamName>
+  <owner>irvines_man</owner>
+  <founded>2013-07-01T15:04:08+02:00</founded>
+  <youthFounded>2017-11-13T19:03:27+01:00</youthFounded>
+  <arenaId>46122</arenaId>
+  <arenaName>Irvines Park</arenaName>
+  <leagueId>572</leagueId>
+  <youthLeagueId>170</youthLeagueId>
+  <nationId>52</nationId>
+  <regionId>468</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

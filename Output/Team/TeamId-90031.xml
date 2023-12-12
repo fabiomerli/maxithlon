@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90031</teamId>
+  <teamName>Allstars United</teamName>
+  <owner>AllstarsUnited</owner>
+  <founded>2019-11-14T19:35:34+01:00</founded>
+  <youthFounded>2019-11-15T00:35:21+01:00</youthFounded>
+  <arenaId>55719</arenaId>
+  <arenaName>AllstaRENA</arenaName>
+  <leagueId>34</leagueId>
+  <youthLeagueId>195</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>53</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

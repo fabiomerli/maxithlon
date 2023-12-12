@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>55900</teamId>
+  <teamName>FC eversel</teamName>
+  <owner>maikske</owner>
+  <founded>2011-06-11T13:42:58+02:00</founded>
+  <youthFounded>2017-11-12T11:15:07+01:00</youthFounded>
+  <arenaId>36173</arenaId>
+  <arenaName>De noordberm</arenaName>
+  <leagueId>33</leagueId>
+  <youthLeagueId>161</youthLeagueId>
+  <nationId>6</nationId>
+  <regionId>101</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

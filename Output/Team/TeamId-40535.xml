@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>40535</teamId>
+  <teamName>EDESSA CITY</teamName>
+  <owner>haile</owner>
+  <founded>2010-02-17T19:49:48+01:00</founded>
+  <youthFounded>2017-11-19T16:16:23+01:00</youthFounded>
+  <arenaId>26000</arenaId>
+  <arenaName>EDESSAIKO</arenaName>
+  <leagueId>150</leagueId>
+  <youthLeagueId>176</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>242</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

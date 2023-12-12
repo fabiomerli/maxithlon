@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>85424</teamId>
+  <teamName>Bumble Bees AC</teamName>
+  <owner>cricketer36</owner>
+  <founded>2016-10-10T23:14:12+02:00</founded>
+  <youthFounded>2017-11-12T12:14:48+01:00</youthFounded>
+  <arenaId>52916</arenaId>
+  <arenaName>Honeycombe Arena</arenaName>
+  <leagueId>563</leagueId>
+  <youthLeagueId>169</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>163</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

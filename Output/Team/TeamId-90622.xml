@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90622</teamId>
+  <teamName>Citius-Altius-Fortius</teamName>
+  <owner>Fortius</owner>
+  <founded>2020-05-04T19:15:54+02:00</founded>
+  <youthFounded>2020-05-04T19:48:51+02:00</youthFounded>
+  <arenaId>56120</arenaId>
+  <arenaName>Estádio Spiridon Louis</arenaName>
+  <leagueId>75</leagueId>
+  <youthLeagueId>162</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>200</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

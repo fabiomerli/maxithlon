@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>59829</teamId>
+  <teamName>Lyon AC</teamName>
+  <owner>Lyon_AC</owner>
+  <founded>2011-11-27T23:57:21+01:00</founded>
+  <youthFounded>2017-11-15T17:32:45+01:00</youthFounded>
+  <arenaId>38769</arenaId>
+  <arenaName>Plaine des Jeux</arenaName>
+  <leagueId>74</leagueId>
+  <youthLeagueId>141</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>549</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

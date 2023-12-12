@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>14111</teamId>
+  <teamName>AC MegaSpike</teamName>
+  <owner>Roelzie</owner>
+  <founded>2008-05-24T20:57:02+02:00</founded>
+  <youthFounded>2017-11-12T11:23:59+01:00</youthFounded>
+  <arenaId>9449</arenaId>
+  <arenaName>MegaSpike Arena</arenaName>
+  <leagueId>37</leagueId>
+  <youthLeagueId>161</youthLeagueId>
+  <nationId>6</nationId>
+  <regionId>93</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

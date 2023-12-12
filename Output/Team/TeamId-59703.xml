@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>59703</teamId>
+  <teamName>GatPact</teamName>
+  <owner>GatPact</owner>
+  <founded>2011-11-21T18:51:10+01:00</founded>
+  <youthFounded>2017-11-12T14:16:51+01:00</youthFounded>
+  <arenaId>38706</arenaId>
+  <arenaName>GatStadium</arenaName>
+  <leagueId>74</leagueId>
+  <youthLeagueId>141</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>551</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

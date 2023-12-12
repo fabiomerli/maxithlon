@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>10713</teamId>
+  <teamName>Egaleo City Predators</teamName>
+  <owner>Mastouris</owner>
+  <founded>2008-02-03T01:38:36+01:00</founded>
+  <youthFounded>2017-11-12T05:05:01+01:00</youthFounded>
+  <arenaId>7383</arenaId>
+  <arenaName>Jungle</arenaName>
+  <leagueId>166</leagueId>
+  <youthLeagueId>177</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>237</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

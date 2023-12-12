@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>83164</teamId>
+  <teamName>Robur Bomber</teamName>
+  <owner>Leosta</owner>
+  <founded>2015-09-24T13:05:02+02:00</founded>
+  <youthFounded>2017-11-23T10:28:25+01:00</youthFounded>
+  <arenaId>51491</arenaId>
+  <arenaName>Bomber Stadium</arenaName>
+  <leagueId>1</leagueId>
+  <youthLeagueId>117</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>1</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

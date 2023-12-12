@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>8585</teamId>
+  <teamName>Guanacos</teamName>
+  <owner>guanaco</owner>
+  <founded>2007-11-23T14:27:12+01:00</founded>
+  <youthFounded>2017-11-13T20:11:04+01:00</youthFounded>
+  <arenaId>5945</arenaId>
+  <arenaName>Guanaquera</arenaName>
+  <leagueId>563</leagueId>
+  <youthLeagueId>152</youthLeagueId>
+  <nationId>15</nationId>
+  <regionId>211</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

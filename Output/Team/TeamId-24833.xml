@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>24833</teamId>
+  <teamName>Atletica Chiesina</teamName>
+  <owner>FARAONEROSSO</owner>
+  <founded>2009-02-03T15:38:19+01:00</founded>
+  <youthFounded>2017-11-12T09:07:31+01:00</youthFounded>
+  <arenaId>16420</arenaId>
+  <arenaName>Mini Arena</arenaName>
+  <leagueId>2</leagueId>
+  <youthLeagueId>121</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>13</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

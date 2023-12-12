@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>65607</teamId>
+  <teamName>LV DIA MONDs</teamName>
+  <owner>ravlinski</owner>
+  <founded>2012-08-07T16:33:44+02:00</founded>
+  <youthFounded>2017-12-13T17:06:27+01:00</youthFounded>
+  <arenaId>42071</arenaId>
+  <arenaName>Preußenstadion</arenaName>
+  <leagueId>34</leagueId>
+  <youthLeagueId>194</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>53</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

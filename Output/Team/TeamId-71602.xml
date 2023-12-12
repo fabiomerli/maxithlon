@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>71602</teamId>
+  <teamName>Loughborough Harriers</teamName>
+  <owner>Marni123</owner>
+  <founded>2013-03-08T14:44:50+01:00</founded>
+  <youthFounded>2017-11-12T09:00:26+01:00</youthFounded>
+  <arenaId>45123</arenaId>
+  <arenaName>Star City Arena</arenaName>
+  <leagueId>563</leagueId>
+  <youthLeagueId>170</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>159</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

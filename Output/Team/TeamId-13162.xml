@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>13162</teamId>
+  <teamName>LG Potsdam</teamName>
+  <owner>wertzu91</owner>
+  <founded>2008-04-21T22:16:08+02:00</founded>
+  <youthFounded>2017-12-25T12:05:19+01:00</youthFounded>
+  <arenaId>8938</arenaId>
+  <arenaName>Luftschiffhafen</arenaName>
+  <leagueId>34</leagueId>
+  <youthLeagueId>196</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>47</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

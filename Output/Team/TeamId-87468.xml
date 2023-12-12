@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>87468</teamId>
+  <teamName>Atletica Brugnera</teamName>
+  <owner>Vettod</owner>
+  <founded>2017-11-26T12:26:47+01:00</founded>
+  <youthFounded>2017-12-30T20:28:22+01:00</youthFounded>
+  <arenaId>54115</arenaId>
+  <arenaName>Comunale Brugnera</arenaName>
+  <leagueId>9</leagueId>
+  <youthLeagueId>119</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>10</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

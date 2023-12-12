@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>980</teamId>
+  <teamName>Lupus in fabula Track &amp; Field</teamName>
+  <owner>fabry</owner>
+  <founded>2006-07-06T13:55:45+02:00</founded>
+  <youthFounded>2017-11-13T09:15:51+01:00</youthFounded>
+  <arenaId>795</arenaId>
+  <arenaName>SuperLucione Borrelli</arenaName>
+  <leagueId>1</leagueId>
+  <youthLeagueId>115</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>17</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

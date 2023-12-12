@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>41502</teamId>
+  <teamName>BMW Jelenia Gora</teamName>
+  <owner>BMW78</owner>
+  <founded>2010-03-26T17:23:14+01:00</founded>
+  <youthFounded>2017-11-14T20:49:28+01:00</youthFounded>
+  <arenaId>27322</arenaId>
+  <arenaName>Zabobrze</arenaName>
+  <leagueId>179</leagueId>
+  <youthLeagueId>146</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>261</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

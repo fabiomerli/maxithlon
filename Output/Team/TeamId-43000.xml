@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>43000</teamId>
+  <teamName>Funkart</teamName>
+  <owner>ASilva</owner>
+  <founded>2010-05-07T11:21:24+02:00</founded>
+  <youthFounded>2017-11-12T14:49:51+01:00</youthFounded>
+  <arenaId>28052</arenaId>
+  <arenaName>Kartodromo</arenaName>
+  <leagueId>75</leagueId>
+  <youthLeagueId>162</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>200</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

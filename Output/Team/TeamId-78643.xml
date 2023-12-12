@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>78643</teamId>
+  <teamName>Poissy AC</teamName>
+  <owner>sephi78</owner>
+  <founded>2014-05-31T21:44:24+02:00</founded>
+  <youthFounded>2017-11-22T00:19:59+01:00</youthFounded>
+  <arenaId>48846</arenaId>
+  <arenaName>Sephi Stadium</arenaName>
+  <leagueId>78</leagueId>
+  <youthLeagueId>140</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>183</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>
