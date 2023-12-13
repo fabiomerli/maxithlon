@@ -197,22 +197,7 @@ def main():
         else:
             print("La folder input non esiste")
 
-        if os.path.exists(os.getcwd()+"/INPUT/Manifestazioni.csv"):
-            print("Il file Manifestazioni.csv Esiste")
-        else:
-            print("Il file Manifestazioni.csv NON Esiste")
-
-        if os.path.exists(os.getcwd()+"/Output/"):
-            print("la folder Output Esiste")
-        else:
-            print("La folder Output non esiste")
-
-        if os.path.exists(os.getcwd()+"/Output/Team/TeamId-10713.xml"):
-            print("Il file TeamId Esiste")
-        else:
-            print("Il file TeamId NON Esiste")
-
-        with open(os.getcwd()+"/INPUT/Manifestazioni.csv") as csvfile:
+        with open(os.getcwd()+"/Input/Manifestazioni.csv") as csvfile:
             reader = csv.reader(csvfile)
             today = datetime.today()
             for manifestazione in reader:
