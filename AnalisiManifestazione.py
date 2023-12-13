@@ -192,7 +192,7 @@ def main():
     if args.id is not None:
         COMPETITION_ID_LIST.append(str(args.id))
     else :
-        with open('./INPUT/Manifestazioni.csv') as csvfile:
+        with open(os.getcwd()+'/INPUT/Manifestazioni.csv') as csvfile:
             reader = csv.reader(csvfile)
             today = datetime.today()
             for manifestazione in reader:
