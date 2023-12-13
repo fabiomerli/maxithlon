@@ -32,6 +32,8 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Run application 
       run: |
+         echo $(ls)
+         echo $(ls ./Input)
          if [ ${{ vars.MAN_ID }} ]; then
           python AnalisiManifestazione.py -u ${{ vars.USERNAME }} -p ${{ secrets.PASSWORD }} -id ${{ vars.MAN_ID }}
          else
