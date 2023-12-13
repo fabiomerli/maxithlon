@@ -1,7 +1,9 @@
 import requests
 import xml.etree.ElementTree as ET
 import os
-import argparse, sys
+import argparse
+from datetime import datetime
+import csv
 
 ID_EVENTI_MAPPA = {}
 ID_EVENTI_MAPPA['1'] = '100 Metres'
@@ -44,6 +46,7 @@ PUNTEGGIO_MAPPA[8] = 1
 session = requests.Session()
 BASE_MAXITHLON_PATH = "https://www.maxithlon.com/maxi-xml/"
 TEAM_FOLDER = './Output/Team/'
+DATE_FORMAT = '%d-%m-%Y'
 
 def storeXmlToFile(fileName, content):
     with open(fileName, 'wb') as f: 
@@ -57,7 +60,6 @@ def storePunteggio(fileName):
             fp.write(row + "\n")
     
 def loadXmlManifestazione():
-    
     os.mkdir(FOLDER_NAME);
     COMPETITION_PATH = BASE_MAXITHLON_PATH+'competition.php?competitionid='+COMPETITION_ID
     print("Eseguo request per manifestazione: ", COMPETITION_PATH)
@@ -130,14 +132,41 @@ def calcolaPunteggio():
 def getFirstEle(team):
     return team[1]
     
-               
+def doManifestazione(id_manifestazione, analizzaSolo, downloadSolo,):
+    global COMPETITION_ID
+    global FOLDER_NAME
+    global PUNTEGGIO_TEAM_LIST
+
+    COMPETITION_ID = str(id_manifestazione)
+    FOLDER_NAME = './Output/'+ COMPETITION_ID+ '/'
+    PUNTEGGIO_TEAM_LIST = []
+    
+    if os.path.exists(FOLDER_NAME):
+        print("La manifestazione con id " + COMPETITION_ID + " è stata già analizzata")
+        return
+    else:
+        print("Analizzo la manifetsaiozne con id ", COMPETITION_ID)
+
+    if analizzaSolo != True:
+        loadXmlManifestazione();
+        downloadEventiFromManifestazione();
+    
+    if downloadSolo != True:
+        analizzaCompetizione()
+        #print(TEAM_MAP)
+        calcolaPunteggio()
+
+        PUNTEGGIO_TEAM_LIST.sort(key=getFirstEle, reverse=True)
+        print(PUNTEGGIO_TEAM_LIST)
+        storePunteggio(FOLDER_NAME+'punteggio.csv')
+
 def main():
 
     parser=argparse.ArgumentParser()
 
     parser.add_argument("-u", help="Username for xml login", required = True)
     parser.add_argument("-p", help="Password for xml login", required = True)
-    parser.add_argument("-id",help="Id della competizione", required = True)
+    parser.add_argument("-id",help="Id della competizione", required = False)
     parser.add_argument("-d", help="Solo Download degli xml della competizione", action='store_true', default = False)
     parser.add_argument("-a", help="Solo Analisi degli xml della competizione", action='store_true', default = False)
 
@@ -156,28 +185,29 @@ def main():
     print('Response login: ' + str(responseLogin.status_code))
     print('Response login: ' + str(responseLogin.content))
     
-    global COMPETITION_ID
-    global FOLDER_NAME
     global TEAM_MAP
-    global PUNTEGGIO_TEAM_LIST
-
-    COMPETITION_ID = str(args.id)
-    FOLDER_NAME = './Output/'+ str(COMPETITION_ID) + '/'
     TEAM_MAP = {}
-    PUNTEGGIO_TEAM_LIST = []
-    
-    if args.a != True:
-        loadXmlManifestazione();
-        downloadEventiFromManifestazione();
-    
-    if args.d != True:
-        analizzaCompetizione()
-        #print(TEAM_MAP)
-        calcolaPunteggio()
 
-        PUNTEGGIO_TEAM_LIST.sort(key=getFirstEle, reverse=True)
-        print(PUNTEGGIO_TEAM_LIST)
-        storePunteggio(FOLDER_NAME+'punteggio.csv')
+    COMPETITION_ID_LIST = []
+    if args.id is not None:
+        COMPETITION_ID_LIST.append(str(args.id))
+    else :
+        with open('./INPUT/Manifestazioni.csv') as csvfile:
+            reader = csv.reader(csvfile)
+            today = datetime.today()
+            for manifestazione in reader:
+                dataManifestazione = datetime.strptime(str(manifestazione[1]), DATE_FORMAT)
+                if today > dataManifestazione:
+                    COMPETITION_ID_LIST.append(str(manifestazione[0]))
+    
+    
+    if len(COMPETITION_ID_LIST)  == 0:
+        print("Nessuna manifestazione da analizzare")
+        exit(0)
+
+    for id_manifestazione in COMPETITION_ID_LIST:
+        doManifestazione(id_manifestazione, args.a, args.d)
+    exit(0);
       
 if __name__ == "__main__": 
   
