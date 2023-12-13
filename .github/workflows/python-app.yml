@@ -14,6 +14,9 @@ on:
 permissions:
   contents: write
 
+env:
+  env_man_id: ${{ vars.MAN_ID }}
+  
 jobs:
   build:
 
@@ -30,9 +33,13 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: Run application
+    - name: Run application 
       run: |
-        python AnalisiManifestazione.py -u ${{ vars.USERNAME }} -p ${{ secrets.PASSWORD }} -id ${{ vars.MAN_ID }}
+        if: ${{ env.env_text == '' }}
+          python AnalisiManifestazione.py -u ${{ vars.USERNAME }} -p ${{ secrets.PASSWORD }} -id ${{ vars.MAN_ID }}
+        else
+          python AnalisiManifestazione.py -u ${{ vars.USERNAME }} -p ${{ secrets.PASSWORD }}
+        
     - name: Commit back to GitHub
       run: |
           if [ -n "$(git status --porcelain)" ]; then
