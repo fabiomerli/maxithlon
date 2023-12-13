@@ -36,6 +36,7 @@ jobs:
           python AnalisiManifestazione.py -u ${{ vars.USERNAME }} -p ${{ secrets.PASSWORD }} -id ${{ vars.MAN_ID }}
          else
           python AnalisiManifestazione.py -u ${{ vars.USERNAME }} -p ${{ secrets.PASSWORD }}
+         fi
         
     - name: Commit back to GitHub
       run: |
