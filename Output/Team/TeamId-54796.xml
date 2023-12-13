@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>54796</teamId>
+  <teamName>GS Indomita</teamName>
+  <owner>calogero28</owner>
+  <founded>2011-04-30T14:45:05+02:00</founded>
+  <youthFounded>2018-04-10T13:12:06+02:00</youthFounded>
+  <arenaId>35412</arenaId>
+  <arenaName>Indomita</arenaName>
+  <leagueId>4</leagueId>
+  <youthLeagueId>116</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>5</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

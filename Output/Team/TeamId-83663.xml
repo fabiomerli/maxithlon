@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>83663</teamId>
+  <teamName>Porto</teamName>
+  <owner>Foster</owner>
+  <founded>2015-12-28T22:31:02+01:00</founded>
+  <youthFounded>2017-11-14T23:11:30+01:00</youthFounded>
+  <arenaId>51788</arenaId>
+  <arenaName>Coliseum</arenaName>
+  <leagueId>75</leagueId>
+  <youthLeagueId>162</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>194</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

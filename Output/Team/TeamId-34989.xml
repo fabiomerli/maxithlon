@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>34989</teamId>
+  <teamName>Apex Athletics</teamName>
+  <owner>Apex0</owner>
+  <founded>2009-10-25T22:05:02+01:00</founded>
+  <youthFounded>2017-11-13T22:59:27+01:00</youthFounded>
+  <arenaId>22589</arenaId>
+  <arenaName>Apex Arena</arenaName>
+  <leagueId>563</leagueId>
+  <youthLeagueId>180</youthLeagueId>
+  <nationId>16</nationId>
+  <regionId>219</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

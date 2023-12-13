@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>87721</teamId>
+  <teamName>Spartak-99</teamName>
+  <owner>denisl99</owner>
+  <founded>2018-01-01T08:52:10+01:00</founded>
+  <youthFounded>2018-01-01T14:45:01+01:00</youthFounded>
+  <arenaId>54269</arenaId>
+  <arenaName>Zaliv-Arena</arenaName>
+  <leagueId>563</leagueId>
+  <youthLeagueId>189</youthLeagueId>
+  <nationId>32</nationId>
+  <regionId>361</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

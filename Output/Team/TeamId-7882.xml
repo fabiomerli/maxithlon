@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>7882</teamId>
+  <teamName>Virtus Garibellini Siena</teamName>
+  <owner>Garibel</owner>
+  <founded>2007-10-15T17:44:17+02:00</founded>
+  <youthFounded>2019-04-01T14:09:33+02:00</youthFounded>
+  <arenaId>5461</arenaId>
+  <arenaName>Arena Trifolini</arenaName>
+  <leagueId>3</leagueId>
+  <youthLeagueId>116</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>13</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

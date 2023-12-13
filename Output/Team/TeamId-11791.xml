@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>11791</teamId>
+  <teamName>Mallen IF</teamName>
+  <owner>mallen</owner>
+  <founded>2008-03-10T10:54:04+01:00</founded>
+  <youthFounded>2017-11-16T07:49:44+01:00</youthFounded>
+  <arenaId>8066</arenaId>
+  <arenaName>Mallen IP</arenaName>
+  <leagueId>563</leagueId>
+  <youthLeagueId>182</youthLeagueId>
+  <nationId>3</nationId>
+  <regionId>68</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

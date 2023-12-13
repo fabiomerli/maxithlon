@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>65774</teamId>
+  <teamName>TJ Veľký Grob</teamName>
+  <owner>mpd</owner>
+  <founded>2012-08-09T19:12:40+02:00</founded>
+  <youthFounded>2017-11-12T21:09:25+01:00</youthFounded>
+  <arenaId>42171</arenaId>
+  <arenaName>Thunderdome</arenaName>
+  <leagueId>565</leagueId>
+  <youthLeagueId>184</youthLeagueId>
+  <nationId>22</nationId>
+  <regionId>254</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

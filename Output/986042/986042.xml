@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <name>Champions Cup</name>
+  <type>13</type>
+  <season>93</season>
+  <date>2023-11-08T14:00:00+01:00</date>
+  <arenaId>35319</arenaId>
+  <nationId>4</nationId>
+  <regionId>88</regionId>
+  <standings>1</standings>
+  <attendance>40001</attendance>
+  <meteo>2</meteo>
+  <status>3</status>
+  <event id="39915525"/>
+  <event id="39915526"/>
+  <event id="39915527"/>
+  <event id="39915528"/>
+  <event id="39915529"/>
+  <event id="39915530"/>
+  <event id="39915531"/>
+  <event id="39915532"/>
+  <event id="39915533"/>
+  <event id="39915534"/>
+  <event id="39915535"/>
+  <event id="39915536"/>
+  <event id="39915537"/>
+  <event id="39915538"/>
+  <event id="39915539"/>
+  <event id="39915540"/>
+  <event id="39915541"/>
+  <event id="39915542"/>
+  <event id="39915543"/>
+  <event id="39915544"/>
+  <event id="39915545"/>
+  <event id="39915546"/>
+  <event id="39915547"/>
+  <event id="39915548"/>
+  <event id="39915549"/>
+  <event id="39915550"/>
+  <event id="39915551"/>
+  <event id="39915552"/>
+  <event id="39915553"/>
+  <event id="39915554"/>
+  <event id="39915555"/>
+  <event id="39915556"/>
+  <event id="39915557"/>
+  <event id="39915558"/>
+  <event id="39915559"/>
+  <event id="39915560"/>
+  <event id="39915561"/>
+  <event id="39915562"/>
+  <event id="39915563"/>
+  <event id="39915564"/>
+  <event id="39915565"/>
+  <event id="39915566"/>
+  <event id="39915567"/>
+  <event id="39915568"/>
+  <event id="39915569"/>
+  <event id="39915570"/>
+  <event id="39915571"/>
+  <event id="39915572"/>
+  <event id="39915573"/>
+  <event id="39915574"/>
+  <event id="39915575"/>
+  <event id="39915576"/>
+  <event id="39915577"/>
+  <event id="39915578"/>
+  <event id="39915579"/>
+  <event id="39915580"/>
+  <event id="39915581"/>
+  <event id="39915582"/>
+  <event id="39915583"/>
+  <event id="39915584"/>
+  <event id="39915585"/>
+  <event id="39915586"/>
+  <event id="39915587"/>
+  <event id="39915588"/>
+  <event id="39915589"/>
+  <event id="39915590"/>
+  <event id="39915591"/>
+  <event id="39915592"/>
+  <event id="39915593"/>
+  <event id="39915594"/>
+  <event id="39915595"/>
+  <event id="39915596"/>
+  <event id="39915597"/>
+  <event id="39915598"/>
+  <event id="39915599"/>
+  <event id="39915600"/>
+  <event id="39915601"/>
+  <event id="39915602"/>
+  <event id="39915603"/>
+</maxi-xml>

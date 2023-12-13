@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>31337</teamId>
+  <teamName>Artica</teamName>
+  <owner>nightmorphis</owner>
+  <founded>2009-08-17T17:24:08+02:00</founded>
+  <youthFounded>2017-11-12T13:32:30+01:00</youthFounded>
+  <arenaId>20302</arenaId>
+  <arenaName>Francesco V</arenaName>
+  <leagueId>2</leagueId>
+  <youthLeagueId>115</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>19</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

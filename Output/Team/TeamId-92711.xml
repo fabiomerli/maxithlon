@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92711</teamId>
+  <teamName>Atletica Lussi</teamName>
+  <owner>paolino62</owner>
+  <founded>2022-03-11T02:34:07+01:00</founded>
+  <youthFounded>2022-03-15T00:30:28+01:00</youthFounded>
+  <arenaId>57484</arenaId>
+  <arenaName>Kanalon Arena</arenaName>
+  <leagueId>7</leagueId>
+  <youthLeagueId>119</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>7</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

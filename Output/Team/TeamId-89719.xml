@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>89719</teamId>
+  <teamName>Polisportiva Casarosa</teamName>
+  <owner>casarosa</owner>
+  <founded>2019-08-13T12:13:50+02:00</founded>
+  <youthFounded>2019-08-13T17:58:03+02:00</youthFounded>
+  <arenaId>55534</arenaId>
+  <arenaName>Fornacette Stadium</arenaName>
+  <leagueId>2</leagueId>
+  <youthLeagueId>114</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>13</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

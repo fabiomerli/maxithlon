@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>21235</teamId>
+  <teamName>Atletiekmasters</teamName>
+  <owner>guyvandamme</owner>
+  <founded>2008-10-27T15:23:05+01:00</founded>
+  <youthFounded>2017-11-12T00:39:36+01:00</youthFounded>
+  <arenaId>13963</arenaId>
+  <arenaName>Atletiekmasters</arenaName>
+  <leagueId>33</leagueId>
+  <youthLeagueId>155</youthLeagueId>
+  <nationId>6</nationId>
+  <regionId>93</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>
