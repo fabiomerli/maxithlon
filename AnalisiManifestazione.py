@@ -5,59 +5,12 @@ import argparse
 from datetime import datetime
 import csv
 
-ID_EVENTI_MAPPA = {}
-ID_EVENTI_MAPPA['1'] = '100 Metres'
-ID_EVENTI_MAPPA['4'] = '200 Metres'
-ID_EVENTI_MAPPA['6'] = '400 Metres'
-ID_EVENTI_MAPPA['8'] = '800 Metres'
-ID_EVENTI_MAPPA['11'] = '1500 Metres'
-ID_EVENTI_MAPPA['14'] = '5000 Metres'
-ID_EVENTI_MAPPA['15'] = '10000 Metres'
-ID_EVENTI_MAPPA['19'] = '3000 Steeplechase'
-ID_EVENTI_MAPPA['23'] = '110 Hurdles'
-ID_EVENTI_MAPPA['25'] = '400 Hurdles'
-ID_EVENTI_MAPPA['26'] = 'High Jump'
-ID_EVENTI_MAPPA['27'] = 'Pole Vault'
-ID_EVENTI_MAPPA['28'] = 'Long Jump'
-ID_EVENTI_MAPPA['29'] = 'Triple Jump'
-ID_EVENTI_MAPPA['31'] = 'Shot Put'
-ID_EVENTI_MAPPA['32'] = 'Discus Throw'
-ID_EVENTI_MAPPA['33'] = 'Hammer Throw'
-ID_EVENTI_MAPPA['34'] = 'Javelin Throw'
-ID_EVENTI_MAPPA['46'] = '10Km Race Walk'
-ID_EVENTI_MAPPA['47'] = '20Km Race Walk'
-ID_EVENTI_MAPPA['53'] = 'Marathon'
-ID_EVENTI_MAPPA['72'] = '50Km Race Walk'
-ID_EVENTI_MAPPA['80'] = 'Relay 4x100'
-ID_EVENTI_MAPPA['90'] = 'Relay 4x400'
-ID_EVENTI_MAPPA['120'] = 'Heptathlon'
-ID_EVENTI_MAPPA['130'] = 'Decathlon'
-
-PUNTEGGIO_MAPPA = {}
-PUNTEGGIO_MAPPA[1] = 8 # 1 posizione, 8 punti
-PUNTEGGIO_MAPPA[2] = 7 # 2 posizione, 7 punti
-PUNTEGGIO_MAPPA[3] = 6
-PUNTEGGIO_MAPPA[4] = 5
-PUNTEGGIO_MAPPA[5] = 4
-PUNTEGGIO_MAPPA[6] = 3
-PUNTEGGIO_MAPPA[7] = 2
-PUNTEGGIO_MAPPA[8] = 1
+from MaxithlonXmlHelper import *
 
 session = requests.Session()
 BASE_MAXITHLON_PATH = "https://www.maxithlon.com/maxi-xml/"
 TEAM_FOLDER = './Output/Team/'
 DATE_FORMAT = '%d-%m-%Y'
-
-def storeXmlToFile(fileName, content):
-    with open(fileName, 'wb') as f: 
-            f.write(content)
-            
-def storePunteggio(fileName):
-    # open file in write mode
-    with open(fileName, 'w', encoding="utf-8") as fp:
-        for item in PUNTEGGIO_TEAM_LIST:
-            row = str(item[0]) + ";" + str(item[1])
-            fp.write(row + "\n")
     
 def loadXmlManifestazione():
     os.mkdir(FOLDER_NAME);
@@ -69,7 +22,6 @@ def loadXmlManifestazione():
 
 def downloadEventiFromManifestazione():
     root = ET.parse(FOLDER_NAME + COMPETITION_ID+'.xml').getroot()
-  
     print("downloadEventiFromManifestazione")
     for eventTag in root.findall('event'):
         eventId = eventTag.attrib['id']
@@ -79,15 +31,29 @@ def downloadEventiFromManifestazione():
         
         storeXmlToFile(FOLDER_NAME + 'Event-'+eventId+'.xml', responseEvent.content)
 
+#PEr ogni evento mi creo una mappa con tutte le posizioni a "punteggio" per poi calcolare il punteggio dopo
 def analizzoEvento(rootXml):
     for atleta in rootXml.findall('./heat/athlete'):
         placingAtleta = int(str(atleta.find('placing').text))
-        if(placingAtleta <= 8 and placingAtleta >= 1):
+        #if atleta.find('teamId').text == "91120":
+        #    print("placingAtleta " + str(placingAtleta))
+
+        if placingAtleta >= 1:
             team = atleta.find('teamId').text
             if team in TEAM_MAP.keys():
                 TEAM_MAP.get(team).append(placingAtleta)
             else:
                 TEAM_MAP[team] = [placingAtleta]
+
+    #Se la gara è una staffetta
+    for relay in rootXml.findall('./heat/relay'):
+        placingRelay = int(str(relay.find('placing').text))
+        if placingRelay >= 1:
+            team = relay.find('teamId').text
+            if team in TEAM_MAP.keys():
+                TEAM_MAP.get(team).append(placingRelay)
+            else:
+                TEAM_MAP[team] = [placingRelay]
 
 def analizzaCompetizione():
     print("Inizio a scaricare gli eventi associati alla manifestazione")
@@ -98,15 +64,30 @@ def analizzaCompetizione():
                 root = tree.getroot()
                 typeId = root.find('typeId').text
                 if str(typeId) in ID_EVENTI_MAPPA.keys():
-                    #print('Analizzo ' + entry.name + ' - ' + str(ID_EVENTI_MAPPA.get(str(typeId))))
+                    print('Analizzo ' + entry.name + ' - ' + str(ID_EVENTI_MAPPA.get(str(typeId))))
                     analizzoEvento(root)
-    print("Fine download eventi")
+                #else:
+                #    print('Scarto ' + entry.name + ' - ' + str(ID_EVENTI_MAPPA.get(str(typeId))))
+    print("Fine download eventi - Inizio calcolo punteggio/Premi")
+    print(TEAM_MAP)
+    calcolaPunteggio()
+    print("Fine calcolo punteggio/Premi")
 
 def loadTeam(teamId, teamFilePath):
     responseEvent = session.get(BASE_MAXITHLON_PATH+ 'team.php?teamid='+teamId)
     storeXmlToFile(teamFilePath, responseEvent.content)
-        
+
+def checkIfisITANatInd():
+    rootXml = ET.parse(FOLDER_NAME + COMPETITION_ID+'.xml').getroot()
+    type = rootXml.find('./type').text
+    nationId = rootXml.find('./nationId').text
+    return type == "8" and nationId == "1"
+    
 def calcolaPunteggio():
+    isCalcolaPrice = checkIfisITANatInd()
+    
+    if isCalcolaPrice:
+        PREMIO_MAPPA = doLoadPremiIndividualiNazItalia()
     for teamId in TEAM_MAP:
         teamFilePath = TEAM_FOLDER + 'TeamId-' + teamId + '.xml'
         #print('Analizzo il team ' + teamId + ', cerco il file ' +teamFilePath)
@@ -122,43 +103,61 @@ def calcolaPunteggio():
         teamName = ET.parse(teamFilePath).getroot().find('teamName').text
 
         punteggioTeam = 0
+        premioTeam = 0
+        if teamId == "91120":
+                print("Pos da analizzare " + str(len(TEAM_MAP.get(teamId))))
         for position in TEAM_MAP.get(teamId):
-            #print('Per la posizione ' + str(position) + ' abbiamo come punteggio ' + str(PUNTEGGIO_MAPPA.get(position)))
-            punteggioTeam = punteggioTeam + PUNTEGGIO_MAPPA.get(position)
-
+            if position in PUNTEGGIO_MAPPA.keys():
+                punteggioTeam = punteggioTeam + PUNTEGGIO_MAPPA.get(position)
+            if isCalcolaPrice and position in PREMIO_MAPPA.keys():
+                premioTeam = premioTeam + PREMIO_MAPPA.get(position)
+                if teamId == "91120":
+                    print("premio " +str(PREMIO_MAPPA.get(position)))
         #print('Team ' + teamName + ', punteggio ' + str(punteggioTeam))
-        PUNTEGGIO_TEAM_LIST.append((teamName, punteggioTeam));
+
+        if punteggioTeam > 0:
+            PUNTEGGIO_TEAM_LIST.append((teamName, punteggioTeam));
+        if premioTeam > 0:
+            PRIZE_TEAM_LIST.append((teamName, premioTeam))
         
 def getFirstEle(team):
     return team[1]
     
 def doManifestazione(id_manifestazione, analizzaSolo, downloadSolo,):
+    global TEAM_MAP
     global COMPETITION_ID
     global FOLDER_NAME
     global PUNTEGGIO_TEAM_LIST
-
+    global PRIZE_TEAM_LIST
+    
     COMPETITION_ID = str(id_manifestazione)
     FOLDER_NAME = './Output/'+ COMPETITION_ID+ '/'
     PUNTEGGIO_TEAM_LIST = []
+    PRIZE_TEAM_LIST = []
+    TEAM_MAP = {}
     
-    if os.path.exists(FOLDER_NAME):
-        print("La manifestazione con id " + COMPETITION_ID + " è stata già analizzata")
-        return
-    else:
-        print("Analizzo la manifetsaiozne con id ", COMPETITION_ID)
 
     if analizzaSolo != True:
-        loadXmlManifestazione();
-        downloadEventiFromManifestazione();
+        if os.path.exists(FOLDER_NAME):
+            print("La manifestazione con id " + COMPETITION_ID + " è stata già analizzata")
+            return
+        else:
+            print("Analizzo la manifestazione con id ", COMPETITION_ID)
+            loadXmlManifestazione();
+            downloadEventiFromManifestazione();
     
     if downloadSolo != True:
         analizzaCompetizione()
-        #print(TEAM_MAP)
-        calcolaPunteggio()
-
         PUNTEGGIO_TEAM_LIST.sort(key=getFirstEle, reverse=True)
-        print(PUNTEGGIO_TEAM_LIST)
-        storePunteggio(FOLDER_NAME+'punteggio.csv')
+        print("PUNTEGGIO_TEAM_LIST: \n", PUNTEGGIO_TEAM_LIST)
+        storeFinalResult(FOLDER_NAME+'punteggio.csv', PUNTEGGIO_TEAM_LIST)
+
+        if len(PRIZE_TEAM_LIST) > 0:
+            PRIZE_TEAM_LIST.sort(key=getFirstEle, reverse=True)
+            print("PRIZE_TEAM_LIST:\n",PRIZE_TEAM_LIST)
+            storeFinalResult(FOLDER_NAME+'premio.csv',PRIZE_TEAM_LIST)
+
+
 
 def main():
 
@@ -185,18 +184,16 @@ def main():
     print('Response login: ' + str(responseLogin.status_code))
     print('Response login: ' + str(responseLogin.content))
     
-    global TEAM_MAP
-    TEAM_MAP = {}
+    global ID_EVENTI_MAPPA
+    global PUNTEGGIO_MAPPA
+    
+    ID_EVENTI_MAPPA = doLoadMappaIdEventi()
+    PUNTEGGIO_MAPPA = doLoadMappaPunteggio()
 
     COMPETITION_ID_LIST = []
     if args.id is not None:
         COMPETITION_ID_LIST.append(str(args.id))
     else :
-        if os.path.exists(os.getcwd()+"/INPUT/"):
-            print("la folder input Esiste")
-        else:
-            print("La folder input non esiste")
-
         with open(os.getcwd()+"/Input/Manifestazioni.csv") as csvfile:
             reader = csv.reader(csvfile)
             today = datetime.today()

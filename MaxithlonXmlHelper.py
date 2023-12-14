@@ -1,0 +1,41 @@
+import os
+import csv
+
+def storeFinalResult(fileName, list):
+    # open file in write mode
+    with open(fileName, 'w', encoding="utf-8") as fp:
+        for item in list:
+            row = str(item[0]) + ";" + str(item[1])
+            fp.write(row + "\n")
+
+def doLoadMappaIdEventi():
+    ID_EVENTI_MAPPA = {}
+    with open(os.getcwd()+"/Input/EventiID.csv") as csvfile:
+        reader = csv.reader(csvfile)
+        for evento in reader:
+            ID_EVENTI_MAPPA[evento[0]]=evento[1]
+    return ID_EVENTI_MAPPA
+
+def doLoadMappaPunteggio():
+    PUNTEGGIO_MAPPA = {}
+    with open(os.getcwd()+"/Input/Punteggio.csv") as csvfile:
+        reader = csv.reader(csvfile)
+        position = 1
+        for punteggio in reader:
+            PUNTEGGIO_MAPPA[position]=int(punteggio[0])
+            position=position+1
+    return PUNTEGGIO_MAPPA
+
+def doLoadPremiIndividualiNazItalia():
+    PREMIO_MAPPA = {}
+    with open(os.getcwd()+"/Input/PremiIndNazItalia.csv") as csvfile:
+        reader = csv.reader(csvfile)
+        position = 1
+        for punteggio in reader:
+            PREMIO_MAPPA[position]=int(punteggio[0])
+            position=position+1
+    return PREMIO_MAPPA
+
+def storeXmlToFile(fileName, content):
+    with open(fileName, 'wb') as f: 
+            f.write(content)
