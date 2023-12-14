@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>84513</teamId>
+  <teamName>ErCobra's Athletics Team</teamName>
+  <owner>ErCobra</owner>
+  <founded>2016-06-22T17:31:39+02:00</founded>
+  <youthFounded>2017-11-14T08:50:24+01:00</youthFounded>
+  <arenaId>52343</arenaId>
+  <arenaName>Cobra's Nest</arenaName>
+  <leagueId>6</leagueId>
+  <youthLeagueId>114</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>17</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>58692</teamId>
+  <teamName>Voltrese</teamName>
+  <owner>DrGattoz</owner>
+  <founded>2011-09-27T12:00:57+02:00</founded>
+  <youthFounded>2023-01-31T00:30:33+01:00</youthFounded>
+  <arenaId>38086</arenaId>
+  <arenaName>Athletics Coliseum</arenaName>
+  <leagueId>9</leagueId>
+  <youthLeagueId>120</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>9</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

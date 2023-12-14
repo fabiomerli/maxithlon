@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>83803</teamId>
+  <teamName>Sin Prisa</teamName>
+  <owner>arman77</owner>
+  <founded>2016-01-29T21:42:34+01:00</founded>
+  <youthFounded>2022-01-05T00:30:28+01:00</youthFounded>
+  <arenaId>51874</arenaId>
+  <arenaName>Campetto Paradiso</arenaName>
+  <leagueId>3</leagueId>
+  <youthLeagueId>119</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>18</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

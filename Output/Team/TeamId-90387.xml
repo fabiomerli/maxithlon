@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90387</teamId>
+  <teamName>Atletica Gradoli</teamName>
+  <owner>Pavelo88</owner>
+  <founded>2020-03-12T14:29:20+01:00</founded>
+  <youthFounded>2020-03-12T20:46:50+01:00</youthFounded>
+  <arenaId>55951</arenaId>
+  <arenaName>Epa Arena</arenaName>
+  <leagueId>2</leagueId>
+  <youthLeagueId>114</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>17</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

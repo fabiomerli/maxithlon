@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91919</teamId>
+  <teamName>Tornado Team</teamName>
+  <owner>Tiger</owner>
+  <founded>2021-06-15T16:01:22+02:00</founded>
+  <youthFounded>2021-06-18T14:47:21+02:00</youthFounded>
+  <arenaId>56961</arenaId>
+  <arenaName>Delle Alpi</arenaName>
+  <leagueId>15</leagueId>
+  <youthLeagueId>116</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>15</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

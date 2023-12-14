@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90476</teamId>
+  <teamName>g.s. Artiglio Athletics</teamName>
+  <owner>Mally1972</owner>
+  <founded>2020-04-01T20:00:46+02:00</founded>
+  <youthFounded>2020-04-02T14:16:04+02:00</youthFounded>
+  <arenaId>56009</arenaId>
+  <arenaName>S. Caterina Arena</arenaName>
+  <leagueId>5</leagueId>
+  <youthLeagueId>117</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>19</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

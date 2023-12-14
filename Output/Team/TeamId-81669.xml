@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>81669</teamId>
+  <teamName>Atletica Borgo</teamName>
+  <owner>mainblack</owner>
+  <founded>2015-03-23T18:59:44+01:00</founded>
+  <youthFounded>2017-11-22T10:10:34+01:00</youthFounded>
+  <arenaId>50555</arenaId>
+  <arenaName>Allianz Arenina</arenaName>
+  <leagueId>6</leagueId>
+  <youthLeagueId>114</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>20</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>84212</teamId>
+  <teamName>Atletica Fagionegliese</teamName>
+  <owner>Dani96</owner>
+  <founded>2016-04-14T14:24:28+02:00</founded>
+  <youthFounded>2017-12-13T12:14:03+01:00</youthFounded>
+  <arenaId>52142</arenaId>
+  <arenaName>Campo Lagorio</arenaName>
+  <leagueId>13</leagueId>
+  <youthLeagueId>114</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>9</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

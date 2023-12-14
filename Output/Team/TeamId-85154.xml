@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>85154</teamId>
+  <teamName>TURIN</teamName>
+  <owner>fabriben</owner>
+  <founded>2016-08-25T12:20:47+02:00</founded>
+  <youthFounded>2017-11-12T11:33:10+01:00</youthFounded>
+  <arenaId>52751</arenaId>
+  <arenaName>Parco Ruffini</arenaName>
+  <leagueId>3</leagueId>
+  <youthLeagueId>115</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>14</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

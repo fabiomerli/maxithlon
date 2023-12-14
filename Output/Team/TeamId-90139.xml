@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90139</teamId>
+  <teamName>Scussaseatletica</teamName>
+  <owner>Manicolercio</owner>
+  <founded>2019-12-22T18:17:02+01:00</founded>
+  <youthFounded>2019-12-23T00:45:19+01:00</youthFounded>
+  <arenaId>55786</arenaId>
+  <arenaName>Tomato Stadium</arenaName>
+  <leagueId>7</leagueId>
+  <youthLeagueId>118</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>9</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

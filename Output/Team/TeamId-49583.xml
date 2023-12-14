@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>49583</teamId>
+  <teamName>RomaLanciani</teamName>
+  <owner>giusecm</owner>
+  <founded>2010-10-23T07:50:10+02:00</founded>
+  <youthFounded>2017-12-07T16:57:49+01:00</youthFounded>
+  <arenaId>32243</arenaId>
+  <arenaName>lapis arena</arenaName>
+  <leagueId>6</leagueId>
+  <youthLeagueId>125</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>17</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>16799</teamId>
+  <teamName>Fortitudo Vercelli</teamName>
+  <owner>teresita</owner>
+  <founded>2008-07-26T08:01:56+02:00</founded>
+  <youthFounded>2017-12-08T15:36:03+01:00</youthFounded>
+  <arenaId>11187</arenaId>
+  <arenaName>Stadio Sesia</arenaName>
+  <leagueId>6</leagueId>
+  <youthLeagueId>113</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>14</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

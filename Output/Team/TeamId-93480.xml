@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93480</teamId>
+  <teamName>Pro Sesto II</teamName>
+  <owner>lexir25</owner>
+  <founded>2023-03-21T10:03:18+01:00</founded>
+  <youthFounded>2023-03-29T00:30:33+02:00</youthFounded>
+  <arenaId>57957</arenaId>
+  <arenaName>Cereda</arenaName>
+  <leagueId>11</leagueId>
+  <youthLeagueId>116</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

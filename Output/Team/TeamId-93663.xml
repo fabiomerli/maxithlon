@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93663</teamId>
+  <teamName>Team Adriatico</teamName>
+  <owner>Gigiotto26</owner>
+  <founded>2023-06-26T01:18:13+02:00</founded>
+  <youthFounded>2023-06-27T00:30:36+02:00</youthFounded>
+  <arenaId>58063</arenaId>
+  <arenaName>PicenArena</arenaName>
+  <leagueId>13</leagueId>
+  <youthLeagueId>119</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>1</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

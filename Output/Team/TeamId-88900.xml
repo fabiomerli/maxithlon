@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>88900</teamId>
+  <teamName>S.A.S</teamName>
+  <owner>ago22</owner>
+  <founded>2018-11-10T23:21:04+01:00</founded>
+  <youthFounded>2018-11-11T00:06:57+01:00</youthFounded>
+  <arenaId>55065</arenaId>
+  <arenaName>Arena S</arenaName>
+  <leagueId>7</leagueId>
+  <youthLeagueId>116</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>9</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

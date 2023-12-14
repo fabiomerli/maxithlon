@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>1259</teamId>
+  <teamName>CUS TORINO</teamName>
+  <owner>steone88</owner>
+  <founded>2006-09-01T16:47:29+02:00</founded>
+  <youthFounded>2017-11-14T00:58:45+01:00</youthFounded>
+  <arenaId>1010</arenaId>
+  <arenaName>Panetti</arenaName>
+  <leagueId>2</leagueId>
+  <youthLeagueId>116</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>14</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

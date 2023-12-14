@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>74572</teamId>
+  <teamName>Napoli</teamName>
+  <owner>manuel</owner>
+  <founded>2013-08-13T19:52:43+02:00</founded>
+  <youthFounded>2017-11-12T23:35:08+01:00</youthFounded>
+  <arenaId>46655</arenaId>
+  <arenaName>Cindolo</arenaName>
+  <leagueId>2</leagueId>
+  <youthLeagueId>113</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>18</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

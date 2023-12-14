@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93349</teamId>
+  <teamName>Dolomiti Indomite</teamName>
+  <owner>shohoku team</owner>
+  <founded>2023-01-10T13:04:44+01:00</founded>
+  <youthFounded>2023-01-11T00:30:33+01:00</youthFounded>
+  <arenaId>57878</arenaId>
+  <arenaName>Great Cold Arena</arenaName>
+  <leagueId>15</leagueId>
+  <youthLeagueId>117</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>8</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

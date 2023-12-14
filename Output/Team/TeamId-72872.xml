@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>72872</teamId>
+  <teamName>San Benedetto dei Marsi</teamName>
+  <owner>Rock2000 </owner>
+  <founded>2013-05-13T20:34:59+02:00</founded>
+  <youthFounded>2017-11-14T09:23:05+01:00</youthFounded>
+  <arenaId>45712</arenaId>
+  <arenaName>Helmut Sensale</arenaName>
+  <leagueId>3</leagueId>
+  <youthLeagueId>118</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>80606</teamId>
+  <teamName>The Coach Team</teamName>
+  <owner>the coach</owner>
+  <founded>2015-01-05T23:33:51+01:00</founded>
+  <youthFounded>2021-09-13T00:30:29+02:00</youthFounded>
+  <arenaId>50030</arenaId>
+  <arenaName>Parco Capello</arenaName>
+  <leagueId>5</leagueId>
+  <youthLeagueId>119</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

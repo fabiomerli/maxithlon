@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>1759</teamId>
+  <teamName>Atletica Certosa</teamName>
+  <owner>beppebello</owner>
+  <founded>2006-11-21T17:56:25+01:00</founded>
+  <youthFounded>2017-11-18T23:46:10+01:00</youthFounded>
+  <arenaId>1364</arenaId>
+  <arenaName>Giuseppe Gentile</arenaName>
+  <leagueId>8</leagueId>
+  <youthLeagueId>115</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>9</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

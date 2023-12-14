@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>83163</teamId>
+  <teamName>Boston Bandits</teamName>
+  <owner>nsykes42</owner>
+  <founded>2015-09-23T20:50:46+02:00</founded>
+  <youthFounded>2022-02-27T00:30:25+01:00</youthFounded>
+  <arenaId>51487</arenaId>
+  <arenaName>Kenmore Park</arenaName>
+  <leagueId>176</leagueId>
+  <youthLeagueId>175</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>234</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

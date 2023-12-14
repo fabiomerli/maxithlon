@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>2665</teamId>
+  <teamName>Mikele</teamName>
+  <owner>mikele</owner>
+  <founded>2007-04-05T15:30:01+02:00</founded>
+  <youthFounded>2017-11-30T01:11:52+01:00</youthFounded>
+  <arenaId>2025</arenaId>
+  <arenaName>Alain Prostata Stadium</arenaName>
+  <leagueId>8</leagueId>
+  <youthLeagueId>113</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>9</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>527</teamId>
+  <teamName>Gold Fires Athletics Team</teamName>
+  <owner>Alexius</owner>
+  <founded>2006-05-19T15:14:50+02:00</founded>
+  <youthFounded>2017-11-12T11:27:21+01:00</youthFounded>
+  <arenaId>447</arenaId>
+  <arenaName>Bizantinum</arenaName>
+  <leagueId>12</leagueId>
+  <youthLeagueId>119</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>8</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

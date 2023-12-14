@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>58067</teamId>
+  <teamName>Atletica Basilichese</teamName>
+  <owner>raulgb</owner>
+  <founded>2011-09-01T14:48:14+02:00</founded>
+  <youthFounded>2018-01-01T09:37:46+01:00</youthFounded>
+  <arenaId>37639</arenaId>
+  <arenaName>San Vincenzo Park</arenaName>
+  <leagueId>3</leagueId>
+  <youthLeagueId>126</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

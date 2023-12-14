@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93179</teamId>
+  <teamName>Atletica Rinella</teamName>
+  <owner>specila</owner>
+  <founded>2022-10-10T07:02:16+02:00</founded>
+  <youthFounded>2022-10-13T00:30:31+02:00</youthFounded>
+  <arenaId>57779</arenaId>
+  <arenaName>Spiaggetta</arenaName>
+  <leagueId>4</leagueId>
+  <youthLeagueId>117</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>5</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

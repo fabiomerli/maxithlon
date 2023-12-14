@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>89865</teamId>
+  <teamName>Atletic Ovni</teamName>
+  <owner>France1965</owner>
+  <founded>2019-10-02T23:48:25+02:00</founded>
+  <youthFounded>2023-09-11T00:30:40+02:00</youthFounded>
+  <arenaId>55620</arenaId>
+  <arenaName>Ovni Park</arenaName>
+  <leagueId>8</leagueId>
+  <youthLeagueId>125</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90982</teamId>
+  <teamName>Scatoleria Val di Peppa</teamName>
+  <owner>Val di Peppa</owner>
+  <founded>2020-07-13T12:59:46+02:00</founded>
+  <youthFounded>2020-07-17T11:12:31+02:00</youthFounded>
+  <arenaId>56358</arenaId>
+  <arenaName>Lo Scatolone</arenaName>
+  <leagueId>5</leagueId>
+  <youthLeagueId>118</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>16</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

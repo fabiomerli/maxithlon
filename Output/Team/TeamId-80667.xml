@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>80667</teamId>
+  <teamName>MVB Rovereto</teamName>
+  <owner>Diablo87</owner>
+  <founded>2015-01-11T16:27:06+01:00</founded>
+  <youthFounded>2020-04-11T13:31:35+02:00</youthFounded>
+  <arenaId>50061</arenaId>
+  <arenaName>MVB Arena</arenaName>
+  <leagueId>3</leagueId>
+  <youthLeagueId>120</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>16</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

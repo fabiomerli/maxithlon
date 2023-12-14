@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>87638</teamId>
+  <teamName>Giulianone Roma</teamName>
+  <owner>massimino</owner>
+  <founded>2017-12-20T10:27:12+01:00</founded>
+  <youthFounded>2022-06-04T00:30:27+02:00</youthFounded>
+  <arenaId>54224</arenaId>
+  <arenaName>Fratellone</arenaName>
+  <leagueId>8</leagueId>
+  <youthLeagueId>127</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>17</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

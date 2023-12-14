@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91464</teamId>
+  <teamName>Atletica MagoPaolone</teamName>
+  <owner>agostino</owner>
+  <founded>2020-11-28T11:26:40+01:00</founded>
+  <youthFounded>2020-12-15T18:24:14+01:00</youthFounded>
+  <arenaId>56668</arenaId>
+  <arenaName>Reginella e Olimpia Arena</arenaName>
+  <leagueId>6</leagueId>
+  <youthLeagueId>121</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>2</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

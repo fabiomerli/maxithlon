@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>68726</teamId>
+  <teamName>Atletica Virtuosi Portici</teamName>
+  <owner>bladerunner</owner>
+  <founded>2012-11-08T18:35:25+01:00</founded>
+  <youthFounded>2017-11-12T08:42:44+01:00</youthFounded>
+  <arenaId>43735</arenaId>
+  <arenaName>La tana dell'oro</arenaName>
+  <leagueId>4</leagueId>
+  <youthLeagueId>116</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>18</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

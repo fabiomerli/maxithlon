@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>84483</teamId>
+  <teamName>Piovese</teamName>
+  <owner>Alien</owner>
+  <founded>2016-06-16T13:32:30+02:00</founded>
+  <youthFounded>2017-11-14T08:25:31+01:00</youthFounded>
+  <arenaId>52327</arenaId>
+  <arenaName>Stadio Saccisica</arenaName>
+  <leagueId>4</leagueId>
+  <youthLeagueId>118</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>8</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

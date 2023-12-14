@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93457</teamId>
+  <teamName>Catwalk</teamName>
+  <owner>saable</owner>
+  <founded>2023-03-08T14:26:21+01:00</founded>
+  <youthFounded>2023-03-10T00:30:32+01:00</youthFounded>
+  <arenaId>57949</arenaId>
+  <arenaName>Sara</arenaName>
+  <leagueId>10</leagueId>
+  <youthLeagueId>114</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>13</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

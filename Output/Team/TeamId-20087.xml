@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>20087</teamId>
+  <teamName>ATHENA Nike</teamName>
+  <owner>o.paradiso</owner>
+  <founded>2008-09-27T17:54:34+02:00</founded>
+  <youthFounded>2017-12-12T13:34:58+01:00</youthFounded>
+  <arenaId>13311</arenaId>
+  <arenaName>ATHENAION</arenaName>
+  <leagueId>3</leagueId>
+  <youthLeagueId>113</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>14</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

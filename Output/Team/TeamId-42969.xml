@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>42969</teamId>
+  <teamName>Atletica Rogenese</teamName>
+  <owner>Nikolaz</owner>
+  <founded>2010-05-06T22:21:36+02:00</founded>
+  <youthFounded>2017-12-27T18:22:36+01:00</youthFounded>
+  <arenaId>28048</arenaId>
+  <arenaName>Imperiale di Rogeno</arenaName>
+  <leagueId>4</leagueId>
+  <youthLeagueId>116</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>1</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

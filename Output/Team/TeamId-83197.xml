@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>83197</teamId>
+  <teamName>Athletics Professional Team</teamName>
+  <owner>micheleHJ</owner>
+  <founded>2015-09-30T16:37:45+02:00</founded>
+  <youthFounded>2022-06-21T00:30:27+02:00</youthFounded>
+  <arenaId>51510</arenaId>
+  <arenaName>Bergamo Stadium</arenaName>
+  <leagueId>6</leagueId>
+  <youthLeagueId>124</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

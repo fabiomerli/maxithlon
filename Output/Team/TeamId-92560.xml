@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92560</teamId>
+  <teamName>La Pantiera</teamName>
+  <owner>La Pantiera</owner>
+  <founded>2022-01-28T12:46:00+01:00</founded>
+  <youthFounded>2022-01-29T00:30:30+01:00</youthFounded>
+  <arenaId>57392</arenaId>
+  <arenaName>Pantiera Road</arenaName>
+  <leagueId>7</leagueId>
+  <youthLeagueId>114</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>16</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

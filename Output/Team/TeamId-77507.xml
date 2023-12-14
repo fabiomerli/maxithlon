@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>77507</teamId>
+  <teamName>Atletica Buscate</teamName>
+  <owner>valetips87</owner>
+  <founded>2014-02-09T17:34:36+01:00</founded>
+  <youthFounded>2023-03-07T00:30:31+01:00</youthFounded>
+  <arenaId>48188</arenaId>
+  <arenaName>Scuole medie ed elementari</arenaName>
+  <leagueId>5</leagueId>
+  <youthLeagueId>117</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

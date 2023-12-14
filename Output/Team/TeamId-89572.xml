@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>89572</teamId>
+  <teamName>Atletica Tre Colli Scicli</teamName>
+  <owner>gianfra1982</owner>
+  <founded>2019-06-25T04:59:47+02:00</founded>
+  <youthFounded>2023-06-09T00:30:35+02:00</youthFounded>
+  <arenaId>55455</arenaId>
+  <arenaName>Pippo Di Natale</arenaName>
+  <leagueId>6</leagueId>
+  <youthLeagueId>118</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>5</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

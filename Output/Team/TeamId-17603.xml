@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>17603</teamId>
+  <teamName>Atletica Petricci</teamName>
+  <owner>lovari </owner>
+  <founded>2008-08-14T09:28:26+02:00</founded>
+  <youthFounded>2017-12-18T22:40:13+01:00</youthFounded>
+  <arenaId>11644</arenaId>
+  <arenaName>Petricci Giardini</arenaName>
+  <leagueId>2</leagueId>
+  <youthLeagueId>125</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>13</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

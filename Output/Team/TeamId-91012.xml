@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91012</teamId>
+  <teamName>LessoPearà</teamName>
+  <owner>Lento_e_Scarso</owner>
+  <founded>2020-07-20T12:14:12+02:00</founded>
+  <youthFounded>2020-07-20T14:44:50+02:00</youthFounded>
+  <arenaId>56379</arenaId>
+  <arenaName>Vino A Colazione</arenaName>
+  <leagueId>10</leagueId>
+  <youthLeagueId>118</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>8</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

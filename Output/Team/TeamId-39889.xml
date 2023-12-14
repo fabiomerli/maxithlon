@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>39889</teamId>
+  <teamName>Atletica Alessandria</teamName>
+  <owner>blackened2021</owner>
+  <founded>2010-01-26T22:47:37+01:00</founded>
+  <youthFounded>2017-11-24T15:45:20+01:00</youthFounded>
+  <arenaId>25578</arenaId>
+  <arenaName>Giuseppe Moccacatta</arenaName>
+  <leagueId>14</leagueId>
+  <youthLeagueId>116</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>14</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <name>Campionati Individuali Nazionali Italia</name>
+  <type>8</type>
+  <season>93</season>
+  <date>2023-12-13T18:00:00+01:00</date>
+  <arenaId>34449</arenaId>
+  <nationId>1</nationId>
+  <regionId>19</regionId>
+  <standings>0</standings>
+  <attendance>29120</attendance>
+  <meteo>5</meteo>
+  <status>3</status>
+  <event id="39915604"/>
+  <event id="39915605"/>
+  <event id="39915606"/>
+  <event id="39915607"/>
+  <event id="39915608"/>
+  <event id="39915609"/>
+  <event id="39915610"/>
+  <event id="39915611"/>
+  <event id="39915612"/>
+  <event id="39915613"/>
+  <event id="39915614"/>
+  <event id="39915615"/>
+  <event id="39915616"/>
+  <event id="39915617"/>
+  <event id="39915618"/>
+  <event id="39915619"/>
+  <event id="39915620"/>
+  <event id="39915621"/>
+  <event id="39915622"/>
+  <event id="39915623"/>
+  <event id="39915624"/>
+  <event id="39915625"/>
+  <event id="39915626"/>
+  <event id="39915627"/>
+  <event id="39915628"/>
+  <event id="39915629"/>
+  <event id="39915630"/>
+  <event id="39915631"/>
+  <event id="39915632"/>
+  <event id="39915633"/>
+  <event id="39915634"/>
+  <event id="39915635"/>
+  <event id="39915636"/>
+  <event id="39915637"/>
+  <event id="39915638"/>
+  <event id="39915639"/>
+  <event id="39915640"/>
+  <event id="39915641"/>
+  <event id="39915642"/>
+  <event id="39915643"/>
+  <event id="39915644"/>
+  <event id="39915645"/>
+  <event id="39915646"/>
+  <event id="39915647"/>
+  <event id="39915648"/>
+  <event id="39915649"/>
+  <event id="39915650"/>
+  <event id="39915651"/>
+  <event id="39915652"/>
+  <event id="39915653"/>
+  <event id="39915654"/>
+  <event id="39915655"/>
+  <event id="39915656"/>
+  <event id="39915657"/>
+  <event id="39915658"/>
+  <event id="39915659"/>
+  <event id="39915660"/>
+  <event id="39915661"/>
+  <event id="39915662"/>
+  <event id="39915663"/>
+  <event id="39915664"/>
+  <event id="39915665"/>
+  <event id="39915666"/>
+  <event id="39915667"/>
+  <event id="39915668"/>
+  <event id="39915669"/>
+  <event id="39915670"/>
+  <event id="39915671"/>
+  <event id="39915672"/>
+  <event id="39915673"/>
+  <event id="39915674"/>
+  <event id="39915675"/>
+  <event id="39915676"/>
+  <event id="39915677"/>
+  <event id="39915678"/>
+  <event id="39915679"/>
+  <event id="39915680"/>
+  <event id="39915681"/>
+  <event id="39915682"/>
+</maxi-xml>

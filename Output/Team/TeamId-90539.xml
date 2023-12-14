@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90539</teamId>
+  <teamName>Monteverde Runners</teamName>
+  <owner>zerocinque</owner>
+  <founded>2020-04-14T12:32:32+02:00</founded>
+  <youthFounded>2020-04-14T16:41:58+02:00</youthFounded>
+  <arenaId>56061</arenaId>
+  <arenaName>Villa Pamphili Stadium</arenaName>
+  <leagueId>7</leagueId>
+  <youthLeagueId>113</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>17</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>
