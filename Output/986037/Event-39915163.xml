@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <id>39915163</id>
+  <typeId>31</typeId>
+  <sex>1</sex>
+  <date>2023-12-27T10:06:00+01:00</date>
+  <status>3</status>
+  <heat index="1">
+    <athlete index="1">
+      <id>5397530</id>
+      <teamId>88950</teamId>
+      <performance>9.31</performance>
+      <placing>3</placing>
+      <score>166</score>
+    </athlete>
+    <athlete index="2">
+      <id>5450199</id>
+      <teamId>91869</teamId>
+      <performance>4.90</performance>
+      <placing>8</placing>
+      <score>0</score>
+    </athlete>
+    <athlete index="3">
+      <id>5444843</id>
+      <teamId>92216</teamId>
+      <performance>6.32</performance>
+      <placing>7</placing>
+      <score>0</score>
+    </athlete>
+    <athlete index="4">
+      <id>5435509</id>
+      <teamId>93745</teamId>
+      <performance>7.78</performance>
+      <placing>4</placing>
+      <score>44</score>
+    </athlete>
+    <athlete index="5">
+      <id>5434378</id>
+      <teamId>94696</teamId>
+      <performance>4.18</performance>
+      <placing>9</placing>
+      <score>0</score>
+    </athlete>
+    <athlete index="6">
+      <id>5433124</id>
+      <teamId>70415</teamId>
+      <performance>9.64</performance>
+      <placing>2</placing>
+      <score>193</score>
+    </athlete>
+    <athlete index="7">
+      <id>5426699</id>
+      <teamId>13440</teamId>
+      <performance>10.13</performance>
+      <placing>1</placing>
+      <score>232</score>
+    </athlete>
+    <athlete index="8">
+      <id>5403971</id>
+      <teamId>92280</teamId>
+      <performance>7.39</performance>
+      <placing>5</placing>
+      <score>13</score>
+    </athlete>
+    <athlete index="9">
+      <id>5400603</id>
+      <teamId>90563</teamId>
+      <performance>6.83</performance>
+      <placing>6</placing>
+      <score>0</score>
+    </athlete>
+    <athlete index="10">
+      <id>5451867</id>
+      <teamId>91527</teamId>
+      <performance>0.00</performance>
+      <placing>0</placing>
+      <score>0</score>
+    </athlete>
+  </heat>
+</maxi-xml>

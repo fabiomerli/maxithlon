@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>88255</teamId>
+  <teamName>Polhistoria</teamName>
+  <owner>Polhistoria</owner>
+  <founded>2018-05-07T13:27:03+02:00</founded>
+  <youthFounded>2018-05-07T13:48:38+02:00</youthFounded>
+  <arenaId>54636</arenaId>
+  <arenaName>La Riojana</arenaName>
+  <leagueId>82</leagueId>
+  <youthLeagueId>129</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>115</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

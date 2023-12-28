@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <id>39915247</id>
+  <typeId>15</typeId>
+  <sex>0</sex>
+  <date>2023-12-27T21:16:00+01:00</date>
+  <status>3</status>
+  <heat index="1">
+    <athlete index="1">
+      <id>5419736</id>
+      <teamId>13440</teamId>
+      <performance>2391.34</performance>
+      <placing>3</placing>
+      <score>610</score>
+    </athlete>
+    <athlete index="2">
+      <id>5440177</id>
+      <teamId>94792</teamId>
+      <performance>2318.36</performance>
+      <placing>1</placing>
+      <score>691</score>
+    </athlete>
+    <athlete index="3">
+      <id>5370660</id>
+      <teamId>93323</teamId>
+      <performance>2478.35</performance>
+      <placing>8</placing>
+      <score>513</score>
+    </athlete>
+    <athlete index="4">
+      <id>5397411</id>
+      <teamId>19704</teamId>
+      <performance>2523.54</performance>
+      <placing>10</placing>
+      <score>462</score>
+    </athlete>
+    <athlete index="5">
+      <id>5358481</id>
+      <teamId>92795</teamId>
+      <performance>2514.66</performance>
+      <placing>9</placing>
+      <score>472</score>
+    </athlete>
+    <athlete index="6">
+      <id>5383947</id>
+      <teamId>91303</teamId>
+      <performance>2395.81</performance>
+      <placing>4</placing>
+      <score>605</score>
+    </athlete>
+    <athlete index="7">
+      <id>5395175</id>
+      <teamId>22863</teamId>
+      <performance>2334.64</performance>
+      <placing>2</placing>
+      <score>673</score>
+    </athlete>
+    <athlete index="8">
+      <id>5394453</id>
+      <teamId>17925</teamId>
+      <performance>2434.69</performance>
+      <placing>6</placing>
+      <score>561</score>
+    </athlete>
+    <athlete index="9">
+      <id>5409849</id>
+      <teamId>40779</teamId>
+      <performance>2409.19</performance>
+      <placing>5</placing>
+      <score>590</score>
+    </athlete>
+    <athlete index="10">
+      <id>5404951</id>
+      <teamId>85360</teamId>
+      <performance>2439.15</performance>
+      <placing>7</placing>
+      <score>556</score>
+    </athlete>
+  </heat>
+</maxi-xml>

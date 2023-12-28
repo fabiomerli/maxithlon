@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93323</teamId>
+  <teamName>Argentinos del Norte</teamName>
+  <owner>Seba1500</owner>
+  <founded>2022-12-27T16:04:10+01:00</founded>
+  <youthFounded>2022-12-29T00:30:35+01:00</youthFounded>
+  <arenaId>57862</arenaId>
+  <arenaName>Universitario</arenaName>
+  <leagueId>575</leagueId>
+  <youthLeagueId>154</youthLeagueId>
+  <nationId>15</nationId>
+  <regionId>213</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

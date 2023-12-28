@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>87593</teamId>
+  <teamName>Bolonusy Team</teamName>
+  <owner>arekwolniaczyk</owner>
+  <founded>2017-12-13T20:14:52+01:00</founded>
+  <youthFounded>2022-12-11T00:30:31+01:00</youthFounded>
+  <arenaId>54191</arenaId>
+  <arenaName>Bolonia Arena S.A.</arenaName>
+  <leagueId>193</leagueId>
+  <youthLeagueId>147</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>272</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

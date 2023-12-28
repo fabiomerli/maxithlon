@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>52507</teamId>
+  <teamName>Siara Team</teamName>
+  <owner>siara</owner>
+  <founded>2011-01-24T22:31:38+01:00</founded>
+  <youthFounded>2017-11-14T22:14:29+01:00</youthFounded>
+  <arenaId>34022</arenaId>
+  <arenaName>Siarzewski Stadium</arenaName>
+  <leagueId>194</leagueId>
+  <youthLeagueId>146</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>261</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

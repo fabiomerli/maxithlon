@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>70839</teamId>
+  <teamName>Bays Athletic</teamName>
+  <owner>JamieTorres</owner>
+  <founded>2013-02-06T23:50:05+01:00</founded>
+  <youthFounded>2018-01-23T23:09:26+01:00</youthFounded>
+  <arenaId>44741</arenaId>
+  <arenaName>Riverbay Athletic</arenaName>
+  <leagueId>565</leagueId>
+  <youthLeagueId>189</youthLeagueId>
+  <nationId>42</nationId>
+  <regionId>411</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

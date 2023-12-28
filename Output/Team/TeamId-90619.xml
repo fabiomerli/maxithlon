@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90619</teamId>
+  <teamName>Sportomar</teamName>
+  <owner>Malux</owner>
+  <founded>2020-05-02T21:13:47+02:00</founded>
+  <youthFounded>2020-05-03T04:17:54+02:00</youthFounded>
+  <arenaId>56114</arenaId>
+  <arenaName>Olimpo</arenaName>
+  <leagueId>75</leagueId>
+  <youthLeagueId>163</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>199</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

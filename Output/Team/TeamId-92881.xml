@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92881</teamId>
+  <teamName>LAV Rostock</teamName>
+  <owner>Bartanus13</owner>
+  <founded>2022-05-27T09:16:00+02:00</founded>
+  <youthFounded>2022-05-29T00:30:26+02:00</youthFounded>
+  <arenaId>57592</arenaId>
+  <arenaName>Marita-Koch-Stadion</arenaName>
+  <leagueId>40</leagueId>
+  <youthLeagueId>196</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>51</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

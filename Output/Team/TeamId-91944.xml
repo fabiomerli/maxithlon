@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91944</teamId>
+  <teamName>Titan Track Club</teamName>
+  <owner>ludyxc</owner>
+  <founded>2021-06-27T21:07:00+02:00</founded>
+  <youthFounded>2023-06-03T00:30:34+02:00</youthFounded>
+  <arenaId>56976</arenaId>
+  <arenaName>Invictus Stadium</arenaName>
+  <leagueId>175</leagueId>
+  <youthLeagueId>170</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>232</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

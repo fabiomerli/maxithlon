@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93698</teamId>
+  <teamName>Candas</teamName>
+  <owner>Candas</owner>
+  <founded>2023-07-13T08:54:32+02:00</founded>
+  <youthFounded>2023-07-14T00:30:34+02:00</youthFounded>
+  <arenaId>58085</arenaId>
+  <arenaName>Alcatraza Estadion</arenaName>
+  <leagueId>577</leagueId>
+  <youthLeagueId>172</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>152</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

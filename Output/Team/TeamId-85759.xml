@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>85759</teamId>
+  <teamName>Seacoast Cruisers</teamName>
+  <owner>rlawrence</owner>
+  <founded>2016-12-28T19:28:44+01:00</founded>
+  <youthFounded>2021-08-27T00:30:26+02:00</youthFounded>
+  <arenaId>53113</arenaId>
+  <arenaName>Bayside</arenaName>
+  <leagueId>142</leagueId>
+  <youthLeagueId>175</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>234</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

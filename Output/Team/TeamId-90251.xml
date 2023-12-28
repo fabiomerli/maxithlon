@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90251</teamId>
+  <teamName>TCHB</teamName>
+  <owner>tofD51</owner>
+  <founded>2020-01-25T20:28:23+01:00</founded>
+  <youthFounded>2020-01-29T13:41:39+01:00</youthFounded>
+  <arenaId>55857</arenaId>
+  <arenaName>arena stadium</arenaName>
+  <leagueId>112</leagueId>
+  <youthLeagueId>142</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>548</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

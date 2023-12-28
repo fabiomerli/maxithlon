@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93684</teamId>
+  <teamName>TUS Gold</teamName>
+  <owner>BGGamer</owner>
+  <founded>2023-07-07T08:59:43+02:00</founded>
+  <youthFounded>2023-07-08T00:31:34+02:00</youthFounded>
+  <arenaId>58074</arenaId>
+  <arenaName>SchwabenPark</arenaName>
+  <leagueId>69</leagueId>
+  <youthLeagueId>200</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>44</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>35965</teamId>
+  <teamName>Team Gecko</teamName>
+  <owner>kira</owner>
+  <founded>2009-11-21T15:44:23+01:00</founded>
+  <youthFounded>2017-11-17T18:44:34+01:00</youthFounded>
+  <arenaId>23154</arenaId>
+  <arenaName>Aspen Park Arena</arenaName>
+  <leagueId>565</leagueId>
+  <youthLeagueId>173</youthLeagueId>
+  <nationId>19</nationId>
+  <regionId>245</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>48273</teamId>
+  <teamName>L'etoile</teamName>
+  <owner>karli</owner>
+  <founded>2010-09-16T19:31:14+02:00</founded>
+  <youthFounded>2017-11-13T21:23:48+01:00</youthFounded>
+  <arenaId>31495</arenaId>
+  <arenaName>La piste aux etoiles</arenaName>
+  <leagueId>78</leagueId>
+  <youthLeagueId>142</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>549</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

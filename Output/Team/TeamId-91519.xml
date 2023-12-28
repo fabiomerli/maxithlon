@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91519</teamId>
+  <teamName>Odessa</teamName>
+  <owner>minigunner</owner>
+  <founded>2020-12-18T15:48:21+01:00</founded>
+  <youthFounded>2020-12-23T13:03:21+01:00</youthFounded>
+  <arenaId>56697</arenaId>
+  <arenaName>Odessa</arenaName>
+  <leagueId>564</leagueId>
+  <youthLeagueId>189</youthLeagueId>
+  <nationId>42</nationId>
+  <regionId>419</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

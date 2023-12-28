@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91697</teamId>
+  <teamName>Atletica sport Legnaro</teamName>
+  <owner>superodino</owner>
+  <founded>2021-03-14T23:27:22+01:00</founded>
+  <youthFounded>2021-03-27T15:54:42+01:00</youthFounded>
+  <arenaId>56817</arenaId>
+  <arenaName>Al bussolotto</arenaName>
+  <leagueId>6</leagueId>
+  <youthLeagueId>117</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>8</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

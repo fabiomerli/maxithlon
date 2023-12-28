@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>76267</teamId>
+  <teamName>Leeds United AC</teamName>
+  <owner>TheDiceMan</owner>
+  <founded>2013-11-14T22:40:00+01:00</founded>
+  <youthFounded>2017-11-14T00:34:05+01:00</youthFounded>
+  <arenaId>47492</arenaId>
+  <arenaName>TDM Stadium</arenaName>
+  <leagueId>566</leagueId>
+  <youthLeagueId>170</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>158</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

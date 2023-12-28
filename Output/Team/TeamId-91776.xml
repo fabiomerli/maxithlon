@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91776</teamId>
+  <teamName>Atromitos AO</teamName>
+  <owner>sgousoulis</owner>
+  <founded>2021-04-09T17:12:55+02:00</founded>
+  <youthFounded>2021-09-13T00:30:47+02:00</youthFounded>
+  <arenaId>56871</arenaId>
+  <arenaName>Atromitos AO Athletics Centre</arenaName>
+  <leagueId>166</leagueId>
+  <youthLeagueId>176</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>239</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

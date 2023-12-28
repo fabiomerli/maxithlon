@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>89964</teamId>
+  <teamName>Weymouth Bay Sharks</teamName>
+  <owner>elli56</owner>
+  <founded>2019-10-25T16:32:24+02:00</founded>
+  <youthFounded>2019-10-25T17:25:11+02:00</youthFounded>
+  <arenaId>55679</arenaId>
+  <arenaName>The Rec</arenaName>
+  <leagueId>563</leagueId>
+  <youthLeagueId>173</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>154</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

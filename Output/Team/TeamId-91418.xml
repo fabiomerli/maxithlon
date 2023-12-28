@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91418</teamId>
+  <teamName>Άρις Μεσσηνίας</teamName>
+  <owner>Getas75</owner>
+  <founded>2020-10-28T22:37:48+01:00</founded>
+  <youthFounded>2022-10-21T00:30:28+02:00</youthFounded>
+  <arenaId>56637</arenaId>
+  <arenaName>Παραπαμισία</arenaName>
+  <leagueId>165</leagueId>
+  <youthLeagueId>179</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>239</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>36065</teamId>
+  <teamName>TIP Sylvarov</teamName>
+  <owner>TIPTeam</owner>
+  <founded>2009-11-27T16:32:50+01:00</founded>
+  <youthFounded>2018-01-25T06:31:20+01:00</youthFounded>
+  <arenaId>23246</arenaId>
+  <arenaName>Hazard</arenaName>
+  <leagueId>319</leagueId>
+  <youthLeagueId>185</youthLeagueId>
+  <nationId>38</nationId>
+  <regionId>391</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

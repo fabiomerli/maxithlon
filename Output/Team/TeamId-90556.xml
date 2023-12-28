@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90556</teamId>
+  <teamName>Star Runners</teamName>
+  <owner>mithrill</owner>
+  <founded>2020-04-19T13:56:31+02:00</founded>
+  <youthFounded>2020-04-20T13:48:45+02:00</youthFounded>
+  <arenaId>56078</arenaId>
+  <arenaName>Home Star</arenaName>
+  <leagueId>75</leagueId>
+  <youthLeagueId>163</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>201</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

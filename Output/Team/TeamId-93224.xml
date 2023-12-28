@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93224</teamId>
+  <teamName>C.A. Rayo Vallecano</teamName>
+  <owner>ADRV1924</owner>
+  <founded>2022-11-01T19:02:39+01:00</founded>
+  <youthFounded>2022-11-02T00:30:30+01:00</youthFounded>
+  <arenaId>57806</arenaId>
+  <arenaName>Ciudad Deportiva Rayo Vallecano</arenaName>
+  <leagueId>49</leagueId>
+  <youthLeagueId>129</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>115</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

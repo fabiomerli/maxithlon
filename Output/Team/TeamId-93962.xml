@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93962</teamId>
+  <teamName>Poznań 2023</teamName>
+  <owner>Dawidsd </owner>
+  <founded>2023-08-31T21:34:42+02:00</founded>
+  <youthFounded>2023-09-02T00:31:40+02:00</youthFounded>
+  <arenaId>58175</arenaId>
+  <arenaName>Poznań</arenaName>
+  <leagueId>193</leagueId>
+  <youthLeagueId>147</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>275</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

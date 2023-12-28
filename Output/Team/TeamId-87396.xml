@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>87396</teamId>
+  <teamName>Asteras Exarxeiwn</teamName>
+  <owner>asteras</owner>
+  <founded>2017-11-06T12:00:31+01:00</founded>
+  <youthFounded>2017-11-12T13:42:05+01:00</youthFounded>
+  <arenaId>54077</arenaId>
+  <arenaName>Molotov Stadium</arenaName>
+  <leagueId>150</leagueId>
+  <youthLeagueId>176</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>237</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

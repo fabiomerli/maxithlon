@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93677</teamId>
+  <teamName>Zadar United</teamName>
+  <owner>Maslina</owner>
+  <founded>2023-07-04T20:03:29+02:00</founded>
+  <youthFounded>2023-07-05T00:30:38+02:00</youthFounded>
+  <arenaId>58071</arenaId>
+  <arenaName>Diocletianus dome</arenaName>
+  <leagueId>579</leagueId>
+  <youthLeagueId>190</youthLeagueId>
+  <nationId>29</nationId>
+  <regionId>324</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

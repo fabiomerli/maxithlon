@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93558</teamId>
+  <teamName>Annitsford Athletic Club</teamName>
+  <owner>Scott66</owner>
+  <founded>2023-05-02T08:17:31+02:00</founded>
+  <youthFounded>2023-09-21T00:30:40+02:00</youthFounded>
+  <arenaId>57997</arenaId>
+  <arenaName>Burnview Park</arenaName>
+  <leagueId>574</leagueId>
+  <youthLeagueId>173</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>156</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

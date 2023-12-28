@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>85428</teamId>
+  <teamName>Roter Stern Walddorf</teamName>
+  <owner>stockwerk</owner>
+  <founded>2016-10-12T18:25:44+02:00</founded>
+  <youthFounded>2017-11-13T11:14:26+01:00</youthFounded>
+  <arenaId>52922</arenaId>
+  <arenaName>Zwirner Waldstation</arenaName>
+  <leagueId>568</leagueId>
+  <youthLeagueId>200</youthLeagueId>
+  <nationId>30</nationId>
+  <regionId>332</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

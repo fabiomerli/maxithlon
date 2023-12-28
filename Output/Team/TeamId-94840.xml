@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94840</teamId>
+  <teamName>Biohazard</teamName>
+  <owner>Rend</owner>
+  <founded>2023-11-08T20:28:40+01:00</founded>
+  <youthFounded>2023-11-13T00:30:40+01:00</youthFounded>
+  <arenaId>58258</arenaId>
+  <arenaName>Lixo Tóxico</arenaName>
+  <leagueId>115</leagueId>
+  <youthLeagueId>166</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>200</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

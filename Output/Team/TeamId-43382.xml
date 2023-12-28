@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>43382</teamId>
+  <teamName>Olympiakos CFP</teamName>
+  <owner>Takis Ventikos</owner>
+  <founded>2010-05-21T11:31:36+02:00</founded>
+  <youthFounded>2017-12-11T23:41:30+01:00</youthFounded>
+  <arenaId>28285</arenaId>
+  <arenaName>Takis Ventikos Stadium</arenaName>
+  <leagueId>165</leagueId>
+  <youthLeagueId>176</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>237</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94592</teamId>
+  <teamName>Burdel</teamName>
+  <owner>G.B.</owner>
+  <founded>2023-10-14T16:57:46+02:00</founded>
+  <youthFounded>2023-10-17T00:30:38+02:00</youthFounded>
+  <arenaId>58225</arenaId>
+  <arenaName>nuovissimo</arenaName>
+  <leagueId>13</leagueId>
+  <youthLeagueId>124</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>20</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

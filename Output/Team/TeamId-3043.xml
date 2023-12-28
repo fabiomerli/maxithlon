@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>3043</teamId>
+  <teamName>The Elks</teamName>
+  <owner>kubru</owner>
+  <founded>2007-05-04T11:47:25+02:00</founded>
+  <youthFounded>2017-11-13T08:19:29+01:00</youthFounded>
+  <arenaId>2273</arenaId>
+  <arenaName>Tundra</arenaName>
+  <leagueId>566</leagueId>
+  <youthLeagueId>199</youthLeagueId>
+  <nationId>2</nationId>
+  <regionId>35</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

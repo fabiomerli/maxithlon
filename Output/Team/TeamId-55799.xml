@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>55799</teamId>
+  <teamName>Komper</teamName>
+  <owner>herodotus</owner>
+  <founded>2011-06-06T22:31:02+02:00</founded>
+  <youthFounded>2017-11-18T07:20:25+01:00</youthFounded>
+  <arenaId>36108</arenaId>
+  <arenaName>L'Antre de Morgan</arenaName>
+  <leagueId>111</leagueId>
+  <youthLeagueId>140</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>177</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

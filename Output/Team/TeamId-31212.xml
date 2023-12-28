@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>31212</teamId>
+  <teamName>Qubass Squad</teamName>
+  <owner>Qubass</owner>
+  <founded>2009-08-16T23:28:10+02:00</founded>
+  <youthFounded>2017-11-19T22:10:32+01:00</youthFounded>
+  <arenaId>20251</arenaId>
+  <arenaName>im. Rysia Ochódzkiego</arenaName>
+  <leagueId>179</leagueId>
+  <youthLeagueId>147</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>264</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

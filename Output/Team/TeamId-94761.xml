@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94761</teamId>
+  <teamName>Al Malik Arresh</teamName>
+  <owner>Malo</owner>
+  <founded>2023-10-29T18:20:02+01:00</founded>
+  <youthFounded>2023-11-02T00:30:38+01:00</youthFounded>
+  <arenaId>58245</arenaId>
+  <arenaName>Al Malik Stadium</arenaName>
+  <leagueId>14</leagueId>
+  <youthLeagueId>122</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>7</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

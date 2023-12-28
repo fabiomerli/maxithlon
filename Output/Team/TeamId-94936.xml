@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94936</teamId>
+  <teamName>Cercle Paul Bert Rennes</teamName>
+  <owner>KerRun</owner>
+  <founded>2023-12-03T15:30:23+01:00</founded>
+  <youthFounded>2023-12-21T00:30:41+01:00</youthFounded>
+  <arenaId>58282</arenaId>
+  <arenaName>Stade de Bréquigny</arenaName>
+  <leagueId>114</leagueId>
+  <youthLeagueId>214</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>177</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

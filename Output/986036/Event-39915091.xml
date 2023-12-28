@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <id>39915091</id>
+  <typeId>90</typeId>
+  <sex>0</sex>
+  <date>2023-12-27T16:20:00+01:00</date>
+  <status>3</status>
+  <heat index="1">
+    <relay index="1">
+      <id>205634</id>
+      <teamId>93997</teamId>
+      <performance>0.00</performance>
+      <placing>0</placing>
+      <score>0</score>
+    </relay>
+    <relay index="2">
+      <id>204917</id>
+      <teamId>55383</teamId>
+      <performance>235.14</performance>
+      <placing>1</placing>
+      <score>763</score>
+    </relay>
+    <relay index="3">
+      <id>202884</id>
+      <teamId>93508</teamId>
+      <performance>238.57</performance>
+      <placing>3</placing>
+      <score>727</score>
+    </relay>
+    <relay index="4">
+      <id>181633</id>
+      <teamId>12408</teamId>
+      <performance>0.00</performance>
+      <placing>0</placing>
+      <score>0</score>
+    </relay>
+    <relay index="5">
+      <id>203294</id>
+      <teamId>45344</teamId>
+      <performance>0.00</performance>
+      <placing>0</placing>
+      <score>0</score>
+    </relay>
+    <relay index="6">
+      <id>205345</id>
+      <teamId>91012</teamId>
+      <performance>238.40</performance>
+      <placing>2</placing>
+      <score>728</score>
+    </relay>
+    <relay index="7">
+      <id>182804</id>
+      <teamId>13440</teamId>
+      <performance>241.02</performance>
+      <placing>8</placing>
+      <score>701</score>
+    </relay>
+    <relay index="8">
+      <id>203734</id>
+      <teamId>93663</teamId>
+      <performance>241.13</performance>
+      <placing>9</placing>
+      <score>699</score>
+    </relay>
+  </heat>
+  <heat index="2">
+    <relay index="9">
+      <id>205524</id>
+      <teamId>94061</teamId>
+      <performance>0.00</performance>
+      <placing>0</placing>
+      <score>0</score>
+    </relay>
+    <relay index="10">
+      <id>204935</id>
+      <teamId>93893</teamId>
+      <performance>240.15</performance>
+      <placing>6</placing>
+      <score>710</score>
+    </relay>
+    <relay index="11">
+      <id>190138</id>
+      <teamId>86746</teamId>
+      <performance>244.74</performance>
+      <placing>13</placing>
+      <score>661</score>
+    </relay>
+    <relay index="12">
+      <id>203011</id>
+      <teamId>93565</teamId>
+      <performance>246.28</performance>
+      <placing>16</placing>
+      <score>644</score>
+    </relay>
+    <relay index="13">
+      <id>205531</id>
+      <teamId>83350</teamId>
+      <performance>244.88</performance>
+      <placing>14</placing>
+      <score>659</score>
+    </relay>
+    <relay index="14">
+      <id>202882</id>
+      <teamId>93427</teamId>
+      <performance>239.64</performance>
+      <placing>4</placing>
+      <score>715</score>
+    </relay>
+    <relay index="15">
+      <id>181683</id>
+      <teamId>90117</teamId>
+      <performance>242.64</performance>
+      <placing>12</placing>
+      <score>683</score>
+    </relay>
+    <relay index="16">
+      <id>205119</id>
+      <teamId>93698</teamId>
+      <performance>251.43</performance>
+      <placing>18</placing>
+      <score>590</score>
+    </relay>
+  </heat>
+  <heat index="3">
+    <relay index="17">
+      <id>184383</id>
+      <teamId>88127</teamId>
+      <performance>239.75</performance>
+      <placing>5</placing>
+      <score>714</score>
+    </relay>
+    <relay index="18">
+      <id>205797</id>
+      <teamId>63850</teamId>
+      <performance>0.00</performance>
+      <placing>0</placing>
+      <score>0</score>
+    </relay>
+    <relay index="19">
+      <id>205455</id>
+      <teamId>68726</teamId>
+      <performance>242.34</performance>
+      <placing>11</placing>
+      <score>686</score>
+    </relay>
+    <relay index="20">
+      <id>205718</id>
+      <teamId>93923</teamId>
+      <performance>0.00</performance>
+      <placing>0</placing>
+      <score>0</score>
+    </relay>
+    <relay index="21">
+      <id>205898</id>
+      <teamId>5592</teamId>
+      <performance>240.55</performance>
+      <placing>7</placing>
+      <score>706</score>
+    </relay>
+    <relay index="22">
+      <id>205723</id>
+      <teamId>91012</teamId>
+      <performance>248.17</performance>
+      <placing>17</placing>
+      <score>624</score>
+    </relay>
+    <relay index="23">
+      <id>203920</id>
+      <teamId>40779</teamId>
+      <performance>242.26</performance>
+      <placing>10</placing>
+      <score>687</score>
+    </relay>
+    <relay index="24">
+      <id>205499</id>
+      <teamId>87655</teamId>
+      <performance>246.02</performance>
+      <placing>15</placing>
+      <score>647</score>
+    </relay>
+  </heat>
+</maxi-xml>

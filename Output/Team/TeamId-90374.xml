@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90374</teamId>
+  <teamName>Huelma Team</teamName>
+  <owner>vamargo22</owner>
+  <founded>2020-03-04T18:59:49+01:00</founded>
+  <youthFounded>2020-03-09T08:58:48+01:00</youthFounded>
+  <arenaId>55943</arenaId>
+  <arenaName>Martos Roa Arena</arenaName>
+  <leagueId>49</leagueId>
+  <youthLeagueId>133</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>102</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

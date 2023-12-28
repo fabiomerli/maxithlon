@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>87299</teamId>
+  <teamName>KS Miszcze</teamName>
+  <owner>bulb2</owner>
+  <founded>2017-10-11T14:20:51+02:00</founded>
+  <youthFounded>2017-11-24T15:45:56+01:00</youthFounded>
+  <arenaId>54013</arenaId>
+  <arenaName>Nowy Stadion</arenaName>
+  <leagueId>194</leagueId>
+  <youthLeagueId>148</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>264</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

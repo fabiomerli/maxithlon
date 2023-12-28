@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93009</teamId>
+  <teamName>Alces FIK</teamName>
+  <owner>Gerard</owner>
+  <founded>2022-07-24T09:16:09+02:00</founded>
+  <youthFounded>2022-08-09T00:30:30+02:00</youthFounded>
+  <arenaId>57672</arenaId>
+  <arenaName>Elgvallen</arenaName>
+  <leagueId>573</leagueId>
+  <youthLeagueId>180</youthLeagueId>
+  <nationId>3</nationId>
+  <regionId>74</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

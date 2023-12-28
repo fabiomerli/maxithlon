@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92941</teamId>
+  <teamName>UltraRun</teamName>
+  <owner>Andreimarathon</owner>
+  <founded>2022-07-14T13:20:06+02:00</founded>
+  <youthFounded>2022-07-15T00:30:31+02:00</youthFounded>
+  <arenaId>57647</arenaId>
+  <arenaName>Olympic Arena</arenaName>
+  <leagueId>568</leagueId>
+  <youthLeagueId>181</youthLeagueId>
+  <nationId>48</nationId>
+  <regionId>453</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

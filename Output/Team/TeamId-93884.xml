@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93884</teamId>
+  <teamName>Monty Python</teamName>
+  <owner>Elpiase</owner>
+  <founded>2023-08-27T00:35:29+02:00</founded>
+  <youthFounded>2023-08-29T00:30:40+02:00</youthFounded>
+  <arenaId>58155</arenaId>
+  <arenaName>Dead Parrot Arena</arenaName>
+  <leagueId>15</leagueId>
+  <youthLeagueId>122</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>10</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

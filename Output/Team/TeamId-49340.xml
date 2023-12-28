@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>49340</teamId>
+  <teamName>TSV Helmstedt</teamName>
+  <owner>Karsten</owner>
+  <founded>2010-10-17T13:20:47+02:00</founded>
+  <youthFounded>2017-11-12T10:55:22+01:00</youthFounded>
+  <arenaId>32074</arenaId>
+  <arenaName>Maschstadion</arenaName>
+  <leagueId>34</leagueId>
+  <youthLeagueId>199</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>52</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

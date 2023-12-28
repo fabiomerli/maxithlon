@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>72804</teamId>
+  <teamName>Baetulo Athletarum</teamName>
+  <owner>Nissan</owner>
+  <founded>2013-05-09T12:12:34+02:00</founded>
+  <youthFounded>2017-11-12T15:04:34+01:00</youthFounded>
+  <arenaId>45665</arenaId>
+  <arenaName>Baetulo Coliseum</arenaName>
+  <leagueId>81</leagueId>
+  <youthLeagueId>133</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>109</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

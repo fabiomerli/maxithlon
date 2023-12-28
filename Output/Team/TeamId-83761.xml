@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>83761</teamId>
+  <teamName>Saskatoon TFC</teamName>
+  <owner>margo</owner>
+  <founded>2016-01-21T23:24:41+01:00</founded>
+  <youthFounded>2017-11-17T04:07:59+01:00</youthFounded>
+  <arenaId>51855</arenaId>
+  <arenaName>Terry Fox Multiplex</arenaName>
+  <leagueId>567</leagueId>
+  <youthLeagueId>172</youthLeagueId>
+  <nationId>19</nationId>
+  <regionId>245</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

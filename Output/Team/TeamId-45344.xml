@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>45344</teamId>
+  <teamName>olympiakos rebels</teamName>
+  <owner>takis_sketo</owner>
+  <founded>2010-07-12T12:37:54+02:00</founded>
+  <youthFounded>2017-11-12T17:42:34+01:00</youthFounded>
+  <arenaId>29532</arenaId>
+  <arenaName>gavristan</arenaName>
+  <leagueId>165</leagueId>
+  <youthLeagueId>176</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>237</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

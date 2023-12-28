@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92795</teamId>
+  <teamName>Vulcano Athletic</teamName>
+  <owner>NESTORO</owner>
+  <founded>2022-04-17T07:53:16+02:00</founded>
+  <youthFounded>2022-04-18T00:30:59+02:00</youthFounded>
+  <arenaId>57538</arenaId>
+  <arenaName>Polideportivo Vulcano</arenaName>
+  <leagueId>567</leagueId>
+  <youthLeagueId>152</youthLeagueId>
+  <nationId>15</nationId>
+  <regionId>211</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91224</teamId>
+  <teamName>FC Weniniacy</teamName>
+  <owner>Wenin</owner>
+  <founded>2020-09-13T10:18:34+02:00</founded>
+  <youthFounded>2020-09-27T10:23:27+02:00</youthFounded>
+  <arenaId>56549</arenaId>
+  <arenaName>Old Weninord</arenaName>
+  <leagueId>179</leagueId>
+  <youthLeagueId>148</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>263</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

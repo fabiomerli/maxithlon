@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>88981</teamId>
+  <teamName>Jasiek Der Club</teamName>
+  <owner>Jasiek</owner>
+  <founded>2018-12-05T13:33:02+01:00</founded>
+  <youthFounded>2018-12-05T16:23:55+01:00</youthFounded>
+  <arenaId>55108</arenaId>
+  <arenaName>Cyber Arena</arenaName>
+  <leagueId>193</leagueId>
+  <youthLeagueId>147</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>267</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

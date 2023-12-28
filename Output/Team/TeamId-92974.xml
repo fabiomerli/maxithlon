@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92974</teamId>
+  <teamName>MadCo AC</teamName>
+  <owner>daniel.margo</owner>
+  <founded>2022-07-16T19:16:08+02:00</founded>
+  <youthFounded>2022-07-21T00:30:30+02:00</youthFounded>
+  <arenaId>57650</arenaId>
+  <arenaName>Valley of Ashes</arenaName>
+  <leagueId>175</leagueId>
+  <youthLeagueId>171</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>234</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>82568</teamId>
+  <teamName>Brasília Athletics</teamName>
+  <owner>lucasaveppo</owner>
+  <founded>2015-07-24T20:57:06+02:00</founded>
+  <youthFounded>2017-11-13T02:55:12+01:00</youthFounded>
+  <arenaId>51106</arenaId>
+  <arenaName>Estádio do Lobo Guará</arenaName>
+  <leagueId>566</leagueId>
+  <youthLeagueId>163</youthLeagueId>
+  <nationId>17</nationId>
+  <regionId>223</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

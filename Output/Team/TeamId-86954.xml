@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>86954</teamId>
+  <teamName>Dresdensia Army</teamName>
+  <owner>al.joe</owner>
+  <founded>2017-08-18T12:52:34+02:00</founded>
+  <youthFounded>2021-01-24T10:41:23+01:00</youthFounded>
+  <arenaId>53793</arenaId>
+  <arenaName>Harbig-Kampfbahn</arenaName>
+  <leagueId>68</leagueId>
+  <youthLeagueId>195</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>56</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

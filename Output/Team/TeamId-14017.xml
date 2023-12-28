@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>14017</teamId>
+  <teamName>Athletic club Azzurra Napoli 2008</teamName>
+  <owner>paolo86</owner>
+  <founded>2008-05-26T15:36:23+02:00</founded>
+  <youthFounded>2017-11-20T10:02:58+01:00</youthFounded>
+  <arenaId>9501</arenaId>
+  <arenaName>Gebre's Arena</arenaName>
+  <leagueId>4</leagueId>
+  <youthLeagueId>118</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>18</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

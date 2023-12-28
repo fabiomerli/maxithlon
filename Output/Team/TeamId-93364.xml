@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93364</teamId>
+  <teamName>Birmingham Stars</teamName>
+  <owner>georr</owner>
+  <founded>2023-01-22T21:09:10+01:00</founded>
+  <youthFounded>2023-02-14T00:30:38+01:00</youthFounded>
+  <arenaId>57886</arenaId>
+  <arenaName>Midland’s Arena</arenaName>
+  <leagueId>572</leagueId>
+  <youthLeagueId>238</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>155</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

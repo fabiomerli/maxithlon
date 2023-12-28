@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92142</teamId>
+  <teamName>Cartoons TGN</teamName>
+  <owner>Carris</owner>
+  <founded>2021-08-08T09:39:40+02:00</founded>
+  <youthFounded>2021-09-12T21:27:18+02:00</youthFounded>
+  <arenaId>57111</arenaId>
+  <arenaName>Cartoons Ring</arenaName>
+  <leagueId>47</leagueId>
+  <youthLeagueId>205</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>109</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

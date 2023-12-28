@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>83546</teamId>
+  <teamName>Athlé Pays de Bray</teamName>
+  <owner>duclosbesson</owner>
+  <founded>2015-12-06T18:35:58+01:00</founded>
+  <youthFounded>2021-10-01T00:30:23+02:00</youthFounded>
+  <arenaId>51731</arenaId>
+  <arenaName>Normandie Arena</arenaName>
+  <leagueId>77</leagueId>
+  <youthLeagueId>142</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>547</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

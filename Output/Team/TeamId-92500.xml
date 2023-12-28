@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92500</teamId>
+  <teamName>Haize Gorria</teamName>
+  <owner>kutxini</owner>
+  <founded>2022-01-11T12:14:43+01:00</founded>
+  <youthFounded>2022-01-12T00:30:26+01:00</youthFounded>
+  <arenaId>57356</arenaId>
+  <arenaName>Askatasuna</arenaName>
+  <leagueId>563</leagueId>
+  <youthLeagueId>153</youthLeagueId>
+  <nationId>31</nationId>
+  <regionId>338</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

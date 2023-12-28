@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90516</teamId>
+  <teamName>FTC Isti</teamName>
+  <owner>fradika</owner>
+  <founded>2020-04-08T17:49:35+02:00</founded>
+  <youthFounded>2021-09-13T00:30:54+02:00</youthFounded>
+  <arenaId>56041</arenaId>
+  <arenaName>Monstrum</arenaName>
+  <leagueId>570</leagueId>
+  <youthLeagueId>185</youthLeagueId>
+  <nationId>41</nationId>
+  <regionId>407</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91643</teamId>
+  <teamName>Ortiz de Zuñiga</teamName>
+  <owner>NakaMichael</owner>
+  <founded>2021-02-24T23:59:43+01:00</founded>
+  <youthFounded>2021-03-02T19:33:38+01:00</youthFounded>
+  <arenaId>56784</arenaId>
+  <arenaName>El Matadero</arenaName>
+  <leagueId>49</leagueId>
+  <youthLeagueId>132</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>102</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

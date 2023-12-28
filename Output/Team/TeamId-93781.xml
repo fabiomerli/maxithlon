@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93781</teamId>
+  <teamName>KKS Lech Poznan</teamName>
+  <owner>ZIMOWSKI</owner>
+  <founded>2023-08-15T22:12:56+02:00</founded>
+  <youthFounded>2023-10-21T00:30:41+02:00</youthFounded>
+  <arenaId>58129</arenaId>
+  <arenaName>Kocioł</arenaName>
+  <leagueId>194</leagueId>
+  <youthLeagueId>147</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>275</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

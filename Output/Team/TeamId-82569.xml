@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>82569</teamId>
+  <teamName>AC Bohemians Tymákov</teamName>
+  <owner>L. de Funes</owner>
+  <founded>2015-07-24T20:14:14+02:00</founded>
+  <youthFounded>2017-11-13T11:13:14+01:00</youthFounded>
+  <arenaId>51105</arenaId>
+  <arenaName>Stadion Tymákov</arenaName>
+  <leagueId>316</leagueId>
+  <youthLeagueId>186</youthLeagueId>
+  <nationId>38</nationId>
+  <regionId>390</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

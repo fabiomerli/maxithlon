@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92640</teamId>
+  <teamName>Catalytical AC</teamName>
+  <owner>Avlies</owner>
+  <founded>2022-02-16T17:06:24+01:00</founded>
+  <youthFounded>2022-02-22T00:30:30+01:00</youthFounded>
+  <arenaId>57441</arenaId>
+  <arenaName>Cata Sports Centre</arenaName>
+  <leagueId>569</leagueId>
+  <youthLeagueId>169</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>160</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

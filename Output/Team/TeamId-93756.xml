@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93756</teamId>
+  <teamName>Great Britain</teamName>
+  <owner>John77</owner>
+  <founded>2023-08-05T12:28:58+02:00</founded>
+  <youthFounded>2023-08-06T00:30:37+02:00</youthFounded>
+  <arenaId>58116</arenaId>
+  <arenaName>National Stadium</arenaName>
+  <leagueId>583</leagueId>
+  <youthLeagueId>171</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>156</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

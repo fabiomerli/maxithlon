@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93496</teamId>
+  <teamName>Pharaons AC</teamName>
+  <owner>Anubis</owner>
+  <founded>2023-03-31T18:27:19+02:00</founded>
+  <youthFounded>2023-04-03T00:31:39+02:00</youthFounded>
+  <arenaId>57964</arenaId>
+  <arenaName>Le croissant fertile</arenaName>
+  <leagueId>78</leagueId>
+  <youthLeagueId>140</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>549</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>86532</teamId>
+  <teamName>Talisker Track &amp; Field Club</teamName>
+  <owner>MacS</owner>
+  <founded>2017-06-27T14:29:29+02:00</founded>
+  <youthFounded>2017-11-12T16:12:32+01:00</youthFounded>
+  <arenaId>53574</arenaId>
+  <arenaName>Talisker Arena</arenaName>
+  <leagueId>42</leagueId>
+  <youthLeagueId>157</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>83</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

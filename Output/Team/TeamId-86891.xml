@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>86891</teamId>
+  <teamName>MonsAthle</teamName>
+  <owner>wallamit</owner>
+  <founded>2017-08-13T16:20:30+02:00</founded>
+  <youthFounded>2017-12-30T13:45:17+01:00</youthFounded>
+  <arenaId>53757</arenaId>
+  <arenaName>SaintGeorge</arenaName>
+  <leagueId>38</leagueId>
+  <youthLeagueId>155</youthLeagueId>
+  <nationId>6</nationId>
+  <regionId>99</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

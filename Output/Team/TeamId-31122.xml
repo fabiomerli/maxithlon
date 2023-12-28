@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>31122</teamId>
+  <teamName>Il Pirata</teamName>
+  <owner>sellaronda</owner>
+  <founded>2009-08-15T17:34:09+02:00</founded>
+  <youthFounded>2018-01-22T09:46:27+01:00</youthFounded>
+  <arenaId>20173</arenaId>
+  <arenaName>Le Ripaie</arenaName>
+  <leagueId>4</leagueId>
+  <youthLeagueId>115</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>13</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>89260</teamId>
+  <teamName>Kluengel Colonia</teamName>
+  <owner>Micinho</owner>
+  <founded>2019-03-02T22:50:19+01:00</founded>
+  <youthFounded>2019-03-08T13:42:12+01:00</youthFounded>
+  <arenaId>55263</arenaId>
+  <arenaName>Klüngelpütz</arenaName>
+  <leagueId>39</leagueId>
+  <youthLeagueId>196</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>53</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93329</teamId>
+  <teamName>Project Orient Express</teamName>
+  <owner>cpt_papa</owner>
+  <founded>2023-01-03T20:32:00+01:00</founded>
+  <youthFounded>2023-01-05T00:30:31+01:00</youthFounded>
+  <arenaId>57871</arenaId>
+  <arenaName>Atatürk Şehir Stadyumu</arenaName>
+  <leagueId>572</leagueId>
+  <youthLeagueId>192</youthLeagueId>
+  <nationId>34</nationId>
+  <regionId>364</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

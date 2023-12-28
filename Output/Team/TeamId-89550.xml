@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>89550</teamId>
+  <teamName>(F)egyház</teamName>
+  <owner>Wolwerine</owner>
+  <founded>2019-06-16T20:39:44+02:00</founded>
+  <youthFounded>2019-06-16T21:23:58+02:00</youthFounded>
+  <arenaId>55442</arenaId>
+  <arenaName>Diósgyőri Aréna</arenaName>
+  <leagueId>576</leagueId>
+  <youthLeagueId>187</youthLeagueId>
+  <nationId>41</nationId>
+  <regionId>408</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

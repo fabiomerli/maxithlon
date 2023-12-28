@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>12304</teamId>
+  <teamName>Olympians</teamName>
+  <owner>fryout</owner>
+  <founded>2008-03-31T19:58:46+02:00</founded>
+  <youthFounded>2017-11-13T23:44:33+01:00</youthFounded>
+  <arenaId>8384</arenaId>
+  <arenaName>George Boyd Arena</arenaName>
+  <leagueId>567</leagueId>
+  <youthLeagueId>171</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>160</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

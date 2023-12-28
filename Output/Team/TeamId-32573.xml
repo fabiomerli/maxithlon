@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>32573</teamId>
+  <teamName>ATLETICO LEBOWSKI II</teamName>
+  <owner>BARZAO</owner>
+  <founded>2009-08-28T15:15:08+02:00</founded>
+  <youthFounded>2017-11-12T18:37:16+01:00</youthFounded>
+  <arenaId>21070</arenaId>
+  <arenaName>Jeffrey Lebowski Stadium</arenaName>
+  <leagueId>4</leagueId>
+  <youthLeagueId>113</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

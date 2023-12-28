@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>43039</teamId>
+  <teamName>MEIMOA TEAM</teamName>
+  <owner>meimoa</owner>
+  <founded>2010-05-09T10:57:30+02:00</founded>
+  <youthFounded>2017-11-16T22:13:18+01:00</youthFounded>
+  <arenaId>28078</arenaId>
+  <arenaName>Princesa da Beira</arenaName>
+  <leagueId>75</leagueId>
+  <youthLeagueId>162</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>200</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

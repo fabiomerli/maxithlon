@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94092</teamId>
+  <teamName>SEF VIRTUS KLAGENFURT</teamName>
+  <owner>Steven Dell</owner>
+  <founded>2023-09-13T09:50:15+02:00</founded>
+  <youthFounded>2023-09-18T00:30:39+02:00</youthFounded>
+  <arenaId>58187</arenaId>
+  <arenaName>Richard-Wagner-Arena</arenaName>
+  <leagueId>573</leagueId>
+  <youthLeagueId>199</youthLeagueId>
+  <nationId>30</nationId>
+  <regionId>332</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

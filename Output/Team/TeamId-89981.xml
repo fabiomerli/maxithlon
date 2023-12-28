@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>89981</teamId>
+  <teamName>UGH team</teamName>
+  <owner>ugh88</owner>
+  <founded>2019-11-01T10:54:30+01:00</founded>
+  <youthFounded>2019-11-04T17:54:27+01:00</youthFounded>
+  <arenaId>55689</arenaId>
+  <arenaName>UGH stadion</arenaName>
+  <leagueId>316</leagueId>
+  <youthLeagueId>186</youthLeagueId>
+  <nationId>38</nationId>
+  <regionId>396</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

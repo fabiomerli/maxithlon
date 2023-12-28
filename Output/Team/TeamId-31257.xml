@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>31257</teamId>
+  <teamName>Salem Panthers</teamName>
+  <owner>Salem</owner>
+  <founded>2009-08-16T23:27:56+02:00</founded>
+  <youthFounded>2017-11-14T16:47:44+01:00</youthFounded>
+  <arenaId>20250</arenaId>
+  <arenaName>Fort Salem</arenaName>
+  <leagueId>316</leagueId>
+  <youthLeagueId>185</youthLeagueId>
+  <nationId>38</nationId>
+  <regionId>390</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

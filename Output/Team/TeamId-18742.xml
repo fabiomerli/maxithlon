@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>18742</teamId>
+  <teamName>SC Motor Jena</teamName>
+  <owner>UweHohn</owner>
+  <founded>2008-08-29T22:17:54+02:00</founded>
+  <youthFounded>2017-11-12T12:25:00+01:00</youthFounded>
+  <arenaId>12362</arenaId>
+  <arenaName>Ernst Abbe Sportfeld</arenaName>
+  <leagueId>34</leagueId>
+  <youthLeagueId>195</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>59</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

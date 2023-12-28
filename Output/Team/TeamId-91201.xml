@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91201</teamId>
+  <teamName>MegaChampions</teamName>
+  <owner>Scotland1983</owner>
+  <founded>2020-08-30T15:11:12+02:00</founded>
+  <youthFounded>2022-04-26T00:30:29+02:00</youthFounded>
+  <arenaId>56504</arenaId>
+  <arenaName>MegaChampions Arena</arenaName>
+  <leagueId>571</leagueId>
+  <youthLeagueId>244</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>161</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

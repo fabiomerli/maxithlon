@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94370</teamId>
+  <teamName>Fadarve</teamName>
+  <owner>fadarve</owner>
+  <founded>2023-10-01T18:46:51+02:00</founded>
+  <youthFounded>2023-10-02T00:30:37+02:00</youthFounded>
+  <arenaId>58209</arenaId>
+  <arenaName>Fadarve Arena</arenaName>
+  <leagueId>81</leagueId>
+  <youthLeagueId>132</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>116</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

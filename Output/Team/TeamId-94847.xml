@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94847</teamId>
+  <teamName>Athletic Auringis</teamName>
+  <owner>Paddy79</owner>
+  <founded>2023-11-09T23:07:55+01:00</founded>
+  <youthFounded>2023-12-15T00:30:41+01:00</youthFounded>
+  <arenaId>58261</arenaId>
+  <arenaName>Stadium Santo Reino</arenaName>
+  <leagueId>0</leagueId>
+  <youthLeagueId>206</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>102</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

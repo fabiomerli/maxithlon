@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>13665</teamId>
+  <teamName>OSC Bernsdorf</teamName>
+  <owner>oldtom</owner>
+  <founded>2008-05-08T23:10:14+02:00</founded>
+  <youthFounded>2018-01-21T11:59:17+01:00</youthFounded>
+  <arenaId>9257</arenaId>
+  <arenaName>Stadion am Marktsteig</arenaName>
+  <leagueId>67</leagueId>
+  <youthLeagueId>194</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>56</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

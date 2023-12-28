@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91303</teamId>
+  <teamName>Nextnet US</teamName>
+  <owner>figure091</owner>
+  <founded>2020-09-24T18:03:57+02:00</founded>
+  <youthFounded>2020-09-26T18:59:42+02:00</youthFounded>
+  <arenaId>56569</arenaId>
+  <arenaName>Nextnet Arena</arenaName>
+  <leagueId>175</leagueId>
+  <youthLeagueId>169</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>234</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

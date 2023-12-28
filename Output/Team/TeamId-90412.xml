@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90412</teamId>
+  <teamName>AC Premium</teamName>
+  <owner>Kaloyan </owner>
+  <founded>2020-03-18T15:57:34+01:00</founded>
+  <youthFounded>2020-04-04T23:47:10+02:00</youthFounded>
+  <arenaId>55964</arenaId>
+  <arenaName>P arena</arenaName>
+  <leagueId>567</leagueId>
+  <youthLeagueId>191</youthLeagueId>
+  <nationId>43</nationId>
+  <regionId>420</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

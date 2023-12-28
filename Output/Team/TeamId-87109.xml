@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>87109</teamId>
+  <teamName>AC Quingstar</teamName>
+  <owner>Boom</owner>
+  <founded>2017-09-03T20:32:54+02:00</founded>
+  <youthFounded>2017-11-12T12:04:09+01:00</youthFounded>
+  <arenaId>53885</arenaId>
+  <arenaName>The Queen's Throne</arenaName>
+  <leagueId>42</leagueId>
+  <youthLeagueId>156</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>83</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

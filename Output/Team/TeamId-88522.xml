@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>88522</teamId>
+  <teamName>Gernika Horobetz</teamName>
+  <owner>juantxu1964</owner>
+  <founded>2018-08-04T20:47:45+02:00</founded>
+  <youthFounded>2018-08-04T21:12:33+02:00</youthFounded>
+  <arenaId>54830</arenaId>
+  <arenaName>Urbieta</arenaName>
+  <leagueId>81</leagueId>
+  <youthLeagueId>129</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>111</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

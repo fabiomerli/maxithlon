@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>78035</teamId>
+  <teamName>Cincinnati TC</teamName>
+  <owner>Whiskers14</owner>
+  <founded>2014-03-24T04:23:12+01:00</founded>
+  <youthFounded>2022-07-02T00:30:28+02:00</youthFounded>
+  <arenaId>48503</arenaId>
+  <arenaName>American Family Arena</arenaName>
+  <leagueId>175</leagueId>
+  <youthLeagueId>171</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>232</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90133</teamId>
+  <teamName>Panormus</teamName>
+  <owner>zuzzurellone</owner>
+  <founded>2019-12-24T17:24:29+01:00</founded>
+  <youthFounded>2019-12-24T17:58:18+01:00</youthFounded>
+  <arenaId>55793</arenaId>
+  <arenaName>Il Tiglio</arenaName>
+  <leagueId>6</leagueId>
+  <youthLeagueId>117</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>5</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

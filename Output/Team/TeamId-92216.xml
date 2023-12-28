@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92216</teamId>
+  <teamName>Prairie State Track Club</teamName>
+  <owner>Farmer303</owner>
+  <founded>2021-08-23T12:35:40+02:00</founded>
+  <youthFounded>2021-09-13T00:30:58+02:00</youthFounded>
+  <arenaId>57165</arenaId>
+  <arenaName>The Hay Field</arenaName>
+  <leagueId>142</leagueId>
+  <youthLeagueId>170</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>232</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

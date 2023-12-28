@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92084</teamId>
+  <teamName>June Poe TC</teamName>
+  <owner>Junepoe </owner>
+  <founded>2021-08-03T03:02:29+02:00</founded>
+  <youthFounded>2021-09-12T22:15:06+02:00</youthFounded>
+  <arenaId>57071</arenaId>
+  <arenaName>Poe Field</arenaName>
+  <leagueId>142</leagueId>
+  <youthLeagueId>169</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>235</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

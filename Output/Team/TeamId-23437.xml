@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>23437</teamId>
+  <teamName>Coureurs de Bois</teamName>
+  <owner>Canute</owner>
+  <founded>2009-01-04T22:20:14+01:00</founded>
+  <youthFounded>2017-11-15T22:27:25+01:00</youthFounded>
+  <arenaId>15381</arenaId>
+  <arenaName>Interlake Athletic Center</arenaName>
+  <leagueId>569</leagueId>
+  <youthLeagueId>174</youthLeagueId>
+  <nationId>19</nationId>
+  <regionId>245</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

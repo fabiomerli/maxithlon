@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>89649</teamId>
+  <teamName>LEONARD ATLETISMO</teamName>
+  <owner>LEONARD</owner>
+  <founded>2019-07-28T09:44:45+02:00</founded>
+  <youthFounded>2019-08-19T21:48:31+02:00</youthFounded>
+  <arenaId>55503</arenaId>
+  <arenaName>TORTUGA STADIUM</arenaName>
+  <leagueId>79</leagueId>
+  <youthLeagueId>134</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>108</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93923</teamId>
+  <teamName>AV Chaos</teamName>
+  <owner>Stantheman</owner>
+  <founded>2023-08-29T09:03:55+02:00</founded>
+  <youthFounded>2023-09-05T00:30:37+02:00</youthFounded>
+  <arenaId>58166</arenaId>
+  <arenaName>Wageningse Berg</arenaName>
+  <leagueId>42</leagueId>
+  <youthLeagueId>157</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>82</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

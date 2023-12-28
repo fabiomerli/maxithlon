@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94621</teamId>
+  <teamName>St. Pauli Pirates</teamName>
+  <owner>Havald</owner>
+  <founded>2023-10-17T10:40:57+02:00</founded>
+  <youthFounded>2023-10-18T00:30:39+02:00</youthFounded>
+  <arenaId>58231</arenaId>
+  <arenaName>Heiligengeistfeld</arenaName>
+  <leagueId>69</leagueId>
+  <youthLeagueId>198</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>49</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>13750</teamId>
+  <teamName>Deportivo Diez de Febrero</teamName>
+  <owner>brumel</owner>
+  <founded>2008-05-11T12:56:23+02:00</founded>
+  <youthFounded>2017-11-14T10:45:15+01:00</youthFounded>
+  <arenaId>9305</arenaId>
+  <arenaName>Arturo Collana</arenaName>
+  <leagueId>7</leagueId>
+  <youthLeagueId>126</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>18</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

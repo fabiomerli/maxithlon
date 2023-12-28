@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93251</teamId>
+  <teamName>ZKS</teamName>
+  <owner>kobekowski</owner>
+  <founded>2022-11-21T11:15:55+01:00</founded>
+  <youthFounded>2022-12-02T00:30:30+01:00</youthFounded>
+  <arenaId>57819</arenaId>
+  <arenaName>Zlota arena</arenaName>
+  <leagueId>193</leagueId>
+  <youthLeagueId>148</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>275</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92026</teamId>
+  <teamName>Distrito 12</teamName>
+  <owner>Midecon</owner>
+  <founded>2021-07-25T19:35:57+02:00</founded>
+  <youthFounded>2021-09-13T00:30:53+02:00</youthFounded>
+  <arenaId>57014</arenaId>
+  <arenaName>Chloe BC</arenaName>
+  <leagueId>80</leagueId>
+  <youthLeagueId>129</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>102</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

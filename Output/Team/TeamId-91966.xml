@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91966</teamId>
+  <teamName>Team Sants</teamName>
+  <owner>sants</owner>
+  <founded>2021-07-07T15:19:22+02:00</founded>
+  <youthFounded>2021-07-07T23:40:27+02:00</youthFounded>
+  <arenaId>56991</arenaId>
+  <arenaName>Sants Stadium</arenaName>
+  <leagueId>571</leagueId>
+  <youthLeagueId>180</youthLeagueId>
+  <nationId>8</nationId>
+  <regionId>168</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

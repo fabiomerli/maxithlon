@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>82470</teamId>
+  <teamName>Atletica Buonappetito</teamName>
+  <owner>Marce</owner>
+  <founded>2015-07-15T11:05:09+02:00</founded>
+  <youthFounded>2017-11-16T16:47:06+01:00</youthFounded>
+  <arenaId>51038</arenaId>
+  <arenaName>Jonathan Livingston</arenaName>
+  <leagueId>4</leagueId>
+  <youthLeagueId>114</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>15</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92435</teamId>
+  <teamName>Atletismo Sanse 2021</teamName>
+  <owner>LuisP</owner>
+  <founded>2021-12-08T09:46:47+01:00</founded>
+  <youthFounded>2021-12-09T00:30:24+01:00</youthFounded>
+  <arenaId>57311</arenaId>
+  <arenaName>Kazaros Kazarian</arenaName>
+  <leagueId>48</leagueId>
+  <youthLeagueId>132</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>116</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

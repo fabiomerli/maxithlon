@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93264</teamId>
+  <teamName>SLG Hakenfelde</teamName>
+  <owner>AlexB</owner>
+  <founded>2022-12-03T17:00:09+01:00</founded>
+  <youthFounded>2022-12-12T00:31:29+01:00</youthFounded>
+  <arenaId>57831</arenaId>
+  <arenaName>Stadion Hakenfelde</arenaName>
+  <leagueId>69</leagueId>
+  <youthLeagueId>199</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>46</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

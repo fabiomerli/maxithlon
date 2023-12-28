@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93893</teamId>
+  <teamName>Quedas Atlético</teamName>
+  <owner>Luli_</owner>
+  <founded>2023-08-27T14:09:17+02:00</founded>
+  <youthFounded>2023-08-28T00:30:46+02:00</youthFounded>
+  <arenaId>58157</arenaId>
+  <arenaName>Estádio Quedas</arenaName>
+  <leagueId>116</leagueId>
+  <youthLeagueId>164</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>200</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

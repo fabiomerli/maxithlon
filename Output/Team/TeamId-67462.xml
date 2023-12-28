@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>67462</teamId>
+  <teamName>LKS Toruń</teamName>
+  <owner>Serafus</owner>
+  <founded>2012-09-22T20:52:18+02:00</founded>
+  <youthFounded>2023-03-15T00:30:37+01:00</youthFounded>
+  <arenaId>43161</arenaId>
+  <arenaName>Toruń Arena</arenaName>
+  <leagueId>193</leagueId>
+  <youthLeagueId>148</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>262</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

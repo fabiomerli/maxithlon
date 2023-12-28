@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>46151</teamId>
+  <teamName>Silkeborg AK</teamName>
+  <owner>blauert</owner>
+  <founded>2010-07-30T22:08:55+02:00</founded>
+  <youthFounded>2017-11-12T06:46:54+01:00</youthFounded>
+  <arenaId>30085</arenaId>
+  <arenaName>Silkeborg Stadion</arenaName>
+  <leagueId>565</leagueId>
+  <youthLeagueId>181</youthLeagueId>
+  <nationId>9</nationId>
+  <regionId>135</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

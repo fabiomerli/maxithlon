@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>3861</teamId>
+  <teamName>Pietro's Athletes</teamName>
+  <owner>Pietrogent</owner>
+  <founded>2007-06-21T15:33:07+02:00</founded>
+  <youthFounded>2017-11-12T19:55:06+01:00</youthFounded>
+  <arenaId>2809</arenaId>
+  <arenaName>Pietro's Stadium</arenaName>
+  <leagueId>33</leagueId>
+  <youthLeagueId>155</youthLeagueId>
+  <nationId>6</nationId>
+  <regionId>93</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

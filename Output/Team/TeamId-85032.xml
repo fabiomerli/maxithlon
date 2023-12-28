@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>85032</teamId>
+  <teamName>Connecticut Racing Club</teamName>
+  <owner>dvgravity</owner>
+  <founded>2016-08-19T14:53:43+02:00</founded>
+  <youthFounded>2017-11-13T15:12:50+01:00</youthFounded>
+  <arenaId>52679</arenaId>
+  <arenaName>Fleetfoot Stadium</arenaName>
+  <leagueId>175</leagueId>
+  <youthLeagueId>170</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>234</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

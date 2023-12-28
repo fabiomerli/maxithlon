@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94921</teamId>
+  <teamName>Becerril Athletics</teamName>
+  <owner>betonick</owner>
+  <founded>2023-11-26T01:20:17+01:00</founded>
+  <youthFounded>2023-11-27T00:31:37+01:00</youthFounded>
+  <arenaId>58277</arenaId>
+  <arenaName>El pilón del pueblo</arenaName>
+  <leagueId>92</leagueId>
+  <youthLeagueId>207</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>116</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

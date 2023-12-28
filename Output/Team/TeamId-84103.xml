@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>84103</teamId>
+  <teamName>LAC Nordlord</teamName>
+  <owner>Move44</owner>
+  <founded>2016-03-25T19:55:45+01:00</founded>
+  <youthFounded>2020-01-11T20:17:57+01:00</youthFounded>
+  <arenaId>52068</arenaId>
+  <arenaName>Stadion Nord</arenaName>
+  <leagueId>39</leagueId>
+  <youthLeagueId>194</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>52</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

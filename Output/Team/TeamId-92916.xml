@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92916</teamId>
+  <teamName>C.D Atletico Bañezano</teamName>
+  <owner>loes31</owner>
+  <founded>2022-06-21T14:03:06+02:00</founded>
+  <youthFounded>2022-06-23T00:30:29+02:00</youthFounded>
+  <arenaId>57618</arenaId>
+  <arenaName>La Llanera Stadium</arenaName>
+  <leagueId>82</leagueId>
+  <youthLeagueId>128</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>107</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

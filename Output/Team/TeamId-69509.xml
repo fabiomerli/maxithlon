@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>69509</teamId>
+  <teamName>Runyan Lake Blue Racers</teamName>
+  <owner>captaincarter</owner>
+  <founded>2012-12-11T14:41:32+01:00</founded>
+  <youthFounded>2017-11-16T04:18:57+01:00</youthFounded>
+  <arenaId>44103</arenaId>
+  <arenaName>Fenton Field House</arenaName>
+  <leagueId>142</leagueId>
+  <youthLeagueId>174</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>230</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

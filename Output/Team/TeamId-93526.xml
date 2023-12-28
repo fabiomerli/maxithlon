@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93526</teamId>
+  <teamName>NBAA Lions</teamName>
+  <owner>SavBreJoe</owner>
+  <founded>2023-04-11T12:32:55+02:00</founded>
+  <youthFounded>2023-06-14T00:30:35+02:00</youthFounded>
+  <arenaId>57978</arenaId>
+  <arenaName>Moncton Coliseum</arenaName>
+  <leagueId>570</leagueId>
+  <youthLeagueId>174</youthLeagueId>
+  <nationId>19</nationId>
+  <regionId>247</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93317</teamId>
+  <teamName>Atletico Coloyeta</teamName>
+  <owner>Coloyeta</owner>
+  <founded>2022-12-22T16:56:28+01:00</founded>
+  <youthFounded>2022-12-24T00:31:35+01:00</youthFounded>
+  <arenaId>57856</arenaId>
+  <arenaName>Coloyeta Center</arenaName>
+  <leagueId>574</leagueId>
+  <youthLeagueId>152</youthLeagueId>
+  <nationId>15</nationId>
+  <regionId>212</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

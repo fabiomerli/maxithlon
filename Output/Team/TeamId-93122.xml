@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93122</teamId>
+  <teamName>DMGTO Athletics</teamName>
+  <owner>panka</owner>
+  <founded>2022-09-10T00:51:38+02:00</founded>
+  <youthFounded>2022-09-22T00:30:29+02:00</youthFounded>
+  <arenaId>57755</arenaId>
+  <arenaName>DMGTO Arena</arenaName>
+  <leagueId>8</leagueId>
+  <youthLeagueId>121</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>5</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

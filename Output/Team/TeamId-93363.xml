@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93363</teamId>
+  <teamName>Leo Messi Track and Field</teamName>
+  <owner>leonelgcarrizo</owner>
+  <founded>2023-01-24T12:22:56+01:00</founded>
+  <youthFounded>2023-01-29T00:30:48+01:00</youthFounded>
+  <arenaId>57889</arenaId>
+  <arenaName>Arena Nationala</arenaName>
+  <leagueId>568</leagueId>
+  <youthLeagueId>152</youthLeagueId>
+  <nationId>15</nationId>
+  <regionId>212</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

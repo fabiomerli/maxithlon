@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91842</teamId>
+  <teamName>ULA Arlon</teamName>
+  <owner>Thomas</owner>
+  <founded>2021-05-08T21:29:21+02:00</founded>
+  <youthFounded>2021-05-08T22:25:12+02:00</youthFounded>
+  <arenaId>56912</arenaId>
+  <arenaName>Stade Arlon</arenaName>
+  <leagueId>33</leagueId>
+  <youthLeagueId>156</youthLeagueId>
+  <nationId>6</nationId>
+  <regionId>100</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

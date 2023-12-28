@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>53228</teamId>
+  <teamName>Ghostrunners</teamName>
+  <owner>IAN</owner>
+  <founded>2011-02-22T01:29:59+01:00</founded>
+  <youthFounded>2017-11-16T21:46:54+01:00</youthFounded>
+  <arenaId>34443</arenaId>
+  <arenaName>Elk Valley Arena</arenaName>
+  <leagueId>567</leagueId>
+  <youthLeagueId>173</youthLeagueId>
+  <nationId>19</nationId>
+  <regionId>244</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

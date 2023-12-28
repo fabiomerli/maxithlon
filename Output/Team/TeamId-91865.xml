@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91865</teamId>
+  <teamName>Aspiring Athletes</teamName>
+  <owner>Timzy</owner>
+  <founded>2021-05-18T09:47:13+02:00</founded>
+  <youthFounded>2021-05-18T10:31:26+02:00</youthFounded>
+  <arenaId>56926</arenaId>
+  <arenaName>Wanaka Recreation Centre</arenaName>
+  <leagueId>569</leagueId>
+  <youthLeagueId>169</youthLeagueId>
+  <nationId>49</nationId>
+  <regionId>460</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

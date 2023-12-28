@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93234</teamId>
+  <teamName>Old Brodleians</teamName>
+  <owner>WascalyWabbit</owner>
+  <founded>2022-11-11T10:44:16+01:00</founded>
+  <youthFounded>2022-11-12T00:31:29+01:00</youthFounded>
+  <arenaId>57812</arenaId>
+  <arenaName>Woodhead Park</arenaName>
+  <leagueId>576</leagueId>
+  <youthLeagueId>171</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>158</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

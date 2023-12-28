@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91484</teamId>
+  <teamName>Bourne Harriers</teamName>
+  <owner>sevenb</owner>
+  <founded>2020-12-09T12:55:46+01:00</founded>
+  <youthFounded>2020-12-09T13:18:42+01:00</youthFounded>
+  <arenaId>56682</arenaId>
+  <arenaName>Kings Park</arenaName>
+  <leagueId>574</leagueId>
+  <youthLeagueId>175</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>154</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

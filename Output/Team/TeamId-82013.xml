@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>82013</teamId>
+  <teamName>Sparte</teamName>
+  <owner>Sparte</owner>
+  <founded>2015-05-22T13:19:30+02:00</founded>
+  <youthFounded>2017-11-16T13:01:34+01:00</youthFounded>
+  <arenaId>50766</arenaId>
+  <arenaName>Σπάρτη</arenaName>
+  <leagueId>77</leagueId>
+  <youthLeagueId>142</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>549</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

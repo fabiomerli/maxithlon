@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90563</teamId>
+  <teamName>AC Norteños</teamName>
+  <owner>VRN29</owner>
+  <founded>2020-04-17T19:19:56+02:00</founded>
+  <youthFounded>2023-08-23T00:30:43+02:00</youthFounded>
+  <arenaId>56076</arenaId>
+  <arenaName>Northern Alliance Arena</arenaName>
+  <leagueId>80</leagueId>
+  <youthLeagueId>132</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>111</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

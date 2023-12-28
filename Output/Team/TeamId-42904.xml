@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>42904</teamId>
+  <teamName>Astoria Troy Walbrzych</teamName>
+  <owner>barteq21</owner>
+  <founded>2010-05-03T18:29:15+02:00</founded>
+  <youthFounded>2017-11-12T19:12:21+01:00</youthFounded>
+  <arenaId>27976</arenaId>
+  <arenaName>Troy Arena</arenaName>
+  <leagueId>179</leagueId>
+  <youthLeagueId>146</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>261</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

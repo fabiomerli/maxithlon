@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>63677</teamId>
+  <teamName>TBC Liblar</teamName>
+  <owner>Eurofighter</owner>
+  <founded>2012-06-11T13:32:11+02:00</founded>
+  <youthFounded>2017-11-13T11:14:51+01:00</youthFounded>
+  <arenaId>40982</arenaId>
+  <arenaName>Friedhof der Rekorde</arenaName>
+  <leagueId>40</leagueId>
+  <youthLeagueId>194</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>53</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

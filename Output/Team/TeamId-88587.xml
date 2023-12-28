@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>88587</teamId>
+  <teamName>AC Vince</teamName>
+  <owner>vinceathlé </owner>
+  <founded>2018-08-15T00:01:21+02:00</founded>
+  <youthFounded>2018-08-15T12:12:47+02:00</youthFounded>
+  <arenaId>54878</arenaId>
+  <arenaName>Olympique Vince Stadium</arenaName>
+  <leagueId>77</leagueId>
+  <youthLeagueId>141</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>548</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

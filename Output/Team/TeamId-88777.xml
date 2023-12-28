@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>88777</teamId>
+  <teamName>Dan Kolov 2018</teamName>
+  <owner>Tippim</owner>
+  <founded>2018-10-05T17:23:52+02:00</founded>
+  <youthFounded>2018-10-06T06:42:54+02:00</youthFounded>
+  <arenaId>54989</arenaId>
+  <arenaName>National Stadium</arenaName>
+  <leagueId>564</leagueId>
+  <youthLeagueId>189</youthLeagueId>
+  <nationId>43</nationId>
+  <regionId>426</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>64032</teamId>
+  <teamName>TFC BW Oldenburg</teamName>
+  <owner>Karlchengans</owner>
+  <founded>2012-06-28T17:20:29+02:00</founded>
+  <youthFounded>2017-11-14T06:52:18+01:00</youthFounded>
+  <arenaId>41180</arenaId>
+  <arenaName>Speed Arena</arenaName>
+  <leagueId>40</leagueId>
+  <youthLeagueId>196</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>52</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

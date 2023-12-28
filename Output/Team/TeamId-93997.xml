@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93997</teamId>
+  <teamName>Desportivo Evolução</teamName>
+  <owner>NunesM</owner>
+  <founded>2023-09-10T13:14:31+02:00</founded>
+  <youthFounded>2023-09-11T00:30:41+02:00</youthFounded>
+  <arenaId>58185</arenaId>
+  <arenaName>Complexo Simples</arenaName>
+  <leagueId>115</leagueId>
+  <youthLeagueId>167</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>198</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>87714</teamId>
+  <teamName>Canyadó Atletisme</teamName>
+  <owner>Alex97</owner>
+  <founded>2018-01-02T11:10:34+01:00</founded>
+  <youthFounded>2018-01-02T12:18:36+01:00</youthFounded>
+  <arenaId>54270</arenaId>
+  <arenaName>La Baixadeta</arenaName>
+  <leagueId>49</leagueId>
+  <youthLeagueId>131</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>109</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

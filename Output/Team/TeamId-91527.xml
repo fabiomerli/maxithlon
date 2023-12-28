@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91527</teamId>
+  <teamName>Tempe Track Club</teamName>
+  <owner>Desert_Nomad</owner>
+  <founded>2020-12-25T21:42:27+01:00</founded>
+  <youthFounded>2020-12-25T23:16:50+01:00</youthFounded>
+  <arenaId>56701</arenaId>
+  <arenaName>Saguaro Arena</arenaName>
+  <leagueId>142</leagueId>
+  <youthLeagueId>173</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>231</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>68016</teamId>
+  <teamName>Alexandria III</teamName>
+  <owner>CatuV</owner>
+  <founded>2012-10-08T12:46:05+02:00</founded>
+  <youthFounded>2017-11-14T12:37:24+01:00</youthFounded>
+  <arenaId>43399</arenaId>
+  <arenaName>Alexandria Arena</arenaName>
+  <leagueId>567</leagueId>
+  <youthLeagueId>192</youthLeagueId>
+  <nationId>63</nationId>
+  <regionId>523</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94696</teamId>
+  <teamName>Stars</teamName>
+  <owner>HassanB</owner>
+  <founded>2023-10-22T08:45:55+02:00</founded>
+  <youthFounded>2023-10-23T00:30:37+02:00</youthFounded>
+  <arenaId>58239</arenaId>
+  <arenaName>Stars Arena</arenaName>
+  <leagueId>587</leagueId>
+  <youthLeagueId>192</youthLeagueId>
+  <nationId>66</nationId>
+  <regionId>532</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92492</teamId>
+  <teamName>Celtas Parque</teamName>
+  <owner>Chacal</owner>
+  <founded>2022-01-09T16:36:36+01:00</founded>
+  <youthFounded>2022-01-11T00:30:25+01:00</youthFounded>
+  <arenaId>57350</arenaId>
+  <arenaName>Estádio da CONSPIRAÇÃO</arenaName>
+  <leagueId>116</leagueId>
+  <youthLeagueId>162</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>200</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

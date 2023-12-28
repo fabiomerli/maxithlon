@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93567</teamId>
+  <teamName>Les Souchets en Furie</teamName>
+  <owner>Aokexplo2</owner>
+  <founded>2023-05-27T07:10:21+02:00</founded>
+  <youthFounded>2023-05-28T00:30:35+02:00</youthFounded>
+  <arenaId>58026</arenaId>
+  <arenaName>La Tonne</arenaName>
+  <leagueId>111</leagueId>
+  <youthLeagueId>141</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>189</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

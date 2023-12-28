@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>55136</teamId>
+  <teamName>Sportgruppe Kraftlos</teamName>
+  <owner>naich</owner>
+  <founded>2011-05-14T10:29:38+02:00</founded>
+  <youthFounded>2017-11-13T09:39:51+01:00</youthFounded>
+  <arenaId>35631</arenaId>
+  <arenaName>Kraut und Rueben Acker</arenaName>
+  <leagueId>573</leagueId>
+  <youthLeagueId>194</youthLeagueId>
+  <nationId>30</nationId>
+  <regionId>330</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

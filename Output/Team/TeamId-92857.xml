@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92857</teamId>
+  <teamName>ATOM</teamName>
+  <owner>linkleo911</owner>
+  <founded>2022-05-23T15:44:09+02:00</founded>
+  <youthFounded>2022-05-24T00:30:26+02:00</youthFounded>
+  <arenaId>57589</arenaId>
+  <arenaName>ATOM Arena</arenaName>
+  <leagueId>570</leagueId>
+  <youthLeagueId>162</youthLeagueId>
+  <nationId>17</nationId>
+  <regionId>227</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

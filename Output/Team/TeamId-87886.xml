@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>87886</teamId>
+  <teamName>The Originals</teamName>
+  <owner>BMaCG</owner>
+  <founded>2018-02-04T18:18:04+01:00</founded>
+  <youthFounded>2023-12-08T00:30:55+01:00</youthFounded>
+  <arenaId>54379</arenaId>
+  <arenaName>The Colisée</arenaName>
+  <leagueId>186</leagueId>
+  <youthLeagueId>216</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>234</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

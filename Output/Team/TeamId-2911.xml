@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>2911</teamId>
+  <teamName>Bakelse Atletiek Club</teamName>
+  <owner>Gynnad</owner>
+  <founded>2007-05-01T20:17:25+02:00</founded>
+  <youthFounded>2017-11-12T00:36:30+01:00</youthFounded>
+  <arenaId>2191</arenaId>
+  <arenaName>D'n Ronde</arenaName>
+  <leagueId>41</leagueId>
+  <youthLeagueId>157</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>85</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

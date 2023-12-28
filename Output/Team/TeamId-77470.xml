@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>77470</teamId>
+  <teamName>De snelle rakkers</teamName>
+  <owner>pietervdijk</owner>
+  <founded>2014-02-18T12:41:36+01:00</founded>
+  <youthFounded>2017-11-13T10:53:32+01:00</youthFounded>
+  <arenaId>48249</arenaId>
+  <arenaName>rakkerrace</arenaName>
+  <leagueId>35</leagueId>
+  <youthLeagueId>155</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>83</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

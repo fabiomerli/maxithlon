@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93745</teamId>
+  <teamName>Tokyo Racers</teamName>
+  <owner>Itotakeshi</owner>
+  <founded>2023-08-03T03:11:15+02:00</founded>
+  <youthFounded>2023-08-04T00:30:37+02:00</youthFounded>
+  <arenaId>58114</arenaId>
+  <arenaName>Tokyo Stadium</arenaName>
+  <leagueId>577</leagueId>
+  <youthLeagueId>192</youthLeagueId>
+  <nationId>55</nationId>
+  <regionId>497</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

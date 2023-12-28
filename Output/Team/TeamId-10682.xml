@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>10682</teamId>
+  <teamName>CAT MONCLOA</teamName>
+  <owner>HC18</owner>
+  <founded>2008-02-01T17:08:29+01:00</founded>
+  <youthFounded>2017-11-12T10:40:12+01:00</youthFounded>
+  <arenaId>7316</arenaId>
+  <arenaName>Moncloa</arenaName>
+  <leagueId>94</leagueId>
+  <youthLeagueId>134</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>116</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93785</teamId>
+  <teamName>Tokko Athletics</teamName>
+  <owner>mickael112</owner>
+  <founded>2023-08-19T13:46:21+02:00</founded>
+  <youthFounded>2023-08-20T00:30:37+02:00</youthFounded>
+  <arenaId>58133</arenaId>
+  <arenaName>Red Blitz</arenaName>
+  <leagueId>113</leagueId>
+  <youthLeagueId>145</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>183</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>88950</teamId>
+  <teamName>Churchfield Chics</teamName>
+  <owner>Stephensen</owner>
+  <founded>2018-12-03T09:49:20+01:00</founded>
+  <youthFounded>2018-12-05T20:15:08+01:00</youthFounded>
+  <arenaId>55094</arenaId>
+  <arenaName>Chics Arena</arenaName>
+  <leagueId>40</leagueId>
+  <youthLeagueId>195</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>44</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

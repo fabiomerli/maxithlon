@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93012</teamId>
+  <teamName>Sabines GS</teamName>
+  <owner>Sabinas Bellos</owner>
+  <founded>2022-08-06T11:21:14+02:00</founded>
+  <youthFounded>2022-08-10T00:30:35+02:00</youthFounded>
+  <arenaId>57697</arenaId>
+  <arenaName>Gipedo Sabinas Bellos</arenaName>
+  <leagueId>165</leagueId>
+  <youthLeagueId>178</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>239</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

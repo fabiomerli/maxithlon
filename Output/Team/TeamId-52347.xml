@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>52347</teamId>
+  <teamName>Club Argentino de la Rodilla</teamName>
+  <owner>Botyja</owner>
+  <founded>2011-01-19T02:10:52+01:00</founded>
+  <youthFounded>2017-11-15T14:02:15+01:00</youthFounded>
+  <arenaId>33938</arenaId>
+  <arenaName>Cuerpo Humano</arenaName>
+  <leagueId>573</leagueId>
+  <youthLeagueId>153</youthLeagueId>
+  <nationId>15</nationId>
+  <regionId>211</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

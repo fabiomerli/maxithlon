@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>17925</teamId>
+  <teamName>Talentschmiede</teamName>
+  <owner>mek-js</owner>
+  <founded>2008-08-19T22:34:53+02:00</founded>
+  <youthFounded>2017-11-12T14:21:55+01:00</youthFounded>
+  <arenaId>11839</arenaId>
+  <arenaName>Talentschmiedetiegel</arenaName>
+  <leagueId>68</leagueId>
+  <youthLeagueId>196</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>56</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>24200</teamId>
+  <teamName>Breizh AC</teamName>
+  <owner>tux55</owner>
+  <founded>2009-01-21T21:40:59+01:00</founded>
+  <youthFounded>2018-01-20T12:36:17+01:00</youthFounded>
+  <arenaId>15893</arenaId>
+  <arenaName>Armor Stadium</arenaName>
+  <leagueId>77</leagueId>
+  <youthLeagueId>140</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>177</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

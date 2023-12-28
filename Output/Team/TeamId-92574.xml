@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92574</teamId>
+  <teamName>A.S Efhbos Chiou</teamName>
+  <owner>Panathinaikos</owner>
+  <founded>2022-01-31T16:28:08+01:00</founded>
+  <youthFounded>2022-03-06T00:30:27+01:00</youthFounded>
+  <arenaId>57404</arenaId>
+  <arenaName>ΠΑΓΧΙΑΚΟ ΣΤΑΔΙΟ</arenaName>
+  <leagueId>166</leagueId>
+  <youthLeagueId>239</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>238</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>80394</teamId>
+  <teamName>C.A. Athleo Cieza</teamName>
+  <owner>ACamachoG94</owner>
+  <founded>2014-11-29T19:01:33+01:00</founded>
+  <youthFounded>2017-11-14T17:28:07+01:00</youthFounded>
+  <arenaId>49906</arenaId>
+  <arenaName>Juan Manuel Molina</arenaName>
+  <leagueId>79</leagueId>
+  <youthLeagueId>135</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>117</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92170</teamId>
+  <teamName>CLUB ATHLETIC COMBARRO</teamName>
+  <owner>Barbas_85</owner>
+  <founded>2021-08-11T17:08:23+02:00</founded>
+  <youthFounded>2021-09-13T00:30:38+02:00</youthFounded>
+  <arenaId>57135</arenaId>
+  <arenaName>LAS GAUNAS</arenaName>
+  <leagueId>79</leagueId>
+  <youthLeagueId>130</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>109</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

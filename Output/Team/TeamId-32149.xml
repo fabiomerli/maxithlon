@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>32149</teamId>
+  <teamName>AC Elephant Mladá Boleslav</teamName>
+  <owner>Cardamine</owner>
+  <founded>2009-08-25T11:12:44+02:00</founded>
+  <youthFounded>2017-11-12T18:37:45+01:00</youthFounded>
+  <arenaId>20756</arenaId>
+  <arenaName>Elephant stadion</arenaName>
+  <leagueId>316</leagueId>
+  <youthLeagueId>185</youthLeagueId>
+  <nationId>38</nationId>
+  <regionId>395</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

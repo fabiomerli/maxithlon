@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92473</teamId>
+  <teamName>Cows Track Club</teamName>
+  <owner>ghostult1</owner>
+  <founded>2022-01-02T02:19:22+01:00</founded>
+  <youthFounded>2022-01-07T00:30:24+01:00</youthFounded>
+  <arenaId>57337</arenaId>
+  <arenaName>Grazing Arena</arenaName>
+  <leagueId>142</leagueId>
+  <youthLeagueId>171</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>228</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92260</teamId>
+  <teamName>Roca Pintada</teamName>
+  <owner>marticonapo</owner>
+  <founded>2021-09-04T20:58:56+02:00</founded>
+  <youthFounded>2021-09-13T00:30:42+02:00</youthFounded>
+  <arenaId>57191</arenaId>
+  <arenaName>Monumental de Hurlingham</arenaName>
+  <leagueId>575</leagueId>
+  <youthLeagueId>153</youthLeagueId>
+  <nationId>15</nationId>
+  <regionId>211</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <id>39915446</id>
+  <typeId>1</typeId>
+  <sex>0</sex>
+  <date>2023-12-27T22:00:00+01:00</date>
+  <status>3</status>
+  <heat index="1">
+    <athlete index="1">
+      <id>4568138</id>
+      <teamId>86145</teamId>
+      <performance>13.05</performance>
+      <placing>5</placing>
+      <score>805</score>
+    </athlete>
+    <athlete index="2">
+      <id>4616944</id>
+      <teamId>80394</teamId>
+      <performance>12.98</performance>
+      <placing>4</placing>
+      <score>818</score>
+    </athlete>
+    <athlete index="3">
+      <id>4614707</id>
+      <teamId>23437</teamId>
+      <performance>12.08</performance>
+      <placing>1</placing>
+      <score>988</score>
+    </athlete>
+    <athlete index="4">
+      <id>4305112</id>
+      <teamId>23452</teamId>
+      <performance>14.13</performance>
+      <placing>6</placing>
+      <score>601</score>
+    </athlete>
+    <athlete index="5">
+      <id>4539296</id>
+      <teamId>83163</teamId>
+      <performance>12.49</performance>
+      <placing>2</placing>
+      <score>911</score>
+    </athlete>
+    <athlete index="6">
+      <id>4578155</id>
+      <teamId>59376</teamId>
+      <performance>12.51</performance>
+      <placing>3</placing>
+      <score>907</score>
+    </athlete>
+  </heat>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>71071</teamId>
+  <teamName>Odivelas Clube</teamName>
+  <owner>beta</owner>
+  <founded>2013-02-15T20:48:08+01:00</founded>
+  <youthFounded>2017-11-12T20:14:51+01:00</youthFounded>
+  <arenaId>44855</arenaId>
+  <arenaName>Herdade principesca</arenaName>
+  <leagueId>116</leagueId>
+  <youthLeagueId>164</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>200</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

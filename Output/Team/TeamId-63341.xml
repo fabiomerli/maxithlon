@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>63341</teamId>
+  <teamName>Graffiti</teamName>
+  <owner>Sk8ter</owner>
+  <founded>2012-06-06T21:42:26+02:00</founded>
+  <youthFounded>2017-11-14T19:29:23+01:00</youthFounded>
+  <arenaId>40909</arenaId>
+  <arenaName>Halfpipe</arenaName>
+  <leagueId>39</leagueId>
+  <youthLeagueId>195</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>57</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

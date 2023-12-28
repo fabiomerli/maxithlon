@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>13773</teamId>
+  <teamName>AC MILTIADES Salonika</teamName>
+  <owner>dionysios2002</owner>
+  <founded>2008-05-11T21:55:24+02:00</founded>
+  <youthFounded>2018-01-09T19:31:21+01:00</youthFounded>
+  <arenaId>9317</arenaId>
+  <arenaName>Miltiades Track &amp; Field Stadium</arenaName>
+  <leagueId>150</leagueId>
+  <youthLeagueId>176</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>242</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

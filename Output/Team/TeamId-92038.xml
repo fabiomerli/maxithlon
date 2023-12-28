@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92038</teamId>
+  <teamName>Армагедец</teamName>
+  <owner>Manul</owner>
+  <founded>2021-07-27T17:51:48+02:00</founded>
+  <youthFounded>2021-09-13T00:30:50+02:00</youthFounded>
+  <arenaId>57026</arenaId>
+  <arenaName>Калинина</arenaName>
+  <leagueId>574</leagueId>
+  <youthLeagueId>189</youthLeagueId>
+  <nationId>32</nationId>
+  <regionId>342</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

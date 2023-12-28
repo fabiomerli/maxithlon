@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>84679</teamId>
+  <teamName>LC_Pokémon</teamName>
+  <owner>el-mamone</owner>
+  <founded>2016-07-21T20:35:23+02:00</founded>
+  <youthFounded>2017-11-12T22:43:12+01:00</youthFounded>
+  <arenaId>52443</arenaId>
+  <arenaName>PikachuArena</arenaName>
+  <leagueId>571</leagueId>
+  <youthLeagueId>196</youthLeagueId>
+  <nationId>2</nationId>
+  <regionId>30</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

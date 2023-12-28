@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93365</teamId>
+  <teamName>Chimbarongo</teamName>
+  <owner>g.i.diazjara</owner>
+  <founded>2023-01-24T02:00:22+01:00</founded>
+  <youthFounded>2023-01-26T00:30:52+01:00</youthFounded>
+  <arenaId>57887</arenaId>
+  <arenaName>Estadio Olímpico de Chimbarongo</arenaName>
+  <leagueId>575</leagueId>
+  <youthLeagueId>152</youthLeagueId>
+  <nationId>25</nationId>
+  <regionId>285</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

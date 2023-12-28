@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93800</teamId>
+  <teamName>JáToNeumím</teamName>
+  <owner>PatricusCZ</owner>
+  <founded>2023-08-29T17:43:15+02:00</founded>
+  <youthFounded>2023-09-08T00:30:37+02:00</youthFounded>
+  <arenaId>58167</arenaId>
+  <arenaName>Lamas</arenaName>
+  <leagueId>320</leagueId>
+  <youthLeagueId>185</youthLeagueId>
+  <nationId>38</nationId>
+  <regionId>388</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

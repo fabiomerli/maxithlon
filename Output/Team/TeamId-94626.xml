@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94626</teamId>
+  <teamName>PokerTeam</teamName>
+  <owner>Poker_Face</owner>
+  <founded>2023-10-19T06:27:00+02:00</founded>
+  <youthFounded>2023-10-20T00:30:36+02:00</youthFounded>
+  <arenaId>58234</arenaId>
+  <arenaName>PokerStadium</arenaName>
+  <leagueId>66</leagueId>
+  <youthLeagueId>199</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>49</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

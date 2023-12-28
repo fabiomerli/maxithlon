@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94914</teamId>
+  <teamName>AC Young Stars</teamName>
+  <owner>Ironfre2023</owner>
+  <founded>2023-11-24T19:38:18+01:00</founded>
+  <youthFounded>2023-11-27T00:31:37+01:00</youthFounded>
+  <arenaId>58274</arenaId>
+  <arenaName>Starfield</arenaName>
+  <leagueId>37</leagueId>
+  <youthLeagueId>159</youthLeagueId>
+  <nationId>6</nationId>
+  <regionId>94</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

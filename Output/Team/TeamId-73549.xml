@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>73549</teamId>
+  <teamName>Nitram Racing</teamName>
+  <owner>Eus_Thor</owner>
+  <founded>2013-06-26T15:33:46+02:00</founded>
+  <youthFounded>2020-09-05T14:44:38+02:00</youthFounded>
+  <arenaId>46065</arenaId>
+  <arenaName>Nitram Arena</arenaName>
+  <leagueId>48</leagueId>
+  <youthLeagueId>132</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>113</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94048</teamId>
+  <teamName>Midwest Lakes TC</teamName>
+  <owner>collin03</owner>
+  <founded>2023-09-08T21:13:55+02:00</founded>
+  <youthFounded>2023-09-12T00:30:37+02:00</youthFounded>
+  <arenaId>58183</arenaId>
+  <arenaName>The Cornfield</arenaName>
+  <leagueId>175</leagueId>
+  <youthLeagueId>174</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>232</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

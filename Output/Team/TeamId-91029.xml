@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91029</teamId>
+  <teamName>Vettonia</teamName>
+  <owner>Jono-Daso</owner>
+  <founded>2020-07-23T10:11:23+02:00</founded>
+  <youthFounded>2020-07-23T10:39:17+02:00</youthFounded>
+  <arenaId>56395</arenaId>
+  <arenaName>Vacetonia</arenaName>
+  <leagueId>80</leagueId>
+  <youthLeagueId>131</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>104</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

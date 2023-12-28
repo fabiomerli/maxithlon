@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91577</teamId>
+  <teamName>Asspera</teamName>
+  <owner>Ztheuse</owner>
+  <founded>2021-01-25T16:07:44+01:00</founded>
+  <youthFounded>2021-01-27T19:45:34+01:00</youthFounded>
+  <arenaId>56733</arenaId>
+  <arenaName>Assperiano</arenaName>
+  <leagueId>569</leagueId>
+  <youthLeagueId>152</youthLeagueId>
+  <nationId>15</nationId>
+  <regionId>211</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

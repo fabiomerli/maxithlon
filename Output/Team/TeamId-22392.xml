@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>22392</teamId>
+  <teamName>APOLLON</teamName>
+  <owner>APOLLON</owner>
+  <founded>2008-11-25T19:20:22+01:00</founded>
+  <youthFounded>2017-12-30T17:37:25+01:00</youthFounded>
+  <arenaId>14735</arenaId>
+  <arenaName>VAMOS PALACE</arenaName>
+  <leagueId>150</leagueId>
+  <youthLeagueId>178</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>238</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

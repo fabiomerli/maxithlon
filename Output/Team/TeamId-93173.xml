@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93173</teamId>
+  <teamName>Stražišče Kranj</teamName>
+  <owner>kos76</owner>
+  <founded>2022-10-07T13:55:08+02:00</founded>
+  <youthFounded>2022-10-11T00:30:28+02:00</youthFounded>
+  <arenaId>57776</arenaId>
+  <arenaName>SAVA</arenaName>
+  <leagueId>571</leagueId>
+  <youthLeagueId>184</youthLeagueId>
+  <nationId>40</nationId>
+  <regionId>401</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

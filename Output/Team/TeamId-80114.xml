@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>80114</teamId>
+  <teamName>KS Jezioro</teamName>
+  <owner>Lukk1</owner>
+  <founded>2014-10-21T15:57:53+02:00</founded>
+  <youthFounded>2018-06-15T23:46:23+02:00</youthFounded>
+  <arenaId>49747</arenaId>
+  <arenaName>Jezioro Arena</arenaName>
+  <leagueId>193</leagueId>
+  <youthLeagueId>148</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>269</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

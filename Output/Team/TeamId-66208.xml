@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>66208</teamId>
+  <teamName>Dynamic</teamName>
+  <owner>movida</owner>
+  <founded>2012-08-17T13:45:12+02:00</founded>
+  <youthFounded>2023-12-02T00:30:44+01:00</youthFounded>
+  <arenaId>42444</arenaId>
+  <arenaName>Dynamic Center</arenaName>
+  <leagueId>9</leagueId>
+  <youthLeagueId>122</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>14</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

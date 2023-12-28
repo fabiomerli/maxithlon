@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92220</teamId>
+  <teamName>Kimchi Dragon</teamName>
+  <owner>Driedsqidelf</owner>
+  <founded>2021-09-13T11:43:04+02:00</founded>
+  <youthFounded>2021-09-23T00:30:23+02:00</youthFounded>
+  <arenaId>57210</arenaId>
+  <arenaName>Soju is Good Arena</arenaName>
+  <leagueId>569</leagueId>
+  <youthLeagueId>175</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>161</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

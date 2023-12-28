@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>81323</teamId>
+  <teamName>De Gemzen</teamName>
+  <owner>Gems</owner>
+  <founded>2015-02-24T16:16:18+01:00</founded>
+  <youthFounded>2017-11-16T22:35:03+01:00</youthFounded>
+  <arenaId>50373</arenaId>
+  <arenaName>Lambert Dijkslagbaan</arenaName>
+  <leagueId>42</leagueId>
+  <youthLeagueId>155</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>82</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

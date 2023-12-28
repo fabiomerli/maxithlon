@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>20878</teamId>
+  <teamName>zenAttitude AS</teamName>
+  <owner>cafarnaum</owner>
+  <founded>2008-10-16T09:57:11+02:00</founded>
+  <youthFounded>2017-11-12T16:39:28+01:00</youthFounded>
+  <arenaId>13725</arenaId>
+  <arenaName>zenStadium</arenaName>
+  <leagueId>74</leagueId>
+  <youthLeagueId>140</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>551</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

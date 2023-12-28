@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>62728</teamId>
+  <teamName>Kootenay Grizzlies</teamName>
+  <owner>shawns</owner>
+  <founded>2012-04-21T20:57:13+02:00</founded>
+  <youthFounded>2017-11-17T20:03:54+01:00</youthFounded>
+  <arenaId>40433</arenaId>
+  <arenaName>Grizzly Bar and Track</arenaName>
+  <leagueId>566</leagueId>
+  <youthLeagueId>172</youthLeagueId>
+  <nationId>19</nationId>
+  <regionId>244</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

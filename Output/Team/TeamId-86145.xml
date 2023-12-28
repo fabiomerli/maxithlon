@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>86145</teamId>
+  <teamName>Bergamo Atletica</teamName>
+  <owner>Rexlove</owner>
+  <founded>2017-03-23T20:44:43+01:00</founded>
+  <youthFounded>2017-11-12T18:07:32+01:00</youthFounded>
+  <arenaId>53353</arenaId>
+  <arenaName>Cristo si è fermato all'embolo</arenaName>
+  <leagueId>3</leagueId>
+  <youthLeagueId>122</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>87619</teamId>
+  <teamName>De parkwacht</teamName>
+  <owner>DPW</owner>
+  <founded>2017-12-16T15:05:36+01:00</founded>
+  <youthFounded>2017-12-17T17:54:27+01:00</youthFounded>
+  <arenaId>54209</arenaId>
+  <arenaName>D. Van Ooteghem</arenaName>
+  <leagueId>33</leagueId>
+  <youthLeagueId>156</youthLeagueId>
+  <nationId>6</nationId>
+  <regionId>93</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>22781</teamId>
+  <teamName>Wizkids</teamName>
+  <owner>Wizkid</owner>
+  <founded>2008-12-12T14:38:05+01:00</founded>
+  <youthFounded>2022-01-18T00:30:24+01:00</youthFounded>
+  <arenaId>14993</arenaId>
+  <arenaName>Oceanstadium</arenaName>
+  <leagueId>41</leagueId>
+  <youthLeagueId>157</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>86</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>51206</teamId>
+  <teamName>ASTRAPI</teamName>
+  <owner>xios city</owner>
+  <founded>2010-12-22T20:46:23+01:00</founded>
+  <youthFounded>2017-11-13T19:26:58+01:00</youthFounded>
+  <arenaId>33301</arenaId>
+  <arenaName>ARIOUSIOS ARENA</arenaName>
+  <leagueId>150</leagueId>
+  <youthLeagueId>177</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>238</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93422</teamId>
+  <teamName>Xartia</teamName>
+  <owner>Xarhtna</owner>
+  <founded>2023-02-17T11:53:12+01:00</founded>
+  <youthFounded>2023-02-21T00:30:33+01:00</youthFounded>
+  <arenaId>57927</arenaId>
+  <arenaName>Sportgrond</arenaName>
+  <leagueId>37</leagueId>
+  <youthLeagueId>155</youthLeagueId>
+  <nationId>6</nationId>
+  <regionId>91</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>86323</teamId>
+  <teamName>The Knicks</teamName>
+  <owner>romyspruit</owner>
+  <founded>2017-05-13T20:22:14+02:00</founded>
+  <youthFounded>2017-11-17T15:32:20+01:00</youthFounded>
+  <arenaId>53458</arenaId>
+  <arenaName>Madison square garden</arenaName>
+  <leagueId>35</leagueId>
+  <youthLeagueId>156</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>86</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

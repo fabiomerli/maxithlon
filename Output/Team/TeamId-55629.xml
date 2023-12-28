@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>55629</teamId>
+  <teamName>Traktor Hosenscheisser</teamName>
+  <owner>setubal</owner>
+  <founded>2011-05-31T12:53:20+02:00</founded>
+  <youthFounded>2017-11-12T13:09:48+01:00</youthFounded>
+  <arenaId>35968</arenaId>
+  <arenaName>Traktarena</arenaName>
+  <leagueId>34</leagueId>
+  <youthLeagueId>194</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>57</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92570</teamId>
+  <teamName>La isla bonita</teamName>
+  <owner>Killian</owner>
+  <founded>2022-01-31T17:53:42+01:00</founded>
+  <youthFounded>2022-02-01T00:30:31+01:00</youthFounded>
+  <arenaId>57405</arenaId>
+  <arenaName>Bob Marley</arenaName>
+  <leagueId>569</leagueId>
+  <youthLeagueId>175</youthLeagueId>
+  <nationId>51</nationId>
+  <regionId>461</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92655</teamId>
+  <teamName>Atletismo Lima</teamName>
+  <owner>Santiago</owner>
+  <founded>2022-02-21T13:58:51+01:00</founded>
+  <youthFounded>2022-02-22T00:30:31+01:00</youthFounded>
+  <arenaId>57449</arenaId>
+  <arenaName>Estadio de Santiago</arenaName>
+  <leagueId>567</leagueId>
+  <youthLeagueId>152</youthLeagueId>
+  <nationId>36</nationId>
+  <regionId>382</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

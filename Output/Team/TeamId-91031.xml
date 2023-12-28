@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91031</teamId>
+  <teamName>GGC Team</teamName>
+  <owner>Futman</owner>
+  <founded>2020-07-23T21:42:55+02:00</founded>
+  <youthFounded>2020-07-23T22:17:15+02:00</youthFounded>
+  <arenaId>56398</arenaId>
+  <arenaName>GGC Estadium</arenaName>
+  <leagueId>577</leagueId>
+  <youthLeagueId>154</youthLeagueId>
+  <nationId>27</nationId>
+  <regionId>327</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

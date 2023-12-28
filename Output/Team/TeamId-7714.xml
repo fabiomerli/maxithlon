@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>7714</teamId>
+  <teamName>Indomables</teamName>
+  <owner>liza2503</owner>
+  <founded>2007-10-08T10:14:13+02:00</founded>
+  <youthFounded>2017-11-12T01:40:11+01:00</youthFounded>
+  <arenaId>5350</arenaId>
+  <arenaName>San Vicente</arenaName>
+  <leagueId>81</leagueId>
+  <youthLeagueId>128</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>111</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

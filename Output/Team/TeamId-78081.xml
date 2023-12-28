@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>78081</teamId>
+  <teamName>Ohio Elite TC</teamName>
+  <owner>OHcount</owner>
+  <founded>2014-03-29T03:19:03+01:00</founded>
+  <youthFounded>2022-07-26T00:30:29+02:00</youthFounded>
+  <arenaId>48523</arenaId>
+  <arenaName>Ohio Elite Complex</arenaName>
+  <leagueId>142</leagueId>
+  <youthLeagueId>170</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>232</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

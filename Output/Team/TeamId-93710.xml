@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93710</teamId>
+  <teamName>Papayou</teamName>
+  <owner>Papayou</owner>
+  <founded>2023-07-15T22:56:31+02:00</founded>
+  <youthFounded>2023-07-18T00:30:34+02:00</youthFounded>
+  <arenaId>58092</arenaId>
+  <arenaName>Papayou Stadium</arenaName>
+  <leagueId>114</leagueId>
+  <youthLeagueId>143</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>183</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94830</teamId>
+  <teamName>Matarroa AC</teamName>
+  <owner>MatarroaAC</owner>
+  <founded>2023-11-07T01:40:16+01:00</founded>
+  <youthFounded>2023-11-08T00:30:39+01:00</youthFounded>
+  <arenaId>58254</arenaId>
+  <arenaName>Matarroeses</arenaName>
+  <leagueId>116</leagueId>
+  <youthLeagueId>166</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>194</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>67060</teamId>
+  <teamName>Nekkire Calcio</teamName>
+  <owner>Nekkire</owner>
+  <founded>2012-09-06T18:19:36+02:00</founded>
+  <youthFounded>2017-11-20T13:04:50+01:00</youthFounded>
+  <arenaId>42909</arenaId>
+  <arenaName>Kirkegården Stadion</arenaName>
+  <leagueId>565</leagueId>
+  <youthLeagueId>182</youthLeagueId>
+  <nationId>46</nationId>
+  <regionId>447</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

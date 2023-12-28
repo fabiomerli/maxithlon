@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>70719</teamId>
+  <teamName>Girl Power</teamName>
+  <owner>Girl Power</owner>
+  <founded>2013-01-31T10:20:24+01:00</founded>
+  <youthFounded>2017-11-12T13:05:29+01:00</youthFounded>
+  <arenaId>44682</arenaId>
+  <arenaName>Girlies Sportpark</arenaName>
+  <leagueId>39</leagueId>
+  <youthLeagueId>195</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>45</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

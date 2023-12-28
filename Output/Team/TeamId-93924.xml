@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93924</teamId>
+  <teamName>Yellerbellies</teamName>
+  <owner>neilboyfield</owner>
+  <founded>2023-08-28T21:23:20+02:00</founded>
+  <youthFounded>2023-09-01T00:30:40+02:00</youthFounded>
+  <arenaId>58164</arenaId>
+  <arenaName>Abbey Road</arenaName>
+  <leagueId>571</leagueId>
+  <youthLeagueId>172</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>159</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

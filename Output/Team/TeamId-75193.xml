@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>75193</teamId>
+  <teamName>Helmets</teamName>
+  <owner>David</owner>
+  <founded>2013-08-30T18:06:01+02:00</founded>
+  <youthFounded>2017-11-16T04:20:59+01:00</youthFounded>
+  <arenaId>46966</arenaId>
+  <arenaName>Salma Paralluelo</arenaName>
+  <leagueId>47</leagueId>
+  <youthLeagueId>131</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>103</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>85978</teamId>
+  <teamName>Hervas Team</teamName>
+  <owner>alexherfu</owner>
+  <founded>2017-02-15T10:53:25+01:00</founded>
+  <youthFounded>2017-11-12T16:32:43+01:00</youthFounded>
+  <arenaId>53244</arenaId>
+  <arenaName>Garganes</arenaName>
+  <leagueId>93</leagueId>
+  <youthLeagueId>128</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>110</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

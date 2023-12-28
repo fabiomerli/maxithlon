@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>89824</teamId>
+  <teamName>1. FC Versandkostenfrei Potsdam</teamName>
+  <owner>MT57</owner>
+  <founded>2019-09-17T18:47:48+02:00</founded>
+  <youthFounded>2019-09-17T18:55:57+02:00</youthFounded>
+  <arenaId>55595</arenaId>
+  <arenaName>Stadion im Kirchsteigfeld</arenaName>
+  <leagueId>40</leagueId>
+  <youthLeagueId>195</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>47</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

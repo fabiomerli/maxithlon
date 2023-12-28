@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>84917</teamId>
+  <teamName>TS Warriors</teamName>
+  <owner>gabrruggieri </owner>
+  <founded>2016-08-15T18:08:09+02:00</founded>
+  <youthFounded>2022-09-24T00:30:29+02:00</youthFounded>
+  <arenaId>52600</arenaId>
+  <arenaName>TS Arena</arenaName>
+  <leagueId>12</leagueId>
+  <youthLeagueId>117</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>17</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

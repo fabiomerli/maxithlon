@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>36376</teamId>
+  <teamName>Les Rock'n'roll Tigers</teamName>
+  <owner>petedoherty</owner>
+  <founded>2009-12-07T17:38:15+01:00</founded>
+  <youthFounded>2017-11-12T16:56:06+01:00</youthFounded>
+  <arenaId>23405</arenaId>
+  <arenaName>Henri Longuet</arenaName>
+  <leagueId>74</leagueId>
+  <youthLeagueId>142</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>183</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

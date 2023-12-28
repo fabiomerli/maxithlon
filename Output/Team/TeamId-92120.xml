@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92120</teamId>
+  <teamName>BA Athletic Club</teamName>
+  <owner>BAAC</owner>
+  <founded>2021-08-05T17:21:24+02:00</founded>
+  <youthFounded>2021-09-13T00:23:49+02:00</youthFounded>
+  <arenaId>57098</arenaId>
+  <arenaName>BAAC Arena</arenaName>
+  <leagueId>564</leagueId>
+  <youthLeagueId>152</youthLeagueId>
+  <nationId>15</nationId>
+  <regionId>211</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

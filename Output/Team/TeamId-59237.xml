@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>59237</teamId>
+  <teamName>ANEMOS ATHLETICS</teamName>
+  <owner>kiriakos79</owner>
+  <founded>2011-10-26T15:49:01+02:00</founded>
+  <youthFounded>2017-11-12T14:36:29+01:00</youthFounded>
+  <arenaId>38429</arenaId>
+  <arenaName>IRON STADIUM</arenaName>
+  <leagueId>171</leagueId>
+  <youthLeagueId>210</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>238</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91754</teamId>
+  <teamName>BCN’92</teamName>
+  <owner>pepegrillo</owner>
+  <founded>2021-04-02T07:05:11+02:00</founded>
+  <youthFounded>2021-04-02T15:24:30+02:00</youthFounded>
+  <arenaId>56852</arenaId>
+  <arenaName>Cobiland</arenaName>
+  <leagueId>47</leagueId>
+  <youthLeagueId>129</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>109</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

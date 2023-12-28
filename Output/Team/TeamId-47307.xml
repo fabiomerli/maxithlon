@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>47307</teamId>
+  <teamName>Atletico Babillo</teamName>
+  <owner>Matteo_Baba</owner>
+  <founded>2010-08-21T23:47:39+02:00</founded>
+  <youthFounded>2017-11-12T09:26:48+01:00</youthFounded>
+  <arenaId>30909</arenaId>
+  <arenaName>Babillo Stadium</arenaName>
+  <leagueId>3</leagueId>
+  <youthLeagueId>116</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>8</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

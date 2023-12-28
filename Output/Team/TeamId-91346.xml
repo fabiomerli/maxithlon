@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91346</teamId>
+  <teamName>Bruz Athletic Team</teamName>
+  <owner>Bruz86</owner>
+  <founded>2020-10-08T08:29:29+02:00</founded>
+  <youthFounded>2020-10-12T08:13:49+02:00</youthFounded>
+  <arenaId>56596</arenaId>
+  <arenaName>Bruz Stadium</arenaName>
+  <leagueId>12</leagueId>
+  <youthLeagueId>122</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>14</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>88489</teamId>
+  <teamName>Deportivo Huitzilopochtli</teamName>
+  <owner>Anahuaco</owner>
+  <founded>2018-07-24T23:21:03+02:00</founded>
+  <youthFounded>2018-09-10T09:00:40+02:00</youthFounded>
+  <arenaId>54811</arenaId>
+  <arenaName>Zócalo/Tenochtitlan</arenaName>
+  <leagueId>564</leagueId>
+  <youthLeagueId>152</youthLeagueId>
+  <nationId>31</nationId>
+  <regionId>338</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92313</teamId>
+  <teamName>Ski Kings</teamName>
+  <owner>Ski Kings</owner>
+  <founded>2021-09-30T01:51:13+02:00</founded>
+  <youthFounded>2021-10-05T00:30:27+02:00</youthFounded>
+  <arenaId>57229</arenaId>
+  <arenaName>King Palace</arenaName>
+  <leagueId>568</leagueId>
+  <youthLeagueId>189</youthLeagueId>
+  <nationId>65</nationId>
+  <regionId>527</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

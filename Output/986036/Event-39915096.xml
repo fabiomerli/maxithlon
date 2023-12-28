@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <id>39915096</id>
+  <typeId>72</typeId>
+  <sex>1</sex>
+  <date>2023-12-27T16:30:00+01:00</date>
+  <status>3</status>
+  <heat index="1">
+    <athlete index="1">
+      <id>5372203</id>
+      <teamId>91012</teamId>
+      <performance>18944.48</performance>
+      <placing>12</placing>
+      <score>733</score>
+    </athlete>
+    <athlete index="2">
+      <id>5376945</id>
+      <teamId>92640</teamId>
+      <performance>18859.83</performance>
+      <placing>10</placing>
+      <score>744</score>
+    </athlete>
+    <athlete index="3">
+      <id>5379358</id>
+      <teamId>94081</teamId>
+      <performance>18556.38</performance>
+      <placing>7</placing>
+      <score>785</score>
+    </athlete>
+    <athlete index="4">
+      <id>5382853</id>
+      <teamId>35340</teamId>
+      <performance>18343.00</performance>
+      <placing>3</placing>
+      <score>813</score>
+    </athlete>
+    <athlete index="5">
+      <id>5348882</id>
+      <teamId>45344</teamId>
+      <performance>18565.08</performance>
+      <placing>8</placing>
+      <score>784</score>
+    </athlete>
+    <athlete index="6">
+      <id>5338980</id>
+      <teamId>45344</teamId>
+      <performance>18353.92</performance>
+      <placing>4</placing>
+      <score>812</score>
+    </athlete>
+    <athlete index="7">
+      <id>5392945</id>
+      <teamId>74448</teamId>
+      <performance>18869.31</performance>
+      <placing>11</placing>
+      <score>743</score>
+    </athlete>
+    <athlete index="8">
+      <id>5435309</id>
+      <teamId>10406</teamId>
+      <performance>19082.24</performance>
+      <placing>13</placing>
+      <score>714</score>
+    </athlete>
+    <athlete index="9">
+      <id>5345872</id>
+      <teamId>12408</teamId>
+      <performance>17727.69</performance>
+      <placing>1</placing>
+      <score>896</score>
+    </athlete>
+    <athlete index="10">
+      <id>5422389</id>
+      <teamId>1409</teamId>
+      <performance>19354.86</performance>
+      <placing>20</placing>
+      <score>678</score>
+    </athlete>
+    <athlete index="11">
+      <id>5425684</id>
+      <teamId>84420</teamId>
+      <performance>19204.54</performance>
+      <placing>16</placing>
+      <score>698</score>
+    </athlete>
+    <athlete index="12">
+      <id>5398147</id>
+      <teamId>70415</teamId>
+      <performance>19083.79</performance>
+      <placing>14</placing>
+      <score>714</score>
+    </athlete>
+    <athlete index="13">
+      <id>5392388</id>
+      <teamId>94590</teamId>
+      <performance>19328.76</performance>
+      <placing>18</placing>
+      <score>681</score>
+    </athlete>
+    <athlete index="14">
+      <id>5416847</id>
+      <teamId>94092</teamId>
+      <performance>19197.11</performance>
+      <placing>15</placing>
+      <score>699</score>
+    </athlete>
+    <athlete index="15">
+      <id>5365336</id>
+      <teamId>71602</teamId>
+      <performance>18482.13</performance>
+      <placing>6</placing>
+      <score>795</score>
+    </athlete>
+    <athlete index="16">
+      <id>5415796</id>
+      <teamId>84326</teamId>
+      <performance>19341.16</performance>
+      <placing>19</placing>
+      <score>680</score>
+    </athlete>
+    <athlete index="17">
+      <id>5338950</id>
+      <teamId>93364</teamId>
+      <performance>18239.22</performance>
+      <placing>2</placing>
+      <score>827</score>
+    </athlete>
+    <athlete index="18">
+      <id>5356912</id>
+      <teamId>42827</teamId>
+      <performance>18470.08</performance>
+      <placing>5</placing>
+      <score>796</score>
+    </athlete>
+    <athlete index="19">
+      <id>5355099</id>
+      <teamId>90982</teamId>
+      <performance>19205.91</performance>
+      <placing>17</placing>
+      <score>698</score>
+    </athlete>
+    <athlete index="20">
+      <id>5335015</id>
+      <teamId>53956</teamId>
+      <performance>18783.20</performance>
+      <placing>9</placing>
+      <score>754</score>
+    </athlete>
+  </heat>
+</maxi-xml>

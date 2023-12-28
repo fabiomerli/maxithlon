@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>76929</teamId>
+  <teamName>Batafieu Olympique</teamName>
+  <owner>marcoilbiondo</owner>
+  <founded>2014-01-17T19:34:49+01:00</founded>
+  <youthFounded>2017-11-12T12:39:02+01:00</youthFounded>
+  <arenaId>47855</arenaId>
+  <arenaName>Vauban</arenaName>
+  <leagueId>74</leagueId>
+  <youthLeagueId>140</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>192</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>59299</teamId>
+  <teamName>LSV Gera</teamName>
+  <owner>Rivelino</owner>
+  <founded>2011-10-30T17:33:03+01:00</founded>
+  <youthFounded>2018-10-26T13:04:22+02:00</youthFounded>
+  <arenaId>38467</arenaId>
+  <arenaName>Stadion der Freundschaft</arenaName>
+  <leagueId>39</leagueId>
+  <youthLeagueId>194</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>59</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91353</teamId>
+  <teamName>Mons Athletics</teamName>
+  <owner>Eric</owner>
+  <founded>2020-10-30T18:21:08+01:00</founded>
+  <youthFounded>2020-10-30T18:49:31+01:00</youthFounded>
+  <arenaId>56639</arenaId>
+  <arenaName>Mons Stadium</arenaName>
+  <leagueId>38</leagueId>
+  <youthLeagueId>156</youthLeagueId>
+  <nationId>6</nationId>
+  <regionId>99</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

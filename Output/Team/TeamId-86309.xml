@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>86309</teamId>
+  <teamName>BC Berg</teamName>
+  <owner>Rob4</owner>
+  <founded>2017-05-09T13:54:45+02:00</founded>
+  <youthFounded>2021-02-21T16:21:12+01:00</youthFounded>
+  <arenaId>53450</arenaId>
+  <arenaName>Mountain High</arenaName>
+  <leagueId>34</leagueId>
+  <youthLeagueId>194</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>45</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

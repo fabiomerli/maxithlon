@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94061</teamId>
+  <teamName>Barakaldo</teamName>
+  <owner>osenca</owner>
+  <founded>2023-09-10T08:27:18+02:00</founded>
+  <youthFounded>2023-09-19T00:30:38+02:00</youthFounded>
+  <arenaId>58184</arenaId>
+  <arenaName>San Vicente</arenaName>
+  <leagueId>82</leagueId>
+  <youthLeagueId>131</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>111</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

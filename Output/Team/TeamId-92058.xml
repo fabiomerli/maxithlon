@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92058</teamId>
+  <teamName>Club Atletismo Huelva</teamName>
+  <owner>Alvarus</owner>
+  <founded>2021-08-01T01:23:44+02:00</founded>
+  <youthFounded>2021-09-12T22:17:03+02:00</youthFounded>
+  <arenaId>57046</arenaId>
+  <arenaName>Olímpico de La Orden</arenaName>
+  <leagueId>79</leagueId>
+  <youthLeagueId>130</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>102</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

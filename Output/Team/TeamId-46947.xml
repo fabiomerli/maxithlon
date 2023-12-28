@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>46947</teamId>
+  <teamName>Angel Team</teamName>
+  <owner>Angelmex</owner>
+  <founded>2010-08-13T17:15:07+02:00</founded>
+  <youthFounded>2017-11-14T23:04:39+01:00</youthFounded>
+  <arenaId>30668</arenaId>
+  <arenaName>Stade des Anges</arenaName>
+  <leagueId>112</leagueId>
+  <youthLeagueId>142</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>552</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

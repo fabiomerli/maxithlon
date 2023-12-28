@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>8120</teamId>
+  <teamName>Speedy gonzales</teamName>
+  <owner>lewis62</owner>
+  <founded>2007-10-30T15:00:17+01:00</founded>
+  <youthFounded>2018-01-13T10:44:23+01:00</youthFounded>
+  <arenaId>5642</arenaId>
+  <arenaName>Speed Arena</arenaName>
+  <leagueId>78</leagueId>
+  <youthLeagueId>141</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>549</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

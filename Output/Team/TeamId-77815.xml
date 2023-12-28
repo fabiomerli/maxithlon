@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>77815</teamId>
+  <teamName>Clockies</teamName>
+  <owner>Clockensen</owner>
+  <founded>2014-03-08T21:04:15+01:00</founded>
+  <youthFounded>2017-11-12T12:19:27+01:00</youthFounded>
+  <arenaId>48366</arenaId>
+  <arenaName>Clock Park</arenaName>
+  <leagueId>115</leagueId>
+  <youthLeagueId>164</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>200</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

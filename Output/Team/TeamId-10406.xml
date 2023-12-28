@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>10406</teamId>
+  <teamName>P.B.P.</teamName>
+  <owner>loscarrafone</owner>
+  <founded>2008-01-26T17:44:21+01:00</founded>
+  <youthFounded>2017-11-14T09:03:20+01:00</youthFounded>
+  <arenaId>7155</arenaId>
+  <arenaName>Piste</arenaName>
+  <leagueId>11</leagueId>
+  <youthLeagueId>120</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>2</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

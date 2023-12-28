@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>38712</teamId>
+  <teamName>Bourg D'Oisans runners</teamName>
+  <owner>Martin Smits</owner>
+  <founded>2010-01-06T20:34:26+01:00</founded>
+  <youthFounded>2017-11-12T12:22:24+01:00</youthFounded>
+  <arenaId>24977</arenaId>
+  <arenaName>world of running</arenaName>
+  <leagueId>35</leagueId>
+  <youthLeagueId>155</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>85</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

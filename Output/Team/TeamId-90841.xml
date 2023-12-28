@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90841</teamId>
+  <teamName>Atlético Ciudada</teamName>
+  <owner>Ciudadano</owner>
+  <founded>2020-07-21T19:12:24+02:00</founded>
+  <youthFounded>2020-07-21T19:41:25+02:00</youthFounded>
+  <arenaId>56387</arenaId>
+  <arenaName>Circo</arenaName>
+  <leagueId>79</leagueId>
+  <youthLeagueId>130</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>112</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

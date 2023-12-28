@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92314</teamId>
+  <teamName>United States Naval Academy</teamName>
+  <owner>gonavy</owner>
+  <founded>2021-10-17T11:04:50+02:00</founded>
+  <youthFounded>2022-03-12T00:30:28+01:00</youthFounded>
+  <arenaId>57252</arenaId>
+  <arenaName>Ingram Field</arenaName>
+  <leagueId>142</leagueId>
+  <youthLeagueId>169</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>233</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

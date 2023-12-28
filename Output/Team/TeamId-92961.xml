@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92961</teamId>
+  <teamName>Cult of Connacht</teamName>
+  <owner>Duck1312</owner>
+  <founded>2022-07-09T20:30:56+02:00</founded>
+  <youthFounded>2022-07-10T00:30:28+02:00</youthFounded>
+  <arenaId>57643</arenaId>
+  <arenaName>Boru Park</arenaName>
+  <leagueId>574</leagueId>
+  <youthLeagueId>172</youthLeagueId>
+  <nationId>52</nationId>
+  <regionId>464</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

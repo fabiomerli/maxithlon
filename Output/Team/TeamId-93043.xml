@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93043</teamId>
+  <teamName>CAL Spora</teamName>
+  <owner>Duke Nukem</owner>
+  <founded>2022-08-06T19:24:55+02:00</founded>
+  <youthFounded>2022-08-21T00:30:28+02:00</youthFounded>
+  <arenaId>57700</arenaId>
+  <arenaName>Stade du Luxembourg</arenaName>
+  <leagueId>566</leagueId>
+  <youthLeagueId>198</youthLeagueId>
+  <nationId>64</nationId>
+  <regionId>525</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

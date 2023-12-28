@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>89436</teamId>
+  <teamName>Athlé 404</teamName>
+  <owner>athle404</owner>
+  <founded>2019-05-11T15:50:00+02:00</founded>
+  <youthFounded>2022-05-23T00:30:27+02:00</youthFounded>
+  <arenaId>55378</arenaId>
+  <arenaName>La piste noire</arenaName>
+  <leagueId>111</leagueId>
+  <youthLeagueId>141</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>183</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

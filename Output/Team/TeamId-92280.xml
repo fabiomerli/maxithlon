@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92280</teamId>
+  <teamName>Macarthur Rams</teamName>
+  <owner>Macarthur Rams</owner>
+  <founded>2021-09-21T02:22:29+02:00</founded>
+  <youthFounded>2021-09-28T00:30:26+02:00</youthFounded>
+  <arenaId>57216</arenaId>
+  <arenaName>Lynwood Stadium</arenaName>
+  <leagueId>576</leagueId>
+  <youthLeagueId>171</youthLeagueId>
+  <nationId>14</nationId>
+  <regionId>209</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

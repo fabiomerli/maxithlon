@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>21114</teamId>
+  <teamName>Almería Athletics</teamName>
+  <owner>Nikolae</owner>
+  <founded>2008-10-23T19:09:55+02:00</founded>
+  <youthFounded>2017-11-12T15:12:42+01:00</youthFounded>
+  <arenaId>13887</arenaId>
+  <arenaName>Estadio Mediterráneo</arenaName>
+  <leagueId>47</leagueId>
+  <youthLeagueId>128</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>102</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>88889</teamId>
+  <teamName>GUSIMEDIA ATLETISMO CLUB</teamName>
+  <owner>GUSIMEDIA</owner>
+  <founded>2018-11-05T14:44:12+01:00</founded>
+  <youthFounded>2018-11-05T16:56:12+01:00</youthFounded>
+  <arenaId>55054</arenaId>
+  <arenaName>GUSIMEDIA STADIUM</arenaName>
+  <leagueId>49</leagueId>
+  <youthLeagueId>133</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>108</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

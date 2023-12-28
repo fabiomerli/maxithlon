@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>60958</teamId>
+  <teamName>Canadian Juniors</teamName>
+  <owner>sholly</owner>
+  <founded>2012-01-23T19:21:35+01:00</founded>
+  <youthFounded>2017-11-17T17:39:49+01:00</youthFounded>
+  <arenaId>39412</arenaId>
+  <arenaName>Max Bell Center</arenaName>
+  <leagueId>577</leagueId>
+  <youthLeagueId>175</youthLeagueId>
+  <nationId>19</nationId>
+  <regionId>245</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

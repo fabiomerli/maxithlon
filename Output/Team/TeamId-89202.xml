@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>89202</teamId>
+  <teamName>Team Sabba</teamName>
+  <owner>sabba88</owner>
+  <founded>2019-02-19T14:03:24+01:00</founded>
+  <youthFounded>2023-02-28T00:30:35+01:00</youthFounded>
+  <arenaId>55225</arenaId>
+  <arenaName>Sabba Arena</arenaName>
+  <leagueId>9</leagueId>
+  <youthLeagueId>124</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>1</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

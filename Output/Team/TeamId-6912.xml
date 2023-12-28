@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>6912</teamId>
+  <teamName>Aubenas AC</teamName>
+  <owner>nicoo</owner>
+  <founded>2007-09-16T00:50:13+02:00</founded>
+  <youthFounded>2017-11-12T21:03:16+01:00</youthFounded>
+  <arenaId>4808</arenaId>
+  <arenaName>Stadium Montlaur</arenaName>
+  <leagueId>114</leagueId>
+  <youthLeagueId>142</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>549</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

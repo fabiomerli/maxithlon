@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91922</teamId>
+  <teamName>Tõrva I Kergejõustiku Klubi "Kirt"</teamName>
+  <owner>s33vald</owner>
+  <founded>2021-06-16T09:44:58+02:00</founded>
+  <youthFounded>2021-06-24T10:44:37+02:00</youthFounded>
+  <arenaId>56963</arenaId>
+  <arenaName>Tõrva Gümnaasiumi staadion</arenaName>
+  <leagueId>572</leagueId>
+  <youthLeagueId>180</youthLeagueId>
+  <nationId>8</nationId>
+  <regionId>169</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

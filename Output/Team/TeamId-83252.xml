@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>83252</teamId>
+  <teamName>Crusaders</teamName>
+  <owner>nathanp</owner>
+  <founded>2015-10-10T00:13:32+02:00</founded>
+  <youthFounded>2017-11-16T23:11:48+01:00</youthFounded>
+  <arenaId>51540</arenaId>
+  <arenaName>Morden Multiplex</arenaName>
+  <leagueId>566</leagueId>
+  <youthLeagueId>174</youthLeagueId>
+  <nationId>19</nationId>
+  <regionId>245</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

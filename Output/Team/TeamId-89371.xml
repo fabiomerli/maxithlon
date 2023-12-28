@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>89371</teamId>
+  <teamName>Chios Track Club</teamName>
+  <owner>petfrzl</owner>
+  <founded>2019-04-15T10:32:06+02:00</founded>
+  <youthFounded>2019-05-05T23:33:05+02:00</youthFounded>
+  <arenaId>55333</arenaId>
+  <arenaName>Chios Track</arenaName>
+  <leagueId>574</leagueId>
+  <youthLeagueId>172</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>153</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

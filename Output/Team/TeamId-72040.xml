@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>72040</teamId>
+  <teamName>White Star</teamName>
+  <owner>Madiba</owner>
+  <founded>2013-03-29T18:14:15+01:00</founded>
+  <youthFounded>2017-11-12T19:06:14+01:00</youthFounded>
+  <arenaId>45337</arenaId>
+  <arenaName>Stade Fallon</arenaName>
+  <leagueId>38</leagueId>
+  <youthLeagueId>155</youthLeagueId>
+  <nationId>6</nationId>
+  <regionId>101</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

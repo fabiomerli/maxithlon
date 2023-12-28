@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>51530</teamId>
+  <teamName>Les Galopeurs</teamName>
+  <owner>Yovoa</owner>
+  <founded>2010-12-26T18:21:37+01:00</founded>
+  <youthFounded>2017-11-12T12:44:36+01:00</youthFounded>
+  <arenaId>33423</arenaId>
+  <arenaName>La Galoperaie</arenaName>
+  <leagueId>114</leagueId>
+  <youthLeagueId>140</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>550</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

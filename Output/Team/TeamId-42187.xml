@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>42187</teamId>
+  <teamName>Les chats mous</teamName>
+  <owner>shamou</owner>
+  <founded>2010-04-09T17:07:40+02:00</founded>
+  <youthFounded>2017-11-14T23:45:53+01:00</youthFounded>
+  <arenaId>27544</arenaId>
+  <arenaName>La gamelle des chats</arenaName>
+  <leagueId>74</leagueId>
+  <youthLeagueId>144</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>549</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

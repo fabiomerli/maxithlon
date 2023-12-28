@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>86884</teamId>
+  <teamName>Pottlandteam</teamName>
+  <owner>pluspunkt1896</owner>
+  <founded>2017-08-13T00:01:41+02:00</founded>
+  <youthFounded>2017-11-12T17:13:20+01:00</youthFounded>
+  <arenaId>53753</arenaId>
+  <arenaName>Pottlandarena</arenaName>
+  <leagueId>34</leagueId>
+  <youthLeagueId>194</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>52</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>78411</teamId>
+  <teamName>Knie Athletics</teamName>
+  <owner>knie9876</owner>
+  <founded>2014-05-03T23:26:22+02:00</founded>
+  <youthFounded>2018-05-15T21:44:00+02:00</youthFounded>
+  <arenaId>48706</arenaId>
+  <arenaName>Sportpark de Knie</arenaName>
+  <leagueId>41</leagueId>
+  <youthLeagueId>159</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>82</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

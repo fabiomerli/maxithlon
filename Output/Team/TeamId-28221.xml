@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>28221</teamId>
+  <teamName>De eskimo's</teamName>
+  <owner>spike35</owner>
+  <founded>2009-05-30T17:31:56+02:00</founded>
+  <youthFounded>2017-11-12T08:18:18+01:00</youthFounded>
+  <arenaId>18542</arenaId>
+  <arenaName>stadion van Ooteghem</arenaName>
+  <leagueId>33</leagueId>
+  <youthLeagueId>156</youthLeagueId>
+  <nationId>6</nationId>
+  <regionId>93</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

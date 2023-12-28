@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <name>Continental Junior Championships Asia - Africa - Pacific</name>
+  <type>11</type>
+  <season>93</season>
+  <date>2023-12-27T09:00:00+01:00</date>
+  <arenaId>26702</arenaId>
+  <nationId>26</nationId>
+  <regionId>301</regionId>
+  <standings>0</standings>
+  <attendance>1000</attendance>
+  <meteo>5</meteo>
+  <status>3</status>
+  <event id="39915130"/>
+  <event id="39915131"/>
+  <event id="39915132"/>
+  <event id="39915133"/>
+  <event id="39915134"/>
+  <event id="39915135"/>
+  <event id="39915136"/>
+  <event id="39915137"/>
+  <event id="39915138"/>
+  <event id="39915139"/>
+  <event id="39915140"/>
+  <event id="39915141"/>
+  <event id="39915142"/>
+  <event id="39915143"/>
+  <event id="39915144"/>
+  <event id="39915145"/>
+  <event id="39915146"/>
+  <event id="39915147"/>
+  <event id="39915148"/>
+  <event id="39915149"/>
+  <event id="39915150"/>
+  <event id="39915151"/>
+  <event id="39915152"/>
+  <event id="39915153"/>
+  <event id="39915154"/>
+  <event id="39915155"/>
+  <event id="39915156"/>
+  <event id="39915157"/>
+  <event id="39915158"/>
+  <event id="39915159"/>
+  <event id="39915160"/>
+  <event id="39915161"/>
+  <event id="39915162"/>
+  <event id="39915163"/>
+  <event id="39915164"/>
+  <event id="39915165"/>
+  <event id="39915168"/>
+  <event id="39915169"/>
+  <event id="39915170"/>
+  <event id="39915171"/>
+  <event id="39915172"/>
+  <event id="39915173"/>
+  <event id="39915174"/>
+  <event id="39915175"/>
+  <event id="39915178"/>
+  <event id="39915179"/>
+  <event id="39915180"/>
+  <event id="39915181"/>
+  <event id="39915182"/>
+  <event id="39915183"/>
+  <event id="39915184"/>
+  <event id="39915185"/>
+  <event id="39915186"/>
+  <event id="39915187"/>
+  <event id="39915188"/>
+  <event id="39915189"/>
+  <event id="39915190"/>
+  <event id="39915191"/>
+  <event id="39915192"/>
+  <event id="39915193"/>
+  <event id="39915194"/>
+  <event id="39915195"/>
+  <event id="39915196"/>
+  <event id="39915197"/>
+  <event id="39915198"/>
+  <event id="39915199"/>
+  <event id="39915200"/>
+  <event id="39915201"/>
+  <event id="39915202"/>
+  <event id="39915203"/>
+  <event id="39915204"/>
+  <event id="39915205"/>
+  <event id="39915206"/>
+  <event id="39915207"/>
+  <event id="39915208"/>
+</maxi-xml>

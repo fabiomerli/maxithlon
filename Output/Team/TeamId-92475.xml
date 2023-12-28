@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92475</teamId>
+  <teamName>Croydon Athletics</teamName>
+  <owner>ioanitch94</owner>
+  <founded>2022-01-03T10:04:51+01:00</founded>
+  <youthFounded>2022-01-25T00:30:27+01:00</youthFounded>
+  <arenaId>57339</arenaId>
+  <arenaName>Croydon Sports Centre</arenaName>
+  <leagueId>576</leagueId>
+  <youthLeagueId>175</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>151</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>88184</teamId>
+  <teamName>Zero to Hero</teamName>
+  <owner>ZeroHero</owner>
+  <founded>2018-04-21T01:23:32+02:00</founded>
+  <youthFounded>2021-10-30T00:30:24+02:00</youthFounded>
+  <arenaId>54592</arenaId>
+  <arenaName>Hero Arena</arenaName>
+  <leagueId>75</leagueId>
+  <youthLeagueId>163</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>194</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

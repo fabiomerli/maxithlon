@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>87896</teamId>
+  <teamName>Academia Athens</teamName>
+  <owner>sedgewickgr</owner>
+  <founded>2018-02-08T20:23:54+01:00</founded>
+  <youthFounded>2018-02-08T21:02:50+01:00</youthFounded>
+  <arenaId>54385</arenaId>
+  <arenaName>Platon Stadium</arenaName>
+  <leagueId>150</leagueId>
+  <youthLeagueId>176</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>237</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

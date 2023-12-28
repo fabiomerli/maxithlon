@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92124</teamId>
+  <teamName>AK 24. Julija</teamName>
+  <owner>azovc</owner>
+  <founded>2021-08-06T09:46:15+02:00</founded>
+  <youthFounded>2021-09-13T00:30:50+02:00</youthFounded>
+  <arenaId>57100</arenaId>
+  <arenaName>Poletni stadion</arenaName>
+  <leagueId>569</leagueId>
+  <youthLeagueId>184</youthLeagueId>
+  <nationId>40</nationId>
+  <regionId>403</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

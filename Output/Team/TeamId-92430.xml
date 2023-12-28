@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92430</teamId>
+  <teamName>BMC Praha</teamName>
+  <owner>beermiler</owner>
+  <founded>2021-12-03T09:24:04+01:00</founded>
+  <youthFounded>2021-12-04T00:30:28+01:00</youthFounded>
+  <arenaId>57307</arenaId>
+  <arenaName>Vítkov</arenaName>
+  <leagueId>319</leagueId>
+  <youthLeagueId>186</youthLeagueId>
+  <nationId>38</nationId>
+  <regionId>394</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

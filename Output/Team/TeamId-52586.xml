@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>52586</teamId>
+  <teamName>AC Gorrovo</teamName>
+  <owner>Gorroro</owner>
+  <founded>2011-01-28T16:03:22+01:00</founded>
+  <youthFounded>2017-11-12T16:33:20+01:00</youthFounded>
+  <arenaId>34070</arenaId>
+  <arenaName>Gorro Arena</arenaName>
+  <leagueId>316</leagueId>
+  <youthLeagueId>184</youthLeagueId>
+  <nationId>38</nationId>
+  <regionId>396</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

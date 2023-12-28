@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92527</teamId>
+  <teamName>Mile High Racers</teamName>
+  <owner>Mile_High</owner>
+  <founded>2022-01-20T00:25:40+01:00</founded>
+  <youthFounded>2022-01-21T00:30:25+01:00</youthFounded>
+  <arenaId>57369</arenaId>
+  <arenaName>Mile High Stadium</arenaName>
+  <leagueId>175</leagueId>
+  <youthLeagueId>169</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>229</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

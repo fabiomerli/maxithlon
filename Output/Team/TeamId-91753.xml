@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91753</teamId>
+  <teamName>Dynamo Brno</teamName>
+  <owner>galatasaray</owner>
+  <founded>2021-04-02T09:56:11+02:00</founded>
+  <youthFounded>2021-04-02T10:29:58+02:00</youthFounded>
+  <arenaId>56853</arenaId>
+  <arenaName>Hellś arena</arenaName>
+  <leagueId>319</leagueId>
+  <youthLeagueId>185</youthLeagueId>
+  <nationId>38</nationId>
+  <regionId>389</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

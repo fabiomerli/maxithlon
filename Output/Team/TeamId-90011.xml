@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90011</teamId>
+  <teamName>AV Nedersaksen</teamName>
+  <owner>EU2030</owner>
+  <founded>2019-11-09T20:13:22+01:00</founded>
+  <youthFounded>2020-01-01T23:58:35+01:00</youthFounded>
+  <arenaId>55707</arenaId>
+  <arenaName>Principium</arenaName>
+  <leagueId>42</leagueId>
+  <youthLeagueId>156</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>79</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

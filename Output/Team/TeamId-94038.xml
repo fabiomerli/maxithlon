@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94038</teamId>
+  <teamName>Stavbar Nitra</teamName>
+  <owner>Lukin79</owner>
+  <founded>2023-09-08T11:02:23+02:00</founded>
+  <youthFounded>2023-09-09T00:30:38+02:00</youthFounded>
+  <arenaId>58181</arenaId>
+  <arenaName>Nestle stadion</arenaName>
+  <leagueId>574</leagueId>
+  <youthLeagueId>186</youthLeagueId>
+  <nationId>22</nationId>
+  <regionId>255</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

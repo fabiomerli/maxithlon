@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>79893</teamId>
+  <teamName>Sport Expertise</teamName>
+  <owner>AzoreanAnt</owner>
+  <founded>2014-09-21T19:05:47+02:00</founded>
+  <youthFounded>2023-10-24T00:30:41+02:00</youthFounded>
+  <arenaId>49613</arenaId>
+  <arenaName>Expertise Stadium</arenaName>
+  <leagueId>116</leagueId>
+  <youthLeagueId>168</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>210</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

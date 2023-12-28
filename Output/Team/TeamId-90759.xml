@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90759</teamId>
+  <teamName>Jambonese</teamName>
+  <owner>Jambo</owner>
+  <founded>2020-06-01T23:27:06+02:00</founded>
+  <youthFounded>2020-06-02T01:00:55+02:00</youthFounded>
+  <arenaId>56216</arenaId>
+  <arenaName>Jambo-Stadium</arenaName>
+  <leagueId>9</leagueId>
+  <youthLeagueId>116</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>18</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

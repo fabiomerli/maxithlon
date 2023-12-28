@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <name>Continental Master Championships Asia - Africa - Pacific</name>
+  <type>12</type>
+  <season>93</season>
+  <date>2023-12-27T11:00:00+01:00</date>
+  <arenaId>26855</arenaId>
+  <nationId>49</nationId>
+  <regionId>457</regionId>
+  <standings>0</standings>
+  <attendance>1000</attendance>
+  <meteo>3</meteo>
+  <status>3</status>
+  <event id="39915367"/>
+  <event id="39915369"/>
+  <event id="39915370"/>
+  <event id="39915371"/>
+  <event id="39915373"/>
+  <event id="39915374"/>
+  <event id="39915375"/>
+  <event id="39915376"/>
+  <event id="39915377"/>
+  <event id="39915378"/>
+  <event id="39915379"/>
+  <event id="39915380"/>
+  <event id="39915381"/>
+  <event id="39915382"/>
+  <event id="39915383"/>
+  <event id="39915384"/>
+  <event id="39915386"/>
+  <event id="39915391"/>
+  <event id="39915394"/>
+  <event id="39915395"/>
+  <event id="39915396"/>
+  <event id="39915397"/>
+  <event id="39915398"/>
+  <event id="39915399"/>
+  <event id="39915402"/>
+  <event id="39915404"/>
+  <event id="39915405"/>
+  <event id="39915406"/>
+  <event id="39915408"/>
+  <event id="39915409"/>
+  <event id="39915410"/>
+  <event id="39915411"/>
+  <event id="39915412"/>
+  <event id="39915413"/>
+  <event id="39915415"/>
+  <event id="39915416"/>
+  <event id="39915417"/>
+  <event id="39915418"/>
+  <event id="39915419"/>
+  <event id="39915420"/>
+  <event id="39915421"/>
+  <event id="39915422"/>
+  <event id="39915423"/>
+  <event id="39915424"/>
+  <event id="39915425"/>
+  <event id="39915426"/>
+  <event id="39915427"/>
+  <event id="39915428"/>
+  <event id="39915429"/>
+  <event id="39915430"/>
+  <event id="39915431"/>
+  <event id="39915432"/>
+  <event id="39915433"/>
+  <event id="39915434"/>
+  <event id="39915435"/>
+  <event id="39915436"/>
+  <event id="39915437"/>
+  <event id="39915438"/>
+  <event id="39915439"/>
+  <event id="39915440"/>
+  <event id="39915441"/>
+  <event id="39915442"/>
+  <event id="39915443"/>
+  <event id="39915444"/>
+  <event id="39915445"/>
+</maxi-xml>

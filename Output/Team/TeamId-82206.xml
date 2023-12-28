@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>82206</teamId>
+  <teamName>Botafogo RJ</teamName>
+  <owner>alandeschamps</owner>
+  <founded>2015-06-17T15:46:47+02:00</founded>
+  <youthFounded>2023-06-28T00:30:36+02:00</youthFounded>
+  <arenaId>50882</arenaId>
+  <arenaName>Arena Botafogo</arenaName>
+  <leagueId>571</leagueId>
+  <youthLeagueId>163</youthLeagueId>
+  <nationId>17</nationId>
+  <regionId>227</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

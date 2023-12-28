@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94143</teamId>
+  <teamName>CA Mieres Del Camín</teamName>
+  <owner>Bodhic</owner>
+  <founded>2023-09-16T13:41:55+02:00</founded>
+  <youthFounded>2023-09-21T00:30:41+02:00</youthFounded>
+  <arenaId>58191</arenaId>
+  <arenaName>La Pista Roja</arenaName>
+  <leagueId>79</leagueId>
+  <youthLeagueId>131</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>104</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

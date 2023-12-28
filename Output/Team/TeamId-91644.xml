@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91644</teamId>
+  <teamName>Atletika Ištra</teamName>
+  <owner>frostyfish</owner>
+  <founded>2021-08-04T13:58:35+02:00</founded>
+  <youthFounded>2021-09-13T00:30:54+02:00</youthFounded>
+  <arenaId>57085</arenaId>
+  <arenaName>Dragonja Arena</arenaName>
+  <leagueId>568</leagueId>
+  <youthLeagueId>209</youthLeagueId>
+  <nationId>40</nationId>
+  <regionId>402</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

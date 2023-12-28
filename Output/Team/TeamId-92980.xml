@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92980</teamId>
+  <teamName>LV Schalke 2022</teamName>
+  <owner>Andy67</owner>
+  <founded>2022-07-26T19:39:21+02:00</founded>
+  <youthFounded>2022-07-27T00:30:31+02:00</youthFounded>
+  <arenaId>57679</arenaId>
+  <arenaName>Schalke Arena</arenaName>
+  <leagueId>40</leagueId>
+  <youthLeagueId>196</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>53</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91606</teamId>
+  <teamName>AC Geraardsbergen</teamName>
+  <owner>DeGlen</owner>
+  <founded>2021-02-10T11:42:22+01:00</founded>
+  <youthFounded>2021-02-10T23:12:47+01:00</youthFounded>
+  <arenaId>56749</arenaId>
+  <arenaName>De Muur</arenaName>
+  <leagueId>33</leagueId>
+  <youthLeagueId>155</youthLeagueId>
+  <nationId>6</nationId>
+  <regionId>93</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

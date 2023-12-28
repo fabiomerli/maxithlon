@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>44777</teamId>
+  <teamName>morales team</teamName>
+  <owner>bandalo1</owner>
+  <founded>2010-06-26T12:09:01+02:00</founded>
+  <youthFounded>2017-12-13T08:39:49+01:00</youthFounded>
+  <arenaId>29187</arenaId>
+  <arenaName>Estadio Iberoamericano Emilio Martín</arenaName>
+  <leagueId>79</leagueId>
+  <youthLeagueId>130</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>102</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

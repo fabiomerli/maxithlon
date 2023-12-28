@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>38542</teamId>
+  <teamName>AC Heemserbos</teamName>
+  <owner>heemserbos</owner>
+  <founded>2010-01-02T12:30:37+01:00</founded>
+  <youthFounded>2017-11-12T08:51:10+01:00</youthFounded>
+  <arenaId>24713</arenaId>
+  <arenaName>Heemserbos Arena</arenaName>
+  <leagueId>35</leagueId>
+  <youthLeagueId>155</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>87</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

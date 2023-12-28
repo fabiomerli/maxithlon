@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93182</teamId>
+  <teamName>Wimbledon Harriers</teamName>
+  <owner>ivanenglandcr</owner>
+  <founded>2022-10-12T10:40:57+02:00</founded>
+  <youthFounded>2022-11-16T00:30:30+01:00</youthFounded>
+  <arenaId>57781</arenaId>
+  <arenaName>Wimbledon Stadium</arenaName>
+  <leagueId>575</leagueId>
+  <youthLeagueId>174</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>148</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

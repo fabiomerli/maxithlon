@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>86781</teamId>
+  <teamName>CopenhagenNV</teamName>
+  <owner>wassap</owner>
+  <founded>2017-08-03T20:45:37+02:00</founded>
+  <youthFounded>2017-11-12T11:30:40+01:00</youthFounded>
+  <arenaId>53688</arenaId>
+  <arenaName>Fugle Stadion</arenaName>
+  <leagueId>564</leagueId>
+  <youthLeagueId>180</youthLeagueId>
+  <nationId>9</nationId>
+  <regionId>137</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

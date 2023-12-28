@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>13440</teamId>
+  <teamName>Zoontjens Squad</teamName>
+  <owner>bzoontje</owner>
+  <founded>2008-05-03T00:28:43+02:00</founded>
+  <youthFounded>2017-11-13T00:39:21+01:00</youthFounded>
+  <arenaId>9162</arenaId>
+  <arenaName>De Kraan</arenaName>
+  <leagueId>41</leagueId>
+  <youthLeagueId>158</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>85</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

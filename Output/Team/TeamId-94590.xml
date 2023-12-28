@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94590</teamId>
+  <teamName>East Team</teamName>
+  <owner>jyrae</owner>
+  <founded>2023-10-14T19:28:18+02:00</founded>
+  <youthFounded>2023-10-15T00:30:43+02:00</youthFounded>
+  <arenaId>58226</arenaId>
+  <arenaName>Heteniityn kenttä</arenaName>
+  <leagueId>570</leagueId>
+  <youthLeagueId>182</youthLeagueId>
+  <nationId>16</nationId>
+  <regionId>220</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

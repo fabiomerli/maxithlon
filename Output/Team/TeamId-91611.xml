@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91611</teamId>
+  <teamName>Run-DMC</teamName>
+  <owner>Dallas</owner>
+  <founded>2021-02-12T15:46:10+01:00</founded>
+  <youthFounded>2021-02-13T19:53:23+01:00</youthFounded>
+  <arenaId>56751</arenaId>
+  <arenaName>Record Road</arenaName>
+  <leagueId>565</leagueId>
+  <youthLeagueId>180</youthLeagueId>
+  <nationId>9</nationId>
+  <regionId>136</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

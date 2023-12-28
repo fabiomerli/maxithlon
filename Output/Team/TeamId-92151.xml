@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92151</teamId>
+  <teamName>Hobart Fliers</teamName>
+  <owner>majortinkle</owner>
+  <founded>2021-08-08T18:13:46+02:00</founded>
+  <youthFounded>2021-11-28T00:30:26+01:00</youthFounded>
+  <arenaId>57115</arenaId>
+  <arenaName>The Domain</arenaName>
+  <leagueId>568</leagueId>
+  <youthLeagueId>171</youthLeagueId>
+  <nationId>14</nationId>
+  <regionId>206</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

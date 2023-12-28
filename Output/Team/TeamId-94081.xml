@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94081</teamId>
+  <teamName>Óbudai Torna Club</teamName>
+  <owner>szulika23</owner>
+  <founded>2023-09-14T19:09:17+02:00</founded>
+  <youthFounded>2023-09-15T00:30:38+02:00</youthFounded>
+  <arenaId>58188</arenaId>
+  <arenaName>Óbuda Aréna</arenaName>
+  <leagueId>576</leagueId>
+  <youthLeagueId>186</youthLeagueId>
+  <nationId>41</nationId>
+  <regionId>407</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

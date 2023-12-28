@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90266</teamId>
+  <teamName>Boalt IF</teamName>
+  <owner>Raihu</owner>
+  <founded>2020-01-30T22:20:37+01:00</founded>
+  <youthFounded>2020-02-03T11:22:36+01:00</youthFounded>
+  <arenaId>55865</arenaId>
+  <arenaName>Skogens IP</arenaName>
+  <leagueId>569</leagueId>
+  <youthLeagueId>182</youthLeagueId>
+  <nationId>3</nationId>
+  <regionId>68</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

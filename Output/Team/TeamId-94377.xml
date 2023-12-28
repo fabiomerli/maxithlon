@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94377</teamId>
+  <teamName>Athletic Club de Bilbao</teamName>
+  <owner>Clemente</owner>
+  <founded>2023-10-01T17:01:35+02:00</founded>
+  <youthFounded>2023-10-02T00:30:38+02:00</youthFounded>
+  <arenaId>58208</arenaId>
+  <arenaName>San Mamés</arenaName>
+  <leagueId>90</leagueId>
+  <youthLeagueId>131</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>111</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

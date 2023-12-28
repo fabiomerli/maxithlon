@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>85762</teamId>
+  <teamName>ASTERIA</teamName>
+  <owner>aristidis</owner>
+  <founded>2016-12-29T17:48:05+01:00</founded>
+  <youthFounded>2017-11-12T11:32:30+01:00</youthFounded>
+  <arenaId>53115</arenaId>
+  <arenaName>ASTRA ARINA</arenaName>
+  <leagueId>150</leagueId>
+  <youthLeagueId>177</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>239</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

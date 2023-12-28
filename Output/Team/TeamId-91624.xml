@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91624</teamId>
+  <teamName>Great Divide AC</teamName>
+  <owner>coachmikeb</owner>
+  <founded>2021-02-16T16:07:11+01:00</founded>
+  <youthFounded>2021-02-16T17:53:27+01:00</youthFounded>
+  <arenaId>56760</arenaId>
+  <arenaName>Penokee Memorial Center</arenaName>
+  <leagueId>142</leagueId>
+  <youthLeagueId>172</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>232</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>4185</teamId>
+  <teamName>AV De Lobben</teamName>
+  <owner>Petrovitsj</owner>
+  <founded>2007-07-03T21:01:50+02:00</founded>
+  <youthFounded>2017-11-12T21:35:59+01:00</youthFounded>
+  <arenaId>3005</arenaId>
+  <arenaName>De Heemlanden</arenaName>
+  <leagueId>41</leagueId>
+  <youthLeagueId>157</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>88</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

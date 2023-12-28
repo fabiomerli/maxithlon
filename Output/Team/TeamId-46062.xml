@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>46062</teamId>
+  <teamName>BW Koblenz</teamName>
+  <owner>StCruz</owner>
+  <founded>2010-07-30T08:05:09+02:00</founded>
+  <youthFounded>2022-02-21T00:31:26+01:00</youthFounded>
+  <arenaId>30042</arenaId>
+  <arenaName>Steinstrasse</arenaName>
+  <leagueId>40</leagueId>
+  <youthLeagueId>196</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>54</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

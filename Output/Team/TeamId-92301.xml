@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92301</teamId>
+  <teamName>Lominiric AC</teamName>
+  <owner>syrdahar</owner>
+  <founded>2021-09-22T21:27:43+02:00</founded>
+  <youthFounded>2021-09-24T00:30:27+02:00</youthFounded>
+  <arenaId>57219</arenaId>
+  <arenaName>Nogales Arena</arenaName>
+  <leagueId>74</leagueId>
+  <youthLeagueId>140</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>551</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

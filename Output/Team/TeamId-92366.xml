@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92366</teamId>
+  <teamName>NorCal Track Club</teamName>
+  <owner>Revadarth</owner>
+  <founded>2021-10-31T06:34:26+01:00</founded>
+  <youthFounded>2021-11-03T00:30:27+01:00</youthFounded>
+  <arenaId>57265</arenaId>
+  <arenaName>Hornet Stadium</arenaName>
+  <leagueId>176</leagueId>
+  <youthLeagueId>169</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>228</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

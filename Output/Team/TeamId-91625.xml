@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91625</teamId>
+  <teamName>SomeTeam</teamName>
+  <owner>somoaone</owner>
+  <founded>2021-02-17T20:32:42+01:00</founded>
+  <youthFounded>2021-03-16T20:14:46+01:00</youthFounded>
+  <arenaId>56761</arenaId>
+  <arenaName>SomeWhear</arenaName>
+  <leagueId>77</leagueId>
+  <youthLeagueId>144</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>548</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

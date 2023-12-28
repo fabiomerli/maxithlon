@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>62735</teamId>
+  <teamName>Gunners</teamName>
+  <owner>marcolo</owner>
+  <founded>2012-04-22T16:18:46+02:00</founded>
+  <youthFounded>2023-11-01T00:30:37+01:00</youthFounded>
+  <arenaId>40438</arenaId>
+  <arenaName>Highbury Stadium</arenaName>
+  <leagueId>10</leagueId>
+  <youthLeagueId>121</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>17</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

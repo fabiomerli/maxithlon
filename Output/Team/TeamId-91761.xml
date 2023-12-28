@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91761</teamId>
+  <teamName>Družba 5</teamName>
+  <owner>manager</owner>
+  <founded>2021-04-07T13:07:55+02:00</founded>
+  <youthFounded>2021-04-19T10:11:13+02:00</youthFounded>
+  <arenaId>56867</arenaId>
+  <arenaName>Zeff aréna</arenaName>
+  <leagueId>567</leagueId>
+  <youthLeagueId>184</youthLeagueId>
+  <nationId>22</nationId>
+  <regionId>257</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

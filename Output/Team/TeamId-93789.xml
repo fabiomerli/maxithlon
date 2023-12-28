@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93789</teamId>
+  <teamName>Angels Athletic Birmingham</teamName>
+  <owner>RajG82</owner>
+  <founded>2023-08-19T17:54:16+02:00</founded>
+  <youthFounded>2023-08-25T00:30:37+02:00</youthFounded>
+  <arenaId>58134</arenaId>
+  <arenaName>Jericho Stadium</arenaName>
+  <leagueId>572</leagueId>
+  <youthLeagueId>172</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>155</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

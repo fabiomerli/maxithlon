@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93427</teamId>
+  <teamName>Athletic Club Valdainois</teamName>
+  <owner>Missoun</owner>
+  <founded>2023-02-20T08:17:12+01:00</founded>
+  <youthFounded>2023-02-28T00:30:35+01:00</youthFounded>
+  <arenaId>57929</arenaId>
+  <arenaName>Stade des Alpes</arenaName>
+  <leagueId>77</leagueId>
+  <youthLeagueId>141</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>549</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

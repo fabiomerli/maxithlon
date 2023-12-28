@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>52144</teamId>
+  <teamName>TLA Tomic Tychy</teamName>
+  <owner>Tomic</owner>
+  <founded>2011-01-12T17:31:05+01:00</founded>
+  <youthFounded>2017-11-13T22:31:17+01:00</youthFounded>
+  <arenaId>33832</arenaId>
+  <arenaName>Tychy Olimpic Stadium</arenaName>
+  <leagueId>179</leagueId>
+  <youthLeagueId>146</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>272</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

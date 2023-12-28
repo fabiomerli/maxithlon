@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93880</teamId>
+  <teamName>Libertas Benečija</teamName>
+  <owner>Tomazin</owner>
+  <founded>2023-08-26T19:33:15+02:00</founded>
+  <youthFounded>2023-08-28T00:30:45+02:00</youthFounded>
+  <arenaId>58152</arenaId>
+  <arenaName>Brezje</arenaName>
+  <leagueId>15</leagueId>
+  <youthLeagueId>120</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>10</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

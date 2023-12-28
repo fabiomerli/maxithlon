@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92914</teamId>
+  <teamName>Wacky Racers</teamName>
+  <owner>TheAdmiral</owner>
+  <founded>2022-06-14T11:07:07+02:00</founded>
+  <youthFounded>2022-06-15T00:30:30+02:00</youthFounded>
+  <arenaId>57614</arenaId>
+  <arenaName>The DD Dome</arenaName>
+  <leagueId>575</leagueId>
+  <youthLeagueId>171</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>153</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>74480</teamId>
+  <teamName>Club Atletisme Barcelona</teamName>
+  <owner>fifa</owner>
+  <founded>2013-08-11T14:44:39+02:00</founded>
+  <youthFounded>2017-11-12T13:54:03+01:00</youthFounded>
+  <arenaId>46586</arenaId>
+  <arenaName>Barcelonés Camp</arenaName>
+  <leagueId>47</leagueId>
+  <youthLeagueId>138</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>109</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

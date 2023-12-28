@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>83060</teamId>
+  <teamName>TSV coni</teamName>
+  <owner>conconi</owner>
+  <founded>2015-09-08T22:41:38+02:00</founded>
+  <youthFounded>2023-09-29T00:30:38+02:00</youthFounded>
+  <arenaId>51424</arenaId>
+  <arenaName>Learena</arenaName>
+  <leagueId>66</leagueId>
+  <youthLeagueId>198</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>44</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

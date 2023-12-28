@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94224</teamId>
+  <teamName>Rekolan Rehti</teamName>
+  <owner>helehtonen</owner>
+  <founded>2023-09-21T14:51:47+02:00</founded>
+  <youthFounded>2023-10-19T00:30:37+02:00</youthFounded>
+  <arenaId>58194</arenaId>
+  <arenaName>Petrinkuja</arenaName>
+  <leagueId>574</leagueId>
+  <youthLeagueId>181</youthLeagueId>
+  <nationId>16</nationId>
+  <regionId>219</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

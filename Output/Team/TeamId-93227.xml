@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93227</teamId>
+  <teamName>Prado luengo</teamName>
+  <owner>DiegoGL</owner>
+  <founded>2022-11-04T10:40:58+01:00</founded>
+  <youthFounded>2022-11-07T00:30:28+01:00</youthFounded>
+  <arenaId>57808</arenaId>
+  <arenaName>Los llanos</arenaName>
+  <leagueId>81</leagueId>
+  <youthLeagueId>133</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>107</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

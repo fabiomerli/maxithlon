@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94825</teamId>
+  <teamName>jyske</teamName>
+  <owner>sealonvar</owner>
+  <founded>2023-11-06T11:34:17+01:00</founded>
+  <youthFounded>2023-11-14T00:30:40+01:00</youthFounded>
+  <arenaId>58252</arenaId>
+  <arenaName>Jyskylä</arenaName>
+  <leagueId>578</leagueId>
+  <youthLeagueId>182</youthLeagueId>
+  <nationId>16</nationId>
+  <regionId>220</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

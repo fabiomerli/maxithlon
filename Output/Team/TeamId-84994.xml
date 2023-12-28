@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>84994</teamId>
+  <teamName>Tiiru</teamName>
+  <owner>tiiru8</owner>
+  <founded>2016-08-23T18:55:55+02:00</founded>
+  <youthFounded>2018-01-26T04:50:50+01:00</youthFounded>
+  <arenaId>52736</arenaId>
+  <arenaName>Tiiru Stadium</arenaName>
+  <leagueId>570</leagueId>
+  <youthLeagueId>180</youthLeagueId>
+  <nationId>8</nationId>
+  <regionId>168</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92094</teamId>
+  <teamName>Belgrad Running</teamName>
+  <owner>Rclub</owner>
+  <founded>2021-08-03T10:29:33+02:00</founded>
+  <youthFounded>2021-09-13T00:30:51+02:00</youthFounded>
+  <arenaId>57072</arenaId>
+  <arenaName>Десна</arenaName>
+  <leagueId>566</leagueId>
+  <youthLeagueId>189</youthLeagueId>
+  <nationId>32</nationId>
+  <regionId>343</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

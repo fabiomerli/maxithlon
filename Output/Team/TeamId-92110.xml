@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92110</teamId>
+  <teamName>Happy Human Track Club</teamName>
+  <owner>HappyHuman</owner>
+  <founded>2021-08-04T15:43:49+02:00</founded>
+  <youthFounded>2021-09-13T00:30:55+02:00</youthFounded>
+  <arenaId>57088</arenaId>
+  <arenaName>Happy Home</arenaName>
+  <leagueId>142</leagueId>
+  <youthLeagueId>169</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>236</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

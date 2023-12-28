@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>86330</teamId>
+  <teamName>Vallekas Team</teamName>
+  <owner>Benito_95</owner>
+  <founded>2017-05-16T18:01:59+02:00</founded>
+  <youthFounded>2017-11-17T14:20:24+01:00</youthFounded>
+  <arenaId>53463</arenaId>
+  <arenaName>Estadio de Vallekas</arenaName>
+  <leagueId>82</leagueId>
+  <youthLeagueId>129</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>115</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

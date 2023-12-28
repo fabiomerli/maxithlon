@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92482</teamId>
+  <teamName>Team Telstra</teamName>
+  <owner>Telstra</owner>
+  <founded>2022-01-05T11:52:05+01:00</founded>
+  <youthFounded>2022-01-11T00:30:25+01:00</youthFounded>
+  <arenaId>57341</arenaId>
+  <arenaName>Telstra Arena</arenaName>
+  <leagueId>575</leagueId>
+  <youthLeagueId>171</youthLeagueId>
+  <nationId>14</nationId>
+  <regionId>203</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>
