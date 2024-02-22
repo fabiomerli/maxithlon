@@ -5,7 +5,7 @@ name: Python Maxithlon application
 
 on:
   schedule:
-    - cron: "30 8 * * 1,4"
+    - cron: "00 8 * * 1,4"
   push:
     branches: [ "main" ]
   pull_request:
