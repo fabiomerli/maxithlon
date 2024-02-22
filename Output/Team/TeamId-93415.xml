@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93415</teamId>
+  <teamName>The Charlatans</teamName>
+  <owner>Dakkar</owner>
+  <founded>2023-02-13T16:58:44+01:00</founded>
+  <youthFounded>2023-02-14T00:30:39+01:00</youthFounded>
+  <arenaId>57924</arenaId>
+  <arenaName>Gasparollo Arena</arenaName>
+  <leagueId>15</leagueId>
+  <youthLeagueId>116</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>14</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

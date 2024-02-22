@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>89926</teamId>
+  <teamName>Gravel Team</teamName>
+  <owner>Gravel </owner>
+  <founded>2019-10-15T22:27:41+02:00</founded>
+  <youthFounded>2019-10-16T18:01:21+02:00</youthFounded>
+  <arenaId>55658</arenaId>
+  <arenaName>Gravel Arena</arenaName>
+  <leagueId>3</leagueId>
+  <youthLeagueId>116</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

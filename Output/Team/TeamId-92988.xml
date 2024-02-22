@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92988</teamId>
+  <teamName>Esploratori</teamName>
+  <owner>Eddiello</owner>
+  <founded>2022-07-20T09:36:12+02:00</founded>
+  <youthFounded>2024-02-03T00:31:01+01:00</youthFounded>
+  <arenaId>57658</arenaId>
+  <arenaName>Run &amp; Fun</arenaName>
+  <leagueId>22</leagueId>
+  <youthLeagueId>127</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>
