@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <name>National League 1.1 Italia</name>
+  <type>15</type>
+  <season>94</season>
+  <date>2024-02-18T14:00:00+01:00</date>
+  <arenaId>63</arenaId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <standings>2</standings>
+  <attendance>27899</attendance>
+  <meteo>4</meteo>
+  <status>3</status>
+  <event id="41016312"/>
+  <event id="41016313"/>
+  <event id="41016314"/>
+  <event id="41016315"/>
+  <event id="41016316"/>
+  <event id="41016317"/>
+  <event id="41016318"/>
+  <event id="41016319"/>
+  <event id="41016320"/>
+  <event id="41016321"/>
+  <event id="41016322"/>
+  <event id="41016323"/>
+  <event id="41016324"/>
+  <event id="41016325"/>
+  <event id="41016326"/>
+  <event id="41016327"/>
+  <event id="41016328"/>
+  <event id="41016329"/>
+  <event id="41016330"/>
+  <event id="41016331"/>
+  <event id="41016332"/>
+  <event id="41016333"/>
+  <event id="41016334"/>
+  <event id="41016335"/>
+  <event id="41016336"/>
+  <event id="41016337"/>
+  <event id="41016338"/>
+  <event id="41016339"/>
+  <event id="41016340"/>
+  <event id="41016341"/>
+  <event id="41016342"/>
+  <event id="41016343"/>
+  <event id="41016344"/>
+  <event id="41016345"/>
+  <event id="41016346"/>
+  <event id="41016347"/>
+  <event id="41016348"/>
+  <event id="41016349"/>
+  <event id="41016350"/>
+  <event id="41016351"/>
+  <event id="41016352"/>
+  <event id="41016353"/>
+  <event id="41016354"/>
+  <event id="41016355"/>
+  <event id="41016356"/>
+  <event id="41016357"/>
+  <event id="41016358"/>
+  <event id="41016359"/>
+  <event id="41016360"/>
+  <event id="41016361"/>
+  <event id="41016362"/>
+  <event id="41016363"/>
+  <event id="41016364"/>
+  <event id="41016365"/>
+  <event id="41016366"/>
+  <event id="41016367"/>
+  <event id="41016368"/>
+  <event id="41016369"/>
+  <event id="41016370"/>
+  <event id="41016371"/>
+  <event id="41016372"/>
+  <event id="41016373"/>
+  <event id="41016374"/>
+  <event id="41016375"/>
+  <event id="41016376"/>
+  <event id="41016377"/>
+  <event id="41016378"/>
+  <event id="41016379"/>
+  <event id="41016380"/>
+  <event id="41016381"/>
+  <event id="41016382"/>
+  <event id="41016383"/>
+  <event id="41016384"/>
+  <event id="41016385"/>
+  <event id="41016386"/>
+  <event id="41016387"/>
+  <event id="41016388"/>
+  <event id="41016389"/>
+  <event id="41016390"/>
+</maxi-xml>
