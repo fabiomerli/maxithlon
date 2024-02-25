@@ -35,25 +35,27 @@ def downloadEventiFromManifestazione():
 def analizzoEvento(rootXml):
     for atleta in rootXml.findall('./heat/athlete'):
         placingAtleta = int(str(atleta.find('placing').text))
+        scoreAtleta = int(str(atleta.find('score').text))
         #if atleta.find('teamId').text == "91120":
         #    print("placingAtleta " + str(placingAtleta))
 
         if placingAtleta >= 1:
             team = atleta.find('teamId').text
             if team in TEAM_MAP.keys():
-                TEAM_MAP.get(team).append(placingAtleta)
+                TEAM_MAP.get(team).append((placingAtleta, scoreAtleta))
             else:
-                TEAM_MAP[team] = [placingAtleta]
+                TEAM_MAP[team] = [(placingAtleta, scoreAtleta)]
 
     #Se la gara è una staffetta
     for relay in rootXml.findall('./heat/relay'):
         placingRelay = int(str(relay.find('placing').text))
+        scoreRelay = int(str(relay.find('score').text))
         if placingRelay >= 1:
             team = relay.find('teamId').text
             if team in TEAM_MAP.keys():
-                TEAM_MAP.get(team).append(placingRelay)
+                TEAM_MAP.get(team).append((placingRelay,scoreRelay))
             else:
-                TEAM_MAP[team] = [placingRelay]
+                TEAM_MAP[team] = [(placingRelay,scoreRelay)]
 
 def analizzaCompetizione():
     print("Inizio a scaricare gli eventi associati alla manifestazione")
@@ -77,6 +79,7 @@ def loadTeam(teamId, teamFilePath):
     responseEvent = session.get(BASE_MAXITHLON_PATH+ 'team.php?teamid='+teamId)
     storeXmlToFile(teamFilePath, responseEvent.content)
 
+### Questo metodo verifica se la manifestazione è un campionato nazionale italiano
 def checkIfisITANatInd():
     rootXml = ET.parse(FOLDER_NAME + COMPETITION_ID+'.xml').getroot()
     type = rootXml.find('./type').text
@@ -99,26 +102,26 @@ def calcolaPunteggio():
         if not os.path.exists(teamFilePath):
             loadTeam(teamId, teamFilePath)
 
-        
         teamName = ET.parse(teamFilePath).getroot().find('teamName').text
 
         punteggioTeam = 0
         premioTeam = 0
-        if teamId == "91120":
-                print("Pos da analizzare " + str(len(TEAM_MAP.get(teamId))))
-        for position in TEAM_MAP.get(teamId):
+        scoreTeam = 0
+
+        #Iteriamo per tutte le posizione salvate per ogni team e calcoliamo il relavtivo preio/punteggio
+        for (position,score) in TEAM_MAP.get(teamId):
             if position in PUNTEGGIO_MAPPA.keys():
                 punteggioTeam = punteggioTeam + PUNTEGGIO_MAPPA.get(position)
             if isCalcolaPrice and position in PREMIO_MAPPA.keys():
                 premioTeam = premioTeam + PREMIO_MAPPA.get(position)
-                if teamId == "91120":
-                    print("premio " +str(PREMIO_MAPPA.get(position)))
-        #print('Team ' + teamName + ', punteggio ' + str(punteggioTeam))
+            scoreTeam = scoreTeam +  score
 
         if punteggioTeam > 0:
             PUNTEGGIO_TEAM_LIST.append((teamName, punteggioTeam));
         if premioTeam > 0:
             PRIZE_TEAM_LIST.append((teamName, premioTeam))
+        if scoreTeam > 0:
+            SCORE_TEAM_LIST.append((teamName, scoreTeam))
         
 def getFirstEle(team):
     return team[1]
@@ -127,14 +130,20 @@ def doManifestazione(id_manifestazione, analizzaSolo, downloadSolo,):
     global TEAM_MAP
     global COMPETITION_ID
     global FOLDER_NAME
+
+    #Queste 3 global vengono utilizzate per aggregare punteggio, score o premi per ogni team e poi stamparli
     global PUNTEGGIO_TEAM_LIST
     global PRIZE_TEAM_LIST
+    global SCORE_TEAM_LIST
     
     COMPETITION_ID = str(id_manifestazione)
     FOLDER_NAME = './Output/'+ COMPETITION_ID+ '/'
     PUNTEGGIO_TEAM_LIST = []
     PRIZE_TEAM_LIST = []
+    SCORE_TEAM_LIST = [] #per calcolare il punteggio standard
+
     TEAM_MAP = {}
+    
     
 
     if analizzaSolo != True:
@@ -150,12 +159,16 @@ def doManifestazione(id_manifestazione, analizzaSolo, downloadSolo,):
         analizzaCompetizione()
         PUNTEGGIO_TEAM_LIST.sort(key=getFirstEle, reverse=True)
         print("PUNTEGGIO_TEAM_LIST: \n", PUNTEGGIO_TEAM_LIST)
-        storeFinalResult(FOLDER_NAME+'punteggio.csv', PUNTEGGIO_TEAM_LIST)
+        storeFinalResult(FOLDER_NAME+'punteggio_' + COMPETITION_ID+'.csv', PUNTEGGIO_TEAM_LIST)
+
+        SCORE_TEAM_LIST.sort(key=getFirstEle, reverse=True)
+        print("SCORE_TEAM_LIST: \n", SCORE_TEAM_LIST)
+        storeFinalResult(FOLDER_NAME+'score_' + COMPETITION_ID+'.csv', SCORE_TEAM_LIST)
 
         if len(PRIZE_TEAM_LIST) > 0:
             PRIZE_TEAM_LIST.sort(key=getFirstEle, reverse=True)
             print("PRIZE_TEAM_LIST:\n",PRIZE_TEAM_LIST)
-            storeFinalResult(FOLDER_NAME+'premio.csv',PRIZE_TEAM_LIST)
+            storeFinalResult(FOLDER_NAME+'premio_' + COMPETITION_ID+'.csv',PRIZE_TEAM_LIST)
 
 
 

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92121</teamId>
+  <teamName>Kamerloy</teamName>
+  <owner>Sir Dada</owner>
+  <founded>2021-08-10T13:17:48+02:00</founded>
+  <youthFounded>2021-09-13T00:30:29+02:00</youthFounded>
+  <arenaId>57126</arenaId>
+  <arenaName>Tre Stelle Ischia</arenaName>
+  <leagueId>2</leagueId>
+  <youthLeagueId>123</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>16</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

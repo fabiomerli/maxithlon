@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <id>41017380</id>
+  <typeId>33</typeId>
+  <sex>1</sex>
+  <date>2024-02-11T15:22:00+01:00</date>
+  <status>3</status>
+  <heat index="1">
+    <athlete index="1">
+      <id>4614647</id>
+      <teamId>1259</teamId>
+      <performance>46.15</performance>
+      <placing>6</placing>
+      <score>599</score>
+    </athlete>
+    <athlete index="2">
+      <id>4772888</id>
+      <teamId>90877</teamId>
+      <performance>48.68</performance>
+      <placing>2</placing>
+      <score>664</score>
+    </athlete>
+    <athlete index="3">
+      <id>4840606</id>
+      <teamId>17603</teamId>
+      <performance>38.01</performance>
+      <placing>8</placing>
+      <score>392</score>
+    </athlete>
+    <athlete index="4">
+      <id>4928458</id>
+      <teamId>53222</teamId>
+      <performance>54.64</performance>
+      <placing>1</placing>
+      <score>816</score>
+    </athlete>
+    <athlete index="5">
+      <id>5015249</id>
+      <teamId>24833</teamId>
+      <performance>40.35</performance>
+      <placing>7</placing>
+      <score>451</score>
+    </athlete>
+    <athlete index="6">
+      <id>5038267</id>
+      <teamId>91120</teamId>
+      <performance>46.30</performance>
+      <placing>5</placing>
+      <attitude>0</attitude>
+      <score>603</score>
+    </athlete>
+    <athlete index="7">
+      <id>5042868</id>
+      <teamId>74572</teamId>
+      <performance>46.76</performance>
+      <placing>3</placing>
+      <score>615</score>
+    </athlete>
+    <athlete index="8">
+      <id>5157609</id>
+      <teamId>31292</teamId>
+      <performance>46.33</performance>
+      <placing>4</placing>
+      <score>604</score>
+    </athlete>
+  </heat>
+</maxi-xml>
