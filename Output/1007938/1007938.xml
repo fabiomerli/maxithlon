@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <name>National League 1.1 Italia</name>
+  <type>15</type>
+  <season>94</season>
+  <date>2024-02-18T14:00:00+01:00</date>
+  <arenaId>791</arenaId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <standings>2</standings>
+  <attendance>27982</attendance>
+  <meteo>4</meteo>
+  <status>3</status>
+  <event id="41016233"/>
+  <event id="41016234"/>
+  <event id="41016235"/>
+  <event id="41016236"/>
+  <event id="41016237"/>
+  <event id="41016238"/>
+  <event id="41016239"/>
+  <event id="41016240"/>
+  <event id="41016241"/>
+  <event id="41016242"/>
+  <event id="41016243"/>
+  <event id="41016244"/>
+  <event id="41016245"/>
+  <event id="41016246"/>
+  <event id="41016247"/>
+  <event id="41016248"/>
+  <event id="41016249"/>
+  <event id="41016250"/>
+  <event id="41016251"/>
+  <event id="41016252"/>
+  <event id="41016253"/>
+  <event id="41016254"/>
+  <event id="41016255"/>
+  <event id="41016256"/>
+  <event id="41016257"/>
+  <event id="41016258"/>
+  <event id="41016259"/>
+  <event id="41016260"/>
+  <event id="41016261"/>
+  <event id="41016262"/>
+  <event id="41016263"/>
+  <event id="41016264"/>
+  <event id="41016265"/>
+  <event id="41016266"/>
+  <event id="41016267"/>
+  <event id="41016268"/>
+  <event id="41016269"/>
+  <event id="41016270"/>
+  <event id="41016271"/>
+  <event id="41016272"/>
+  <event id="41016273"/>
+  <event id="41016274"/>
+  <event id="41016275"/>
+  <event id="41016276"/>
+  <event id="41016277"/>
+  <event id="41016278"/>
+  <event id="41016279"/>
+  <event id="41016280"/>
+  <event id="41016281"/>
+  <event id="41016282"/>
+  <event id="41016283"/>
+  <event id="41016284"/>
+  <event id="41016285"/>
+  <event id="41016286"/>
+  <event id="41016287"/>
+  <event id="41016288"/>
+  <event id="41016289"/>
+  <event id="41016290"/>
+  <event id="41016291"/>
+  <event id="41016292"/>
+  <event id="41016293"/>
+  <event id="41016294"/>
+  <event id="41016295"/>
+  <event id="41016296"/>
+  <event id="41016297"/>
+  <event id="41016298"/>
+  <event id="41016299"/>
+  <event id="41016300"/>
+  <event id="41016301"/>
+  <event id="41016302"/>
+  <event id="41016303"/>
+  <event id="41016304"/>
+  <event id="41016305"/>
+  <event id="41016306"/>
+  <event id="41016307"/>
+  <event id="41016308"/>
+  <event id="41016309"/>
+  <event id="41016310"/>
+  <event id="41016311"/>
+</maxi-xml>

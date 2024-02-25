@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>9875</teamId>
+  <teamName>Navin</teamName>
+  <owner>Navi</owner>
+  <founded>2008-01-06T11:13:20+01:00</founded>
+  <youthFounded>2017-11-12T18:02:01+01:00</youthFounded>
+  <arenaId>6817</arenaId>
+  <arenaName>NaviSport</arenaName>
+  <leagueId>1</leagueId>
+  <youthLeagueId>117</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>14</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>
