@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>7045</teamId>
+  <teamName>Touf'Club</teamName>
+  <owner>cristouf</owner>
+  <founded>2007-09-17T21:02:38+02:00</founded>
+  <youthFounded>2017-11-12T23:32:28+01:00</youthFounded>
+  <arenaId>4900</arenaId>
+  <arenaName>ToufLand</arenaName>
+  <leagueId>74</leagueId>
+  <youthLeagueId>142</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>551</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

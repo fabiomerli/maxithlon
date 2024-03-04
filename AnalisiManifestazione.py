@@ -79,6 +79,17 @@ def loadTeam(teamId, teamFilePath):
     responseEvent = session.get(BASE_MAXITHLON_PATH+ 'team.php?teamid='+teamId)
     storeXmlToFile(teamFilePath, responseEvent.content)
 
+### Questo metodo verifica se la manifestazione è un campionato mondiale
+def checkIfisMondiali():
+    rootXml = ET.parse(FOLDER_NAME + COMPETITION_ID+'.xml').getroot()
+    type = rootXml.find('./type').text
+    return type == "10"
+
+def checkIfisContEu():
+    rootXml = ET.parse(FOLDER_NAME + COMPETITION_ID+'.xml').getroot()
+    type = rootXml.find('./type').text
+    return type == "9"
+
 ### Questo metodo verifica se la manifestazione è un campionato nazionale italiano
 def checkIfisITANatInd():
     rootXml = ET.parse(FOLDER_NAME + COMPETITION_ID+'.xml').getroot()
@@ -87,10 +98,17 @@ def checkIfisITANatInd():
     return type == "8" and nationId == "1"
     
 def calcolaPunteggio():
-    isCalcolaPrice = checkIfisITANatInd()
+    isCalcolaPriceIndITA = checkIfisITANatInd()
+    isCalcolaPriceMondiali = checkIfisMondiali()
+    isCalcolaPriceContEu = checkIfisContEu()
     
-    if isCalcolaPrice:
+    if isCalcolaPriceIndITA:
         PREMIO_MAPPA = doLoadPremiIndividualiNazItalia()
+    elif isCalcolaPriceMondiali:
+        PREMIO_MAPPA = doLoadMondiali();
+    elif isCalcolaPriceContEu:
+        PREMIO_MAPPA = doLoadPremiContEu();
+    
     for teamId in TEAM_MAP:
         teamFilePath = TEAM_FOLDER + 'TeamId-' + teamId + '.xml'
         #print('Analizzo il team ' + teamId + ', cerco il file ' +teamFilePath)
@@ -108,11 +126,11 @@ def calcolaPunteggio():
         premioTeam = 0
         scoreTeam = 0
 
-        #Iteriamo per tutte le posizione salvate per ogni team e calcoliamo il relavtivo preio/punteggio
+        #Iteriamo per tutte le posizione salvate per ogni team e calcoliamo il relavtivo premio/punteggio
         for (position,score) in TEAM_MAP.get(teamId):
             if position in PUNTEGGIO_MAPPA.keys():
                 punteggioTeam = punteggioTeam + PUNTEGGIO_MAPPA.get(position)
-            if isCalcolaPrice and position in PREMIO_MAPPA.keys():
+            if (isCalcolaPriceIndITA or isCalcolaPriceMondiali or isCalcolaPriceContEu) and position in PREMIO_MAPPA.keys():
                 premioTeam = premioTeam + PREMIO_MAPPA.get(position)
             scoreTeam = scoreTeam +  score
 

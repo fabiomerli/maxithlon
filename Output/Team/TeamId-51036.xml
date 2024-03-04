@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>51036</teamId>
+  <teamName>Clube esportivo Saudade</teamName>
+  <owner>malecal</owner>
+  <founded>2010-12-16T22:21:19+01:00</founded>
+  <youthFounded>2017-11-12T11:30:19+01:00</youthFounded>
+  <arenaId>33124</arenaId>
+  <arenaName>O Poboado</arenaName>
+  <leagueId>47</leagueId>
+  <youthLeagueId>130</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>113</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

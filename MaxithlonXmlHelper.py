@@ -17,18 +17,20 @@ def doLoadMappaIdEventi():
     return ID_EVENTI_MAPPA
 
 def doLoadMappaPunteggio():
-    PUNTEGGIO_MAPPA = {}
-    with open(os.getcwd()+"/Input/Punteggio.csv") as csvfile:
-        reader = csv.reader(csvfile)
-        position = 1
-        for punteggio in reader:
-            PUNTEGGIO_MAPPA[position]=int(punteggio[0])
-            position=position+1
-    return PUNTEGGIO_MAPPA
+    return loadByFile("/Input/Punteggio.csv")
+
+def doLoadPremiContEu():
+    return loadByFile("/Input/PremiContEu.csv")
 
 def doLoadPremiIndividualiNazItalia():
+    return loadByFile("/Input/PremiIndNazItalia.csv")
+
+def doLoadMondiali():
+    return loadByFile("/Input/PremiMondiali.csv")
+
+def loadByFile(filePath):
     PREMIO_MAPPA = {}
-    with open(os.getcwd()+"/Input/PremiIndNazItalia.csv") as csvfile:
+    with open(os.getcwd()+"/Input/PremiMondiali.csv") as csvfile:
         reader = csv.reader(csvfile)
         position = 1
         for punteggio in reader:

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>89711</teamId>
+  <teamName>GMV Athletics</teamName>
+  <owner>GMdeV</owner>
+  <founded>2019-08-11T13:06:39+02:00</founded>
+  <youthFounded>2019-08-11T17:35:03+02:00</youthFounded>
+  <arenaId>55530</arenaId>
+  <arenaName>GMV Stadium</arenaName>
+  <leagueId>35</leagueId>
+  <youthLeagueId>155</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>81</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>
