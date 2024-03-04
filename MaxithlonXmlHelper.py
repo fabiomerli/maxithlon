@@ -30,7 +30,7 @@ def doLoadMondiali():
 
 def loadByFile(filePath):
     PREMIO_MAPPA = {}
-    with open(os.getcwd()+"/Input/PremiMondiali.csv") as csvfile:
+    with open(os.getcwd()+filePath) as csvfile:
         reader = csv.reader(csvfile)
         position = 1
         for punteggio in reader:
