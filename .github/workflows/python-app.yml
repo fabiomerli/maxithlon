@@ -18,7 +18,7 @@ jobs:
   build:
     
     # Docker Hub image that `container-job` executes in
-    container: node:10.18-jessie
+    container: python:3.6.9-jessie
     runs-on: ubuntu-latest
 
     # Service containers to run with `container-job`
@@ -36,10 +36,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v3
-      with:
-        python-version: "3.10"
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
@@ -48,7 +44,7 @@ jobs:
     - name: Connect to Redis
         # Runs a script that creates a Redis client, populates
         # the client with data, and retrieves data
-      run: node client-redis.js
+      run: python python-client-redis.py
       # Environment variable used by the `client.js` script to create a new Redis client.
       env:
         # The hostname used to communicate with the Redis service container
