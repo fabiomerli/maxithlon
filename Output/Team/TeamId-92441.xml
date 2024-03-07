@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92441</teamId>
+  <teamName>AV Amersfoort</teamName>
+  <owner>Vomgnus51</owner>
+  <founded>2021-12-15T21:48:50+01:00</founded>
+  <youthFounded>2021-12-16T00:30:26+01:00</youthFounded>
+  <arenaId>57317</arenaId>
+  <arenaName>Amersfoort Arena</arenaName>
+  <leagueId>42</leagueId>
+  <youthLeagueId>157</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>88</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

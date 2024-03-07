@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>77615</teamId>
+  <teamName>CASMM</teamName>
+  <owner>jackot</owner>
+  <founded>2014-02-18T16:18:56+01:00</founded>
+  <youthFounded>2024-02-23T00:30:03+01:00</youthFounded>
+  <arenaId>48250</arenaId>
+  <arenaName>Moutarde Park</arenaName>
+  <leagueId>111</leagueId>
+  <youthLeagueId>143</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>552</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

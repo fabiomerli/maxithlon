@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>6164</teamId>
+  <teamName>Großenhainer LV 07</teamName>
+  <owner>Damion</owner>
+  <founded>2007-09-02T15:31:08+02:00</founded>
+  <youthFounded>2017-11-14T11:25:01+01:00</youthFounded>
+  <arenaId>4369</arenaId>
+  <arenaName>Stadion der Freundschaft</arenaName>
+  <leagueId>39</leagueId>
+  <youthLeagueId>197</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>56</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

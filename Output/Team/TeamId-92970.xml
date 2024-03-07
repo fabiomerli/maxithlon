@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92970</teamId>
+  <teamName>Dexys Midnight Runners</teamName>
+  <owner>Pintus1976</owner>
+  <founded>2022-07-15T12:15:47+02:00</founded>
+  <youthFounded>2022-07-16T00:30:29+02:00</youthFounded>
+  <arenaId>57648</arenaId>
+  <arenaName>Arena Eileen</arenaName>
+  <leagueId>116</leagueId>
+  <youthLeagueId>164</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>200</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>95283</teamId>
+  <teamName>AC Olomouc</teamName>
+  <owner>Fanda2601</owner>
+  <founded>2024-02-03T21:39:27+01:00</founded>
+  <youthFounded>2024-02-07T00:30:03+01:00</youthFounded>
+  <arenaId>58321</arenaId>
+  <arenaName>Atletický stadion Olomouc</arenaName>
+  <leagueId>320</leagueId>
+  <youthLeagueId>187</youthLeagueId>
+  <nationId>38</nationId>
+  <regionId>393</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

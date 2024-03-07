@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>82058</teamId>
+  <teamName>ASV Salia-Giants</teamName>
+  <owner>Bennie</owner>
+  <founded>2015-06-02T13:59:11+02:00</founded>
+  <youthFounded>2024-02-20T00:30:10+01:00</youthFounded>
+  <arenaId>50820</arenaId>
+  <arenaName>SaliArena</arenaName>
+  <leagueId>67</leagueId>
+  <youthLeagueId>197</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>53</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

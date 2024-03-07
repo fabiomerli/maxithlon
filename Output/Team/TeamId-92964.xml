@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92964</teamId>
+  <teamName>Bugibba Sporting Accademy</teamName>
+  <owner>Santana82</owner>
+  <founded>2022-08-03T22:34:25+02:00</founded>
+  <youthFounded>2022-08-04T00:30:37+02:00</youthFounded>
+  <arenaId>57694</arenaId>
+  <arenaName>Buggy Palace</arenaName>
+  <leagueId>570</leagueId>
+  <youthLeagueId>176</youthLeagueId>
+  <nationId>79</nationId>
+  <regionId>544</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

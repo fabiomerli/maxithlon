@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>64775</teamId>
+  <teamName>CA Burriana</teamName>
+  <owner>judelato</owner>
+  <founded>2012-07-21T13:22:20+02:00</founded>
+  <youthFounded>2023-10-06T00:30:37+02:00</youthFounded>
+  <arenaId>41588</arenaId>
+  <arenaName>Estadio Olímpico Raúl González</arenaName>
+  <leagueId>82</leagueId>
+  <youthLeagueId>135</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>110</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

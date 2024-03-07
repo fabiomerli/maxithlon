@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>76017</teamId>
+  <teamName>Carnivorous Vulgaris</teamName>
+  <owner>Ercanto</owner>
+  <founded>2013-10-23T20:38:26+02:00</founded>
+  <youthFounded>2017-11-12T19:12:58+01:00</youthFounded>
+  <arenaId>47358</arenaId>
+  <arenaName>Wile E. Coyote Olympic Stadium</arenaName>
+  <leagueId>82</leagueId>
+  <youthLeagueId>130</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>102</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

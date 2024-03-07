@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91053</teamId>
+  <teamName>Lucayan Athletics Club</teamName>
+  <owner>zayviur</owner>
+  <founded>2020-07-26T19:06:27+02:00</founded>
+  <youthFounded>2020-07-26T22:02:07+02:00</youthFounded>
+  <arenaId>56411</arenaId>
+  <arenaName>Lucayan Plateau</arenaName>
+  <leagueId>576</leagueId>
+  <youthLeagueId>174</youthLeagueId>
+  <nationId>58</nationId>
+  <regionId>505</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

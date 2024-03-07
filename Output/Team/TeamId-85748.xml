@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>85748</teamId>
+  <teamName>Hamburg meine Perle</teamName>
+  <owner>master1502</owner>
+  <founded>2016-12-23T22:10:41+01:00</founded>
+  <youthFounded>2017-11-14T12:33:54+01:00</youthFounded>
+  <arenaId>53103</arenaId>
+  <arenaName>Volksparkstadion</arenaName>
+  <leagueId>34</leagueId>
+  <youthLeagueId>194</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>53</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

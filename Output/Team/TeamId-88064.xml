@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>88064</teamId>
+  <teamName>IndyKey</teamName>
+  <owner>kikou2</owner>
+  <founded>2018-03-19T09:30:08+01:00</founded>
+  <youthFounded>2018-03-19T09:49:44+01:00</youthFounded>
+  <arenaId>54504</arenaId>
+  <arenaName>IndyKey Stadium</arenaName>
+  <leagueId>574</leagueId>
+  <youthLeagueId>192</youthLeagueId>
+  <nationId>44</nationId>
+  <regionId>434</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

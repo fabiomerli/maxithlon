@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>95044</teamId>
+  <teamName>Tõrvased Surujad</teamName>
+  <owner>vahvakirt</owner>
+  <founded>2024-01-17T06:28:04+01:00</founded>
+  <youthFounded>2024-01-31T00:30:02+01:00</youthFounded>
+  <arenaId>58305</arenaId>
+  <arenaName>Suruarena</arenaName>
+  <leagueId>588</leagueId>
+  <youthLeagueId>181</youthLeagueId>
+  <nationId>8</nationId>
+  <regionId>169</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

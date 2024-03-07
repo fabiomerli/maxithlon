@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>36098</teamId>
+  <teamName>Usain Bolt</teamName>
+  <owner>sebbastiandim</owner>
+  <founded>2009-11-27T00:09:05+01:00</founded>
+  <youthFounded>2017-11-12T03:04:14+01:00</youthFounded>
+  <arenaId>23238</arenaId>
+  <arenaName>Atanasio Giradot</arenaName>
+  <leagueId>577</leagueId>
+  <youthLeagueId>152</youthLeagueId>
+  <nationId>27</nationId>
+  <regionId>309</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

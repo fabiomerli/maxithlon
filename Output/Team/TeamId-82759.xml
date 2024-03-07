@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>82759</teamId>
+  <teamName>Big C Athletics</teamName>
+  <owner>calesc</owner>
+  <founded>2015-08-14T17:47:13+02:00</founded>
+  <youthFounded>2017-11-14T10:18:23+01:00</youthFounded>
+  <arenaId>51215</arenaId>
+  <arenaName>Sprinters memorial stadium</arenaName>
+  <leagueId>567</leagueId>
+  <youthLeagueId>181</youthLeagueId>
+  <nationId>9</nationId>
+  <regionId>135</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

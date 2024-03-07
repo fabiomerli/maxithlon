@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>88699</teamId>
+  <teamName>Verrazano TC</teamName>
+  <owner>caggmoney</owner>
+  <founded>2018-09-12T22:30:55+02:00</founded>
+  <youthFounded>2018-11-07T20:30:30+01:00</youthFounded>
+  <arenaId>54946</arenaId>
+  <arenaName>Ocean Breeze</arenaName>
+  <leagueId>142</leagueId>
+  <youthLeagueId>173</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>236</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

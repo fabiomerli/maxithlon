@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91708</teamId>
+  <teamName>A.C. Giogala</teamName>
+  <owner>Giogala</owner>
+  <founded>2021-03-21T08:47:11+01:00</founded>
+  <youthFounded>2021-03-22T17:38:49+01:00</youthFounded>
+  <arenaId>56823</arenaId>
+  <arenaName>Giogala Arena</arenaName>
+  <leagueId>7</leagueId>
+  <youthLeagueId>119</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>14</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

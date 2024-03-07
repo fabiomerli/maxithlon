@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92869</teamId>
+  <teamName>Team Kuba</teamName>
+  <owner>kuba</owner>
+  <founded>2022-05-21T21:31:15+02:00</founded>
+  <youthFounded>2022-05-22T00:30:28+02:00</youthFounded>
+  <arenaId>57586</arenaId>
+  <arenaName>Kuba Stadium</arenaName>
+  <leagueId>6</leagueId>
+  <youthLeagueId>116</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>2</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

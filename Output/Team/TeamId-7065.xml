@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>7065</teamId>
+  <teamName>CA Alefa</teamName>
+  <owner>Perry Mason</owner>
+  <founded>2007-09-18T01:35:13+02:00</founded>
+  <youthFounded>2017-11-18T23:18:02+01:00</youthFounded>
+  <arenaId>4914</arenaId>
+  <arenaName>Alefastadium</arenaName>
+  <leagueId>48</leagueId>
+  <youthLeagueId>129</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>102</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

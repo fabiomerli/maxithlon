@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93333</teamId>
+  <teamName>Athlétique Club Toucas</teamName>
+  <owner>toucasien83</owner>
+  <founded>2023-01-02T21:31:40+01:00</founded>
+  <youthFounded>2023-01-05T00:30:31+01:00</youthFounded>
+  <arenaId>57868</arenaId>
+  <arenaName>Les trois solliès</arenaName>
+  <leagueId>77</leagueId>
+  <youthLeagueId>214</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>192</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

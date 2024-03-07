@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93451</teamId>
+  <teamName>Club Sport Marítimo</teamName>
+  <owner>csm1910</owner>
+  <founded>2023-03-06T23:13:11+01:00</founded>
+  <youthFounded>2023-03-07T00:30:32+01:00</youthFounded>
+  <arenaId>57945</arenaId>
+  <arenaName>Estádio do Marítimo</arenaName>
+  <leagueId>115</leagueId>
+  <youthLeagueId>162</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>210</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

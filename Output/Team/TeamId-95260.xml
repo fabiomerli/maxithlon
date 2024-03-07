@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>95260</teamId>
+  <teamName>Amadora Runners</teamName>
+  <owner>Peixe1500</owner>
+  <founded>2024-02-05T16:59:10+01:00</founded>
+  <youthFounded>2024-02-09T00:30:02+01:00</youthFounded>
+  <arenaId>58323</arenaId>
+  <arenaName>Monte da Treta</arenaName>
+  <leagueId>115</leagueId>
+  <youthLeagueId>166</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>200</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92233</teamId>
+  <teamName>Alkantara</teamName>
+  <owner>MaxJanot</owner>
+  <founded>2021-08-25T10:34:06+02:00</founded>
+  <youthFounded>2021-11-25T00:30:24+01:00</youthFounded>
+  <arenaId>57175</arenaId>
+  <arenaName>Giselle Stadium</arenaName>
+  <leagueId>3</leagueId>
+  <youthLeagueId>117</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>18</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

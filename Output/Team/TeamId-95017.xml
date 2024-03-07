@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>95017</teamId>
+  <teamName>Vikings-šluknov</teamName>
+  <owner>Zubec</owner>
+  <founded>2023-12-31T19:31:08+01:00</founded>
+  <youthFounded>2024-01-02T00:30:23+01:00</youthFounded>
+  <arenaId>58292</arenaId>
+  <arenaName>Valhalla</arenaName>
+  <leagueId>319</leagueId>
+  <youthLeagueId>185</youthLeagueId>
+  <nationId>38</nationId>
+  <regionId>396</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

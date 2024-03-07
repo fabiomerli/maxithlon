@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>88098</teamId>
+  <teamName>Les Matous matheux</teamName>
+  <owner>keopar</owner>
+  <founded>2018-03-29T21:15:36+02:00</founded>
+  <youthFounded>2018-04-05T00:50:36+02:00</youthFounded>
+  <arenaId>54532</arenaId>
+  <arenaName>RAB Stadium</arenaName>
+  <leagueId>77</leagueId>
+  <youthLeagueId>143</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>551</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

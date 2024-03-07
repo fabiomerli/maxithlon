@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91715</teamId>
+  <teamName>Palmosa Civitas CV</teamName>
+  <owner>Giacomino77</owner>
+  <founded>2021-03-24T16:01:37+01:00</founded>
+  <youthFounded>2021-03-28T16:09:39+02:00</youthFounded>
+  <arenaId>56830</arenaId>
+  <arenaName>Alessandro Gaetano</arenaName>
+  <leagueId>14</leagueId>
+  <youthLeagueId>119</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>5</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

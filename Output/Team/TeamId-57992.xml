@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>57992</teamId>
+  <teamName>Paso Team</teamName>
+  <owner>paso87</owner>
+  <founded>2011-08-31T12:03:14+02:00</founded>
+  <youthFounded>2017-11-12T10:07:28+01:00</youthFounded>
+  <arenaId>37612</arenaId>
+  <arenaName>Sankt Moritz Arena</arenaName>
+  <leagueId>577</leagueId>
+  <youthLeagueId>198</youthLeagueId>
+  <nationId>2</nationId>
+  <regionId>28</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

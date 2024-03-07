@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94805</teamId>
+  <teamName>Heworth Harriers</teamName>
+  <owner>MrLegXI</owner>
+  <founded>2023-11-04T17:40:18+01:00</founded>
+  <youthFounded>2023-12-31T00:30:24+01:00</youthFounded>
+  <arenaId>58251</arenaId>
+  <arenaName>The Stray</arenaName>
+  <leagueId>576</leagueId>
+  <youthLeagueId>173</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>158</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

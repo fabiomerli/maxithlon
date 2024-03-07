@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>95020</teamId>
+  <teamName>GF Running</teamName>
+  <owner>GfUde</owner>
+  <founded>2024-01-02T12:27:29+01:00</founded>
+  <youthFounded>2024-01-05T00:30:28+01:00</youthFounded>
+  <arenaId>58293</arenaId>
+  <arenaName>Mojon 3</arenaName>
+  <leagueId>570</leagueId>
+  <youthLeagueId>153</youthLeagueId>
+  <nationId>24</nationId>
+  <regionId>278</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

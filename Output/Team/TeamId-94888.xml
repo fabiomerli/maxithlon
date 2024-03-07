@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94888</teamId>
+  <teamName>Olímpico de Lagos</teamName>
+  <owner>TReis90</owner>
+  <founded>2023-11-16T01:50:44+01:00</founded>
+  <youthFounded>2023-11-17T00:30:46+01:00</youthFounded>
+  <arenaId>58267</arenaId>
+  <arenaName>Estádio Municipal Lagos</arenaName>
+  <leagueId>115</leagueId>
+  <youthLeagueId>165</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>201</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

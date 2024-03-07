@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93314</teamId>
+  <teamName>Pirin</teamName>
+  <owner>vasko77</owner>
+  <founded>2022-12-22T15:50:26+01:00</founded>
+  <youthFounded>2022-12-25T00:30:30+01:00</youthFounded>
+  <arenaId>57855</arenaId>
+  <arenaName>Pirin Arena</arenaName>
+  <leagueId>576</leagueId>
+  <youthLeagueId>189</youthLeagueId>
+  <nationId>43</nationId>
+  <regionId>425</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

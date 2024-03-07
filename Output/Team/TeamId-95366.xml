@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>95366</teamId>
+  <teamName>Atl Corsia</teamName>
+  <owner>10Alf</owner>
+  <founded>2024-02-07T08:52:27+01:00</founded>
+  <youthFounded>2024-02-08T00:30:02+01:00</youthFounded>
+  <arenaId>58325</arenaId>
+  <arenaName>Corsia Arena</arenaName>
+  <leagueId>13</leagueId>
+  <youthLeagueId>126</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>1</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>185</teamId>
+  <teamName>Calabria</teamName>
+  <owner>fidone</owner>
+  <founded>2006-05-11T21:51:20+02:00</founded>
+  <youthFounded>2022-07-11T00:30:26+02:00</youthFounded>
+  <arenaId>159</arenaId>
+  <arenaName>Campo Calabro (R.C.)</arenaName>
+  <leagueId>6</leagueId>
+  <youthLeagueId>116</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>3</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

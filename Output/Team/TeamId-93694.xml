@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93694</teamId>
+  <teamName>CA Stars</teamName>
+  <owner>Staryt5</owner>
+  <founded>2023-07-11T16:17:29+02:00</founded>
+  <youthFounded>2023-07-25T00:30:39+02:00</youthFounded>
+  <arenaId>58082</arenaId>
+  <arenaName>St Mary's Park</arenaName>
+  <leagueId>575</leagueId>
+  <youthLeagueId>175</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>165</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

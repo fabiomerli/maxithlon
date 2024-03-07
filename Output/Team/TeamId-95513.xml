@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>95513</teamId>
+  <teamName>Loughborough Harriers 2.0</teamName>
+  <owner>Marni321</owner>
+  <founded>2024-02-22T06:25:18+01:00</founded>
+  <youthFounded>2024-02-23T00:30:03+01:00</youthFounded>
+  <arenaId>58343</arenaId>
+  <arenaName>New Star City</arenaName>
+  <leagueId>586</leagueId>
+  <youthLeagueId>238</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>159</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

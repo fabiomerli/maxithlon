@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90634</teamId>
+  <teamName>Atletický spolek Veveří</teamName>
+  <owner>Jaguar1</owner>
+  <founded>2020-05-07T10:27:16+02:00</founded>
+  <youthFounded>2020-05-08T13:02:00+02:00</youthFounded>
+  <arenaId>56132</arenaId>
+  <arenaName>Sokoliště</arenaName>
+  <leagueId>319</leagueId>
+  <youthLeagueId>184</youthLeagueId>
+  <nationId>38</nationId>
+  <regionId>389</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

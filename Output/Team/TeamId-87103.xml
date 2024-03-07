@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>87103</teamId>
+  <teamName>Tohu Bohu</teamName>
+  <owner>senyaan</owner>
+  <founded>2017-09-05T13:59:56+02:00</founded>
+  <youthFounded>2018-01-20T17:50:46+01:00</youthFounded>
+  <arenaId>53894</arenaId>
+  <arenaName>R1 arena</arenaName>
+  <leagueId>568</leagueId>
+  <youthLeagueId>185</youthLeagueId>
+  <nationId>22</nationId>
+  <regionId>259</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

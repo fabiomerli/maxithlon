@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>95027</teamId>
+  <teamName>Budd Park Darts</teamName>
+  <owner>Budd Park</owner>
+  <founded>2024-01-07T15:02:49+01:00</founded>
+  <youthFounded>2024-01-08T00:31:09+01:00</youthFounded>
+  <arenaId>58299</arenaId>
+  <arenaName>Lowfield Stadium</arenaName>
+  <leagueId>580</leagueId>
+  <youthLeagueId>244</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>153</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

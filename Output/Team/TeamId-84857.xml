@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>84857</teamId>
+  <teamName>Sarganter</teamName>
+  <owner>arques89</owner>
+  <founded>2016-08-13T15:58:24+02:00</founded>
+  <youthFounded>2023-09-19T00:30:38+02:00</youthFounded>
+  <arenaId>52563</arenaId>
+  <arenaName>Colisevm</arenaName>
+  <leagueId>92</leagueId>
+  <youthLeagueId>207</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>116</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

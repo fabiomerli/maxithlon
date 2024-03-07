@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>94912</teamId>
+  <teamName>Levadeiakos g.s.</teamName>
+  <owner>Georgel</owner>
+  <founded>2023-11-24T13:09:53+01:00</founded>
+  <youthFounded>2024-02-24T00:30:02+01:00</youthFounded>
+  <arenaId>58273</arenaId>
+  <arenaName>Souvlaki arena</arenaName>
+  <leagueId>165</leagueId>
+  <youthLeagueId>263</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>240</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>84759</teamId>
+  <teamName>Team Baobab</teamName>
+  <owner>Baobab</owner>
+  <founded>2016-08-02T12:51:41+02:00</founded>
+  <youthFounded>2023-08-26T00:30:40+02:00</youthFounded>
+  <arenaId>52492</arenaId>
+  <arenaName>Baobab Stadium</arenaName>
+  <leagueId>113</leagueId>
+  <youthLeagueId>142</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>177</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

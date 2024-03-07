@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92507</teamId>
+  <teamName>Skånes Hörna</teamName>
+  <owner>Rashio</owner>
+  <founded>2022-01-16T17:38:59+01:00</founded>
+  <youthFounded>2022-01-17T00:30:25+01:00</youthFounded>
+  <arenaId>57360</arenaId>
+  <arenaName>Göingska Porten</arenaName>
+  <leagueId>575</leagueId>
+  <youthLeagueId>182</youthLeagueId>
+  <nationId>3</nationId>
+  <regionId>68</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92418</teamId>
+  <teamName>Gil Vicente</teamName>
+  <owner>Lela</owner>
+  <founded>2021-12-04T10:50:44+01:00</founded>
+  <youthFounded>2021-12-07T00:30:27+01:00</youthFounded>
+  <arenaId>57308</arenaId>
+  <arenaName>Margarida</arenaName>
+  <leagueId>116</leagueId>
+  <youthLeagueId>164</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>194</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>90884</teamId>
+  <teamName>Atlético do Interior Profundo</teamName>
+  <owner>Jota Eme</owner>
+  <founded>2020-06-22T15:31:50+02:00</founded>
+  <youthFounded>2020-06-22T16:10:53+02:00</youthFounded>
+  <arenaId>56292</arenaId>
+  <arenaName>A Montanha</arenaName>
+  <leagueId>75</leagueId>
+  <youthLeagueId>164</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>195</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

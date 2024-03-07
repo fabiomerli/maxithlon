@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92755</teamId>
+  <teamName>Pirates of Cyprus</teamName>
+  <owner>PirateofCyprus</owner>
+  <founded>2022-03-28T18:10:07+02:00</founded>
+  <youthFounded>2022-04-01T00:30:26+02:00</youthFounded>
+  <arenaId>57519</arenaId>
+  <arenaName>Captain Jack</arenaName>
+  <leagueId>566</leagueId>
+  <youthLeagueId>176</youthLeagueId>
+  <nationId>37</nationId>
+  <regionId>385</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

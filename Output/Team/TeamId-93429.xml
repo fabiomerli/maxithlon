@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93429</teamId>
+  <teamName>UNION SPORTIVE BERBERACOISE</teamName>
+  <owner>Maclicius</owner>
+  <founded>2023-02-21T18:29:24+01:00</founded>
+  <youthFounded>2023-02-22T00:30:32+01:00</youthFounded>
+  <arenaId>57932</arenaId>
+  <arenaName>La fosse à cailloux</arenaName>
+  <leagueId>111</leagueId>
+  <youthLeagueId>214</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>551</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

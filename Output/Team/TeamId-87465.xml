@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>87465</teamId>
+  <teamName>Tronget Sport</teamName>
+  <owner>El Ded</owner>
+  <founded>2017-11-25T19:55:23+01:00</founded>
+  <youthFounded>2017-11-30T17:48:44+01:00</youthFounded>
+  <arenaId>54113</arenaId>
+  <arenaName>Les Chauds Bisons</arenaName>
+  <leagueId>74</leagueId>
+  <youthLeagueId>142</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>549</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>
