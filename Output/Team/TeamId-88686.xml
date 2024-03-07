@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>88686</teamId>
+  <teamName>Auto Esporte Clube</teamName>
+  <owner>yurimatias</owner>
+  <founded>2018-09-10T04:24:26+02:00</founded>
+  <youthFounded>2018-09-10T04:58:04+02:00</youthFounded>
+  <arenaId>54941</arenaId>
+  <arenaName>Mangabeirão</arenaName>
+  <leagueId>565</leagueId>
+  <youthLeagueId>162</youthLeagueId>
+  <nationId>17</nationId>
+  <regionId>222</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

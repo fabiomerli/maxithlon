@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92267</teamId>
+  <teamName>Egara Gold</teamName>
+  <owner>Black Night</owner>
+  <founded>2021-09-06T21:51:14+02:00</founded>
+  <youthFounded>2021-09-14T00:30:27+02:00</youthFounded>
+  <arenaId>57196</arenaId>
+  <arenaName>Can Jofresa Arena</arenaName>
+  <leagueId>47</leagueId>
+  <youthLeagueId>130</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>109</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>
