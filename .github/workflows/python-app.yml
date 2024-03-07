@@ -36,6 +36,8 @@ jobs:
           --appendonly yes
         volumes:
           - ./redis-volume:/data
+        env:
+          REDIS_ARGS : "--save 10 0 --appendonly yes"
 
     steps:
     - uses: actions/checkout@v3
