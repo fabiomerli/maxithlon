@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>82832</teamId>
+  <teamName>MKS Polonia Przemyśl</teamName>
+  <owner>cordoba</owner>
+  <founded>2015-08-23T15:51:45+02:00</founded>
+  <youthFounded>2017-11-19T10:01:50+01:00</youthFounded>
+  <arenaId>51273</arenaId>
+  <arenaName>Polonia Maxithlon</arenaName>
+  <leagueId>179</leagueId>
+  <youthLeagueId>146</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>269</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

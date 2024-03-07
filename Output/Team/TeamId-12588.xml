@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>12588</teamId>
+  <teamName>LZS Ciepielowice</teamName>
+  <owner>krzyscis1</owner>
+  <founded>2008-04-10T14:20:44+02:00</founded>
+  <youthFounded>2017-11-13T15:36:19+01:00</youthFounded>
+  <arenaId>8562</arenaId>
+  <arenaName>Ciepielowice Arena</arenaName>
+  <leagueId>179</leagueId>
+  <youthLeagueId>146</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>268</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>64921</teamId>
+  <teamName>Réunion Island Competition</teamName>
+  <owner>alouest</owner>
+  <founded>2012-07-25T23:49:43+02:00</founded>
+  <youthFounded>2017-11-19T15:10:38+01:00</youthFounded>
+  <arenaId>41676</arenaId>
+  <arenaName>stade de l ile de la Réunion</arenaName>
+  <leagueId>74</leagueId>
+  <youthLeagueId>141</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>180</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

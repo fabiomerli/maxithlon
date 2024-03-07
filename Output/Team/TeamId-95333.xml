@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>95333</teamId>
+  <teamName>Bobrzanie Bolesławiec</teamName>
+  <owner>Osiris</owner>
+  <founded>2024-02-05T23:43:31+01:00</founded>
+  <youthFounded>2024-02-08T00:30:02+01:00</youthFounded>
+  <arenaId>58324</arenaId>
+  <arenaName>Bobrza Tama</arenaName>
+  <leagueId>194</leagueId>
+  <youthLeagueId>148</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>261</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

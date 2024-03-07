@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>80611</teamId>
+  <teamName>Diagramas</teamName>
+  <owner>Didaka</owner>
+  <founded>2015-01-06T12:49:06+01:00</founded>
+  <youthFounded>2024-01-07T00:30:23+01:00</youthFounded>
+  <arenaId>50032</arenaId>
+  <arenaName>Richard Feynmann</arenaName>
+  <leagueId>88</leagueId>
+  <youthLeagueId>137</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>111</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

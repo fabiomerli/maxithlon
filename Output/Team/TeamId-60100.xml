@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>60100</teamId>
+  <teamName>impossible is nothing</teamName>
+  <owner>ricardo</owner>
+  <founded>2011-12-09T22:42:34+01:00</founded>
+  <youthFounded>2017-11-12T16:19:12+01:00</youthFounded>
+  <arenaId>38932</arenaId>
+  <arenaName>Salto del Caballo</arenaName>
+  <leagueId>82</leagueId>
+  <youthLeagueId>131</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>108</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

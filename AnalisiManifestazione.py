@@ -91,23 +91,32 @@ def checkIfisContEu():
     return type == "9"
 
 ### Questo metodo verifica se la manifestazione è un campionato nazionale italiano
-def checkIfisITANatInd():
+def checkIfisITorSpaANatInd():
     rootXml = ET.parse(FOLDER_NAME + COMPETITION_ID+'.xml').getroot()
     type = rootXml.find('./type').text
     nationId = rootXml.find('./nationId').text
-    return type == "8" and nationId == "1"
+    return type == "8" and (nationId == "1" or  nationId == "7")
+
+def checkIfisITANatPolonia():
+    rootXml = ET.parse(FOLDER_NAME + COMPETITION_ID+'.xml').getroot()
+    type = rootXml.find('./type').text
+    nationId = rootXml.find('./nationId').text
+    return type == "8" and nationId == "23" 
     
 def calcolaPunteggio():
-    isCalcolaPriceIndITA = checkIfisITANatInd()
+    isCalcolaPriceIndITAOrSpain = checkIfisITorSpaANatInd()
+    isCalcolaPriceIndPol = checkIfisITANatPolonia()
     isCalcolaPriceMondiali = checkIfisMondiali()
     isCalcolaPriceContEu = checkIfisContEu()
     
-    if isCalcolaPriceIndITA:
+    if isCalcolaPriceIndITAOrSpain:
         PREMIO_MAPPA = doLoadPremiIndividualiNazItalia()
     elif isCalcolaPriceMondiali:
         PREMIO_MAPPA = doLoadMondiali();
     elif isCalcolaPriceContEu:
         PREMIO_MAPPA = doLoadPremiContEu();
+    elif isCalcolaPriceIndPol:
+        PREMIO_MAPPA = doLoadPremiPolonia();
     
     for teamId in TEAM_MAP:
         teamFilePath = TEAM_FOLDER + 'TeamId-' + teamId + '.xml'
@@ -130,7 +139,7 @@ def calcolaPunteggio():
         for (position,score) in TEAM_MAP.get(teamId):
             if position in PUNTEGGIO_MAPPA.keys():
                 punteggioTeam = punteggioTeam + PUNTEGGIO_MAPPA.get(position)
-            if (isCalcolaPriceIndITA or isCalcolaPriceMondiali or isCalcolaPriceContEu) and position in PREMIO_MAPPA.keys():
+            if (isCalcolaPriceIndITAOrSpain or isCalcolaPriceMondiali or isCalcolaPriceContEu or isCalcolaPriceIndPol) and position in PREMIO_MAPPA.keys():
                 premioTeam = premioTeam + PREMIO_MAPPA.get(position)
             scoreTeam = scoreTeam +  score
 

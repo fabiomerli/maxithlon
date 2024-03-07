@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>52558</teamId>
+  <teamName>LKS Kaliska</teamName>
+  <owner>leston</owner>
+  <founded>2011-01-27T12:43:57+01:00</founded>
+  <youthFounded>2017-11-15T17:51:01+01:00</youthFounded>
+  <arenaId>34051</arenaId>
+  <arenaName>Kaliska Arena</arenaName>
+  <leagueId>193</leagueId>
+  <youthLeagueId>147</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>262</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

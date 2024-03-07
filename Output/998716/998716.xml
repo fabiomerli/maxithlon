@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <name>Indywidualne Mistrzostwa Polska</name>
+  <type>8</type>
+  <season>94</season>
+  <date>2024-02-21T12:00:00+01:00</date>
+  <arenaId>51586</arenaId>
+  <nationId>23</nationId>
+  <regionId>272</regionId>
+  <standings>0</standings>
+  <attendance>25118</attendance>
+  <meteo>5</meteo>
+  <status>3</status>
+  <event id="40576328"/>
+  <event id="40576329"/>
+  <event id="40576330"/>
+  <event id="40576331"/>
+  <event id="40576332"/>
+  <event id="40576333"/>
+  <event id="40576334"/>
+  <event id="40576335"/>
+  <event id="40576336"/>
+  <event id="40576337"/>
+  <event id="40576338"/>
+  <event id="40576339"/>
+  <event id="40576340"/>
+  <event id="40576341"/>
+  <event id="40576342"/>
+  <event id="40576343"/>
+  <event id="40576344"/>
+  <event id="40576345"/>
+  <event id="40576346"/>
+  <event id="40576347"/>
+  <event id="40576348"/>
+  <event id="40576349"/>
+  <event id="40576350"/>
+  <event id="40576351"/>
+  <event id="40576352"/>
+  <event id="40576353"/>
+  <event id="40576354"/>
+  <event id="40576355"/>
+  <event id="40576356"/>
+  <event id="40576357"/>
+  <event id="40576358"/>
+  <event id="40576359"/>
+  <event id="40576360"/>
+  <event id="40576361"/>
+  <event id="40576362"/>
+  <event id="40576363"/>
+  <event id="40576364"/>
+  <event id="40576365"/>
+  <event id="40576366"/>
+  <event id="40576367"/>
+  <event id="40576368"/>
+  <event id="40576369"/>
+  <event id="40576370"/>
+  <event id="40576371"/>
+  <event id="40576372"/>
+  <event id="40576373"/>
+  <event id="40576374"/>
+  <event id="40576375"/>
+  <event id="40576376"/>
+  <event id="40576377"/>
+  <event id="40576378"/>
+  <event id="40576379"/>
+  <event id="40576380"/>
+  <event id="40576381"/>
+  <event id="40576382"/>
+  <event id="40576383"/>
+  <event id="40576384"/>
+  <event id="40576385"/>
+  <event id="40576386"/>
+  <event id="40576387"/>
+  <event id="40576388"/>
+  <event id="40576389"/>
+  <event id="40576390"/>
+  <event id="40576391"/>
+  <event id="40576392"/>
+  <event id="40576393"/>
+  <event id="40576394"/>
+  <event id="40576395"/>
+  <event id="40576396"/>
+  <event id="40576397"/>
+  <event id="40576398"/>
+  <event id="40576399"/>
+  <event id="40576400"/>
+  <event id="40576401"/>
+  <event id="40576402"/>
+  <event id="40576403"/>
+  <event id="40576404"/>
+  <event id="40576405"/>
+  <event id="40576406"/>
+</maxi-xml>

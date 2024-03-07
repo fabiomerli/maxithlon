@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>62712</teamId>
+  <teamName>Olympus</teamName>
+  <owner>galinardo</owner>
+  <founded>2012-04-21T13:21:34+02:00</founded>
+  <youthFounded>2018-06-17T10:54:13+02:00</youthFounded>
+  <arenaId>40426</arenaId>
+  <arenaName>Citania</arenaName>
+  <leagueId>47</leagueId>
+  <youthLeagueId>132</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>113</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>
