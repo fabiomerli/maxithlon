@@ -224,9 +224,9 @@ def main():
     print('Response login: ' + str(responseLogin.status_code))
     print('Response login: ' + str(responseLogin.content))
 
-    responseMarket = session.get("https://www.maxithlon.com/maxi-xml/market.php");
-    print('Response login: ' + str(responseMarket.status_code))
-    print('Response login: ' + str(responseMarket.content))
+    #responseMarket = session.get("https://www.maxithlon.com/maxi-xml/market.php");
+    #print('Response login: ' + str(responseMarket.status_code))
+    #print('Response login: ' + str(responseMarket.content))
 
     global ID_EVENTI_MAPPA
     global PUNTEGGIO_MAPPA
