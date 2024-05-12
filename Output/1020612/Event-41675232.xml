@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <id>41675232</id>
+  <typeId>90</typeId>
+  <sex>0</sex>
+  <date>2024-05-05T15:32:00+02:00</date>
+  <status>3</status>
+  <heat index="1">
+    <relay index="1">
+      <id>11138</id>
+      <teamId>9875</teamId>
+      <performance>220.29</performance>
+      <placing>3</placing>
+      <score>921</score>
+    </relay>
+    <relay index="2">
+      <id>12016</id>
+      <teamId>2437</teamId>
+      <performance>215.72</performance>
+      <placing>1</placing>
+      <score>970</score>
+    </relay>
+    <relay index="3">
+      <id>122173</id>
+      <teamId>76442</teamId>
+      <performance>255.30</performance>
+      <placing>8</placing>
+      <score>548</score>
+    </relay>
+    <relay index="4">
+      <id>150599</id>
+      <teamId>83803</teamId>
+      <performance>226.31</performance>
+      <placing>5</placing>
+      <score>857</score>
+    </relay>
+    <relay index="5">
+      <id>186478</id>
+      <teamId>91120</teamId>
+      <performance>240.71</performance>
+      <placing>7</placing>
+      <attitude>0</attitude>
+      <score>704</score>
+    </relay>
+    <relay index="6">
+      <id>198541</id>
+      <teamId>29922</teamId>
+      <performance>228.39</performance>
+      <placing>6</placing>
+      <score>835</score>
+    </relay>
+    <relay index="7">
+      <id>203019</id>
+      <teamId>81</teamId>
+      <performance>218.27</performance>
+      <placing>2</placing>
+      <score>943</score>
+    </relay>
+    <relay index="8">
+      <id>205322</id>
+      <teamId>978</teamId>
+      <performance>224.45</performance>
+      <placing>4</placing>
+      <score>877</score>
+    </relay>
+  </heat>
+</maxi-xml>

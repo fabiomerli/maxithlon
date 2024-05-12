@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <name>National League 1.1 Italia</name>
+  <type>15</type>
+  <season>95</season>
+  <date>2024-05-05T14:00:00+02:00</date>
+  <arenaId>8329</arenaId>
+  <nationId>1</nationId>
+  <regionId>8</regionId>
+  <standings>2</standings>
+  <attendance>26901</attendance>
+  <meteo>2</meteo>
+  <status>3</status>
+  <event id="41675107"/>
+  <event id="41675108"/>
+  <event id="41675109"/>
+  <event id="41675110"/>
+  <event id="41675111"/>
+  <event id="41675112"/>
+  <event id="41675113"/>
+  <event id="41675114"/>
+  <event id="41675115"/>
+  <event id="41675116"/>
+  <event id="41675117"/>
+  <event id="41675118"/>
+  <event id="41675119"/>
+  <event id="41675120"/>
+  <event id="41675121"/>
+  <event id="41675122"/>
+  <event id="41675123"/>
+  <event id="41675124"/>
+  <event id="41675125"/>
+  <event id="41675126"/>
+  <event id="41675127"/>
+  <event id="41675128"/>
+  <event id="41675129"/>
+  <event id="41675130"/>
+  <event id="41675131"/>
+  <event id="41675132"/>
+  <event id="41675133"/>
+  <event id="41675134"/>
+  <event id="41675135"/>
+  <event id="41675136"/>
+  <event id="41675137"/>
+  <event id="41675138"/>
+  <event id="41675139"/>
+  <event id="41675140"/>
+  <event id="41675141"/>
+  <event id="41675142"/>
+  <event id="41675143"/>
+  <event id="41675144"/>
+  <event id="41675145"/>
+  <event id="41675146"/>
+  <event id="41675147"/>
+  <event id="41675148"/>
+  <event id="41675149"/>
+  <event id="41675150"/>
+  <event id="41675151"/>
+  <event id="41675152"/>
+  <event id="41675153"/>
+  <event id="41675154"/>
+  <event id="41675155"/>
+  <event id="41675156"/>
+  <event id="41675157"/>
+  <event id="41675158"/>
+  <event id="41675159"/>
+  <event id="41675160"/>
+  <event id="41675161"/>
+  <event id="41675162"/>
+  <event id="41675163"/>
+  <event id="41675164"/>
+  <event id="41675165"/>
+  <event id="41675166"/>
+  <event id="41675167"/>
+  <event id="41675168"/>
+  <event id="41675169"/>
+  <event id="41675170"/>
+  <event id="41675171"/>
+  <event id="41675172"/>
+  <event id="41675173"/>
+  <event id="41675174"/>
+  <event id="41675175"/>
+  <event id="41675176"/>
+  <event id="41675177"/>
+  <event id="41675178"/>
+  <event id="41675179"/>
+  <event id="41675180"/>
+  <event id="41675181"/>
+  <event id="41675182"/>
+  <event id="41675183"/>
+  <event id="41675184"/>
+  <event id="41675185"/>
+</maxi-xml>
