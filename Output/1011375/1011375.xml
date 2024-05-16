@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <name>Olympic Games</name>
+  <type>16</type>
+  <season>95</season>
+  <date>2024-05-15T14:00:00+02:00</date>
+  <arenaId>40982</arenaId>
+  <nationId>5</nationId>
+  <regionId>53</regionId>
+  <standings>0</standings>
+  <attendance>75000</attendance>
+  <meteo>2</meteo>
+  <status>3</status>
+  <event id="41234584"/>
+  <event id="41234585"/>
+  <event id="41234586"/>
+  <event id="41234587"/>
+  <event id="41234588"/>
+  <event id="41234589"/>
+  <event id="41234590"/>
+  <event id="41234591"/>
+  <event id="41234592"/>
+  <event id="41234593"/>
+  <event id="41234594"/>
+  <event id="41234595"/>
+  <event id="41234596"/>
+  <event id="41234597"/>
+  <event id="41234598"/>
+  <event id="41234599"/>
+  <event id="41234600"/>
+  <event id="41234601"/>
+  <event id="41234602"/>
+  <event id="41234603"/>
+  <event id="41234604"/>
+  <event id="41234605"/>
+  <event id="41234606"/>
+  <event id="41234607"/>
+  <event id="41234608"/>
+  <event id="41234609"/>
+  <event id="41234610"/>
+  <event id="41234611"/>
+  <event id="41234612"/>
+  <event id="41234613"/>
+  <event id="41234614"/>
+  <event id="41234615"/>
+  <event id="41234616"/>
+  <event id="41234617"/>
+  <event id="41234618"/>
+  <event id="41234619"/>
+  <event id="41234620"/>
+  <event id="41234621"/>
+  <event id="41234622"/>
+  <event id="41234623"/>
+  <event id="41234624"/>
+  <event id="41234625"/>
+  <event id="41234626"/>
+  <event id="41234627"/>
+  <event id="41234628"/>
+  <event id="41234629"/>
+  <event id="41234630"/>
+  <event id="41234631"/>
+  <event id="41234632"/>
+  <event id="41234633"/>
+  <event id="41234634"/>
+  <event id="41234635"/>
+  <event id="41234636"/>
+  <event id="41234637"/>
+  <event id="41234638"/>
+  <event id="41234639"/>
+  <event id="41234640"/>
+  <event id="41234641"/>
+  <event id="41234642"/>
+  <event id="41234643"/>
+  <event id="41234644"/>
+  <event id="41234645"/>
+  <event id="41234646"/>
+  <event id="41234647"/>
+  <event id="41234648"/>
+  <event id="41234649"/>
+  <event id="41234650"/>
+  <event id="41234651"/>
+  <event id="41234652"/>
+  <event id="41234653"/>
+  <event id="41234654"/>
+  <event id="41234655"/>
+  <event id="41234656"/>
+  <event id="41234657"/>
+  <event id="41234658"/>
+  <event id="41234659"/>
+  <event id="41234660"/>
+  <event id="41234661"/>
+  <event id="41234662"/>
+</maxi-xml>
