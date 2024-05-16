@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>88803</teamId>
+  <teamName>TJ Sokol Sviadnov</teamName>
+  <owner>pavlomat</owner>
+  <founded>2018-10-12T10:18:43+02:00</founded>
+  <youthFounded>2018-10-12T15:50:20+02:00</youthFounded>
+  <arenaId>55000</arenaId>
+  <arenaName>Sokol stadion</arenaName>
+  <leagueId>320</leagueId>
+  <youthLeagueId>184</youthLeagueId>
+  <nationId>38</nationId>
+  <regionId>392</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

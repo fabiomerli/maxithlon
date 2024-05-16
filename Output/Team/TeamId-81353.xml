@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>81353</teamId>
+  <teamName>MarathonWorld Team</teamName>
+  <owner>mwteam</owner>
+  <founded>2015-03-13T09:23:31+01:00</founded>
+  <youthFounded>2017-12-31T13:56:57+01:00</youthFounded>
+  <arenaId>50511</arenaId>
+  <arenaName>GrifoArena</arenaName>
+  <leagueId>4</leagueId>
+  <youthLeagueId>119</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>13</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

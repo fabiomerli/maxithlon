@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>46388</teamId>
+  <teamName>rdlteam</teamName>
+  <owner>rdl</owner>
+  <founded>2010-08-03T18:48:46+02:00</founded>
+  <youthFounded>2018-07-23T12:26:05+02:00</youthFounded>
+  <arenaId>30274</arenaId>
+  <arenaName>marcello fiasconaro civitavecchia</arenaName>
+  <leagueId>8</leagueId>
+  <youthLeagueId>120</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>17</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

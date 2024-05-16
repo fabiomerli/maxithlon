@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>79325</teamId>
+  <teamName>AK Bivolje Krusevac</teamName>
+  <owner>MarkoKS</owner>
+  <founded>2014-08-11T12:20:10+02:00</founded>
+  <youthFounded>2017-11-14T20:13:57+01:00</youthFounded>
+  <arenaId>49246</arenaId>
+  <arenaName>Bivolje Arena</arenaName>
+  <leagueId>572</leagueId>
+  <youthLeagueId>190</youthLeagueId>
+  <nationId>28</nationId>
+  <regionId>319</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>89196</teamId>
+  <teamName>Líšeňský AK 2019</teamName>
+  <owner>PaalFadersen</owner>
+  <founded>2019-02-25T08:16:38+01:00</founded>
+  <youthFounded>2019-02-25T08:42:16+01:00</youthFounded>
+  <arenaId>55244</arenaId>
+  <arenaName>Na Říčkách</arenaName>
+  <leagueId>316</leagueId>
+  <youthLeagueId>184</youthLeagueId>
+  <nationId>38</nationId>
+  <regionId>389</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>
