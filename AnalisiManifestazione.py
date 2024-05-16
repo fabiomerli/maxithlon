@@ -83,7 +83,7 @@ def loadTeam(teamId, teamFilePath):
 def checkIfisMondiali():
     rootXml = ET.parse(FOLDER_NAME + COMPETITION_ID+'.xml').getroot()
     type = rootXml.find('./type').text
-    return type == "10"
+    return type == "10" or type == 16
 
 def checkIfisContEu():
     rootXml = ET.parse(FOLDER_NAME + COMPETITION_ID+'.xml').getroot()
