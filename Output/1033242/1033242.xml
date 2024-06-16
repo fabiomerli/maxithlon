@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <name>National League 1.1 Italia</name>
+  <type>15</type>
+  <season>96</season>
+  <date>2024-06-09T14:00:00+02:00</date>
+  <arenaId>56449</arenaId>
+  <nationId>1</nationId>
+  <regionId>17</regionId>
+  <standings>2</standings>
+  <attendance>37884</attendance>
+  <meteo>5</meteo>
+  <status>3</status>
+  <event id="42332069"/>
+  <event id="42332070"/>
+  <event id="42332071"/>
+  <event id="42332072"/>
+  <event id="42332073"/>
+  <event id="42332074"/>
+  <event id="42332075"/>
+  <event id="42332076"/>
+  <event id="42332077"/>
+  <event id="42332078"/>
+  <event id="42332079"/>
+  <event id="42332080"/>
+  <event id="42332081"/>
+  <event id="42332082"/>
+  <event id="42332083"/>
+  <event id="42332084"/>
+  <event id="42332085"/>
+  <event id="42332086"/>
+  <event id="42332087"/>
+  <event id="42332088"/>
+  <event id="42332089"/>
+  <event id="42332090"/>
+  <event id="42332091"/>
+  <event id="42332092"/>
+  <event id="42332093"/>
+  <event id="42332094"/>
+  <event id="42332095"/>
+  <event id="42332096"/>
+  <event id="42332097"/>
+  <event id="42332098"/>
+  <event id="42332099"/>
+  <event id="42332100"/>
+  <event id="42332101"/>
+  <event id="42332102"/>
+  <event id="42332103"/>
+  <event id="42332104"/>
+  <event id="42332105"/>
+  <event id="42332106"/>
+  <event id="42332107"/>
+  <event id="42332108"/>
+  <event id="42332109"/>
+  <event id="42332110"/>
+  <event id="42332111"/>
+  <event id="42332112"/>
+  <event id="42332113"/>
+  <event id="42332114"/>
+  <event id="42332115"/>
+  <event id="42332116"/>
+  <event id="42332117"/>
+  <event id="42332118"/>
+  <event id="42332119"/>
+  <event id="42332120"/>
+  <event id="42332121"/>
+  <event id="42332122"/>
+  <event id="42332123"/>
+  <event id="42332124"/>
+  <event id="42332125"/>
+  <event id="42332126"/>
+  <event id="42332127"/>
+  <event id="42332128"/>
+  <event id="42332129"/>
+  <event id="42332130"/>
+  <event id="42332131"/>
+  <event id="42332132"/>
+  <event id="42332133"/>
+  <event id="42332134"/>
+  <event id="42332135"/>
+  <event id="42332136"/>
+  <event id="42332137"/>
+  <event id="42332138"/>
+  <event id="42332139"/>
+  <event id="42332140"/>
+  <event id="42332141"/>
+  <event id="42332142"/>
+  <event id="42332143"/>
+  <event id="42332144"/>
+  <event id="42332145"/>
+  <event id="42332146"/>
+  <event id="42332147"/>
+</maxi-xml>

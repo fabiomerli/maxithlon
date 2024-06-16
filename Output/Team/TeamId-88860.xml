@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>88860</teamId>
+  <teamName>Lomellina</teamName>
+  <owner>corvobianco</owner>
+  <founded>2018-10-27T21:02:58+02:00</founded>
+  <youthFounded>2021-01-30T22:40:41+01:00</youthFounded>
+  <arenaId>55040</arenaId>
+  <arenaName>Imperium</arenaName>
+  <leagueId>1</leagueId>
+  <youthLeagueId>116</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>
