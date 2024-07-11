@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>87853</teamId>
+  <teamName>Cops</teamName>
+  <owner>cops75</owner>
+  <founded>2018-01-23T16:24:59+01:00</founded>
+  <youthFounded>2023-06-27T00:30:35+02:00</youthFounded>
+  <arenaId>54351</arenaId>
+  <arenaName>EuroCops</arenaName>
+  <leagueId>14</leagueId>
+  <youthLeagueId>117</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>14</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>96791</teamId>
+  <teamName>Polska Love</teamName>
+  <owner>Blackdog</owner>
+  <founded>2024-05-06T10:04:39+02:00</founded>
+  <youthFounded>2024-05-15T00:30:01+02:00</youthFounded>
+  <arenaId>58424</arenaId>
+  <arenaName>Polska Arena</arenaName>
+  <leagueId>13</leagueId>
+  <youthLeagueId>123</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>16</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

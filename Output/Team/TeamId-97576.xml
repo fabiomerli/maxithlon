@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>97576</teamId>
+  <teamName>Polisportiva Monosportiva</teamName>
+  <owner>ValerioNeo77</owner>
+  <founded>2024-05-28T12:33:52+02:00</founded>
+  <youthFounded>2024-05-31T00:31:04+02:00</youthFounded>
+  <arenaId>58448</arenaId>
+  <arenaName>Stadio delle Palme</arenaName>
+  <leagueId>13</leagueId>
+  <youthLeagueId>123</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>5</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

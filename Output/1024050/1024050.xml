@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <name>Campionati Individuali Nazionali Italia</name>
+  <type>8</type>
+  <season>96</season>
+  <date>2024-07-10T18:00:00+02:00</date>
+  <arenaId>3604</arenaId>
+  <nationId>1</nationId>
+  <regionId>3</regionId>
+  <standings>0</standings>
+  <attendance>26832</attendance>
+  <meteo>5</meteo>
+  <status>3</status>
+  <event id="41894816"/>
+  <event id="41894817"/>
+  <event id="41894818"/>
+  <event id="41894819"/>
+  <event id="41894820"/>
+  <event id="41894821"/>
+  <event id="41894822"/>
+  <event id="41894823"/>
+  <event id="41894824"/>
+  <event id="41894825"/>
+  <event id="41894826"/>
+  <event id="41894827"/>
+  <event id="41894828"/>
+  <event id="41894829"/>
+  <event id="41894830"/>
+  <event id="41894831"/>
+  <event id="41894832"/>
+  <event id="41894833"/>
+  <event id="41894834"/>
+  <event id="41894835"/>
+  <event id="41894836"/>
+  <event id="41894837"/>
+  <event id="41894838"/>
+  <event id="41894839"/>
+  <event id="41894840"/>
+  <event id="41894841"/>
+  <event id="41894842"/>
+  <event id="41894843"/>
+  <event id="41894844"/>
+  <event id="41894845"/>
+  <event id="41894846"/>
+  <event id="41894847"/>
+  <event id="41894848"/>
+  <event id="41894849"/>
+  <event id="41894850"/>
+  <event id="41894851"/>
+  <event id="41894852"/>
+  <event id="41894853"/>
+  <event id="41894854"/>
+  <event id="41894855"/>
+  <event id="41894856"/>
+  <event id="41894857"/>
+  <event id="41894858"/>
+  <event id="41894859"/>
+  <event id="41894860"/>
+  <event id="41894861"/>
+  <event id="41894862"/>
+  <event id="41894863"/>
+  <event id="41894864"/>
+  <event id="41894865"/>
+  <event id="41894866"/>
+  <event id="41894867"/>
+  <event id="41894868"/>
+  <event id="41894869"/>
+  <event id="41894870"/>
+  <event id="41894871"/>
+  <event id="41894872"/>
+  <event id="41894873"/>
+  <event id="41894874"/>
+  <event id="41894875"/>
+  <event id="41894876"/>
+  <event id="41894877"/>
+  <event id="41894878"/>
+  <event id="41894879"/>
+  <event id="41894880"/>
+  <event id="41894881"/>
+  <event id="41894882"/>
+  <event id="41894883"/>
+  <event id="41894884"/>
+  <event id="41894885"/>
+  <event id="41894886"/>
+  <event id="41894887"/>
+  <event id="41894888"/>
+  <event id="41894889"/>
+  <event id="41894890"/>
+  <event id="41894891"/>
+  <event id="41894892"/>
+  <event id="41894893"/>
+  <event id="41894894"/>
+</maxi-xml>
