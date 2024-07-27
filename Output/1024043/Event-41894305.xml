@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <id>41894305</id>
+  <typeId>19</typeId>
+  <sex>0</sex>
+  <date>2024-07-24T17:24:00+02:00</date>
+  <status>3</status>
+  <heat index="1">
+    <athlete index="1">
+      <id>4854321</id>
+      <teamId>20858</teamId>
+      <performance>703.59</performance>
+      <placing>11</placing>
+      <score>1143</score>
+    </athlete>
+    <athlete index="2">
+      <id>5040927</id>
+      <teamId>89396</teamId>
+      <performance>696.91</performance>
+      <placing>7</placing>
+      <score>1163</score>
+    </athlete>
+    <athlete index="3">
+      <id>5051149</id>
+      <teamId>83466</teamId>
+      <performance>680.80</performance>
+      <placing>2</placing>
+      <score>1212</score>
+    </athlete>
+    <athlete index="4">
+      <id>5061531</id>
+      <teamId>29922</teamId>
+      <performance>705.12</performance>
+      <placing>12</placing>
+      <score>1139</score>
+    </athlete>
+    <athlete index="5">
+      <id>5083811</id>
+      <teamId>81</teamId>
+      <performance>678.43</performance>
+      <placing>1</placing>
+      <score>1219</score>
+    </athlete>
+    <athlete index="6">
+      <id>5162126</id>
+      <teamId>83542</teamId>
+      <performance>719.62</performance>
+      <placing>18</placing>
+      <score>1095</score>
+    </athlete>
+    <athlete index="7">
+      <id>5181146</id>
+      <teamId>41502</teamId>
+      <performance>717.67</performance>
+      <placing>17</placing>
+      <score>1101</score>
+    </athlete>
+    <athlete index="8">
+      <id>5189094</id>
+      <teamId>91120</teamId>
+      <performance>731.15</performance>
+      <placing>19</placing>
+      <attitude>1</attitude>
+      <score>1060</score>
+    </athlete>
+    <athlete index="9">
+      <id>5207758</id>
+      <teamId>68726</teamId>
+      <performance>702.79</performance>
+      <placing>10</placing>
+      <score>1146</score>
+    </athlete>
+    <athlete index="10">
+      <id>5008696</id>
+      <teamId>25870</teamId>
+      <performance>707.58</performance>
+      <placing>14</placing>
+      <score>1131</score>
+    </athlete>
+    <athlete index="11">
+      <id>5003194</id>
+      <teamId>34989</teamId>
+      <performance>714.32</performance>
+      <placing>15</placing>
+      <score>1111</score>
+    </athlete>
+    <athlete index="12">
+      <id>4886587</id>
+      <teamId>49572</teamId>
+      <performance>697.27</performance>
+      <placing>8</placing>
+      <score>1162</score>
+    </athlete>
+    <athlete index="13">
+      <id>4893747</id>
+      <teamId>83164</teamId>
+      <performance>695.06</performance>
+      <placing>6</placing>
+      <score>1169</score>
+    </athlete>
+    <athlete index="14">
+      <id>4924669</id>
+      <teamId>43731</teamId>
+      <performance>686.10</performance>
+      <placing>3</placing>
+      <score>1196</score>
+    </athlete>
+    <athlete index="15">
+      <id>4928810</id>
+      <teamId>38712</teamId>
+      <performance>740.45</performance>
+      <placing>20</placing>
+      <score>1032</score>
+    </athlete>
+    <athlete index="16">
+      <id>4932444</id>
+      <teamId>7408</teamId>
+      <performance>700.85</performance>
+      <placing>9</placing>
+      <score>1151</score>
+    </athlete>
+    <athlete index="17">
+      <id>4932461</id>
+      <teamId>84156</teamId>
+      <performance>707.07</performance>
+      <placing>13</placing>
+      <score>1133</score>
+    </athlete>
+    <athlete index="18">
+      <id>4932686</id>
+      <teamId>980</teamId>
+      <performance>691.28</performance>
+      <placing>5</placing>
+      <score>1180</score>
+    </athlete>
+    <athlete index="19">
+      <id>4993626</id>
+      <teamId>92216</teamId>
+      <performance>686.70</performance>
+      <placing>4</placing>
+      <score>1194</score>
+    </athlete>
+    <athlete index="20">
+      <id>5216756</id>
+      <teamId>90402</teamId>
+      <performance>715.92</performance>
+      <placing>16</placing>
+      <score>1106</score>
+    </athlete>
+  </heat>
+</maxi-xml>
