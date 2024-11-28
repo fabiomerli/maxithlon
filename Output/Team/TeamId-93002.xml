@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93002</teamId>
+  <teamName>AC Sklotatran Poltár</teamName>
+  <owner>jancikk</owner>
+  <founded>2022-07-22T16:43:17+02:00</founded>
+  <youthFounded>2024-11-26T00:30:05+01:00</youthFounded>
+  <arenaId>57668</arenaId>
+  <arenaName>Aréna v parku</arenaName>
+  <leagueId>581</leagueId>
+  <youthLeagueId>209</youthLeagueId>
+  <nationId>22</nationId>
+  <regionId>258</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

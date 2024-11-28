@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>99863</teamId>
+  <teamName>Atletica Vulture</teamName>
+  <owner>crislaurini</owner>
+  <founded>2024-09-12T16:50:17+02:00</founded>
+  <youthFounded>2024-09-13T00:30:04+02:00</youthFounded>
+  <arenaId>58560</arenaId>
+  <arenaName>Arena Melfi</arenaName>
+  <leagueId>12</leagueId>
+  <youthLeagueId>125</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>6</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

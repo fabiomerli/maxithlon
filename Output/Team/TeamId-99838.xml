@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>99838</teamId>
+  <teamName>Falcon House</teamName>
+  <owner>Bonnevoie</owner>
+  <founded>2024-09-11T22:43:36+02:00</founded>
+  <youthFounded>2024-09-14T00:30:02+02:00</youthFounded>
+  <arenaId>58554</arenaId>
+  <arenaName>Whitchurch Airport</arenaName>
+  <leagueId>575</leagueId>
+  <youthLeagueId>174</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>154</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>98965</teamId>
+  <teamName>Uks Gdańsk</teamName>
+  <owner>Omoto</owner>
+  <founded>2024-08-08T09:32:42+02:00</founded>
+  <youthFounded>2024-08-16T00:30:04+02:00</youthFounded>
+  <arenaId>58470</arenaId>
+  <arenaName>Miejski Stadion</arenaName>
+  <leagueId>193</leagueId>
+  <youthLeagueId>148</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>271</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

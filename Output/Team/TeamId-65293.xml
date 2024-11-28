@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>65293</teamId>
+  <teamName>S.A. Vicenza</teamName>
+  <owner>CARLETTO</owner>
+  <founded>2012-08-03T17:33:29+02:00</founded>
+  <youthFounded>2024-07-30T00:30:06+02:00</youthFounded>
+  <arenaId>41894</arenaId>
+  <arenaName>Montebello</arenaName>
+  <leagueId>10</leagueId>
+  <youthLeagueId>120</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>8</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>98980</teamId>
+  <teamName>Gatti Neri</teamName>
+  <owner>Zorba88</owner>
+  <founded>2024-08-08T09:28:34+02:00</founded>
+  <youthFounded>2024-08-14T00:30:02+02:00</youthFounded>
+  <arenaId>58466</arenaId>
+  <arenaName>Zorbas Stadium</arenaName>
+  <leagueId>13</leagueId>
+  <youthLeagueId>123</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>5</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

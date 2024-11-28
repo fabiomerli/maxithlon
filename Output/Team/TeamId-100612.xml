@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>100612</teamId>
+  <teamName>Plato Stars</teamName>
+  <owner>Stamos78</owner>
+  <founded>2024-09-28T09:54:01+02:00</founded>
+  <youthFounded>2024-09-29T00:31:02+02:00</youthFounded>
+  <arenaId>58590</arenaId>
+  <arenaName>Academia Venue</arenaName>
+  <leagueId>165</leagueId>
+  <youthLeagueId>178</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>237</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

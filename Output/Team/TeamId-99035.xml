@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>99035</teamId>
+  <teamName>Żaki Szczecin</teamName>
+  <owner>Sofia2024</owner>
+  <founded>2024-08-08T10:08:29+02:00</founded>
+  <youthFounded>2024-08-10T00:30:04+02:00</youthFounded>
+  <arenaId>58478</arenaId>
+  <arenaName>Żaki Arena</arenaName>
+  <leagueId>194</leagueId>
+  <youthLeagueId>212</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>276</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

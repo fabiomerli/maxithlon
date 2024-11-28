@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>99859</teamId>
+  <teamName>Phantasia A.C.</teamName>
+  <owner>Arphalan</owner>
+  <founded>2024-09-12T11:31:01+02:00</founded>
+  <youthFounded>2024-09-13T00:30:04+02:00</youthFounded>
+  <arenaId>58557</arenaId>
+  <arenaName>Odaeon</arenaName>
+  <leagueId>15</leagueId>
+  <youthLeagueId>124</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>17</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

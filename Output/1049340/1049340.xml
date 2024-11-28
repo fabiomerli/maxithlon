@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <name>Campionati Individuali Nazionali Italia</name>
+  <type>8</type>
+  <season>98</season>
+  <date>2024-11-27T18:00:00+01:00</date>
+  <arenaId>47590</arenaId>
+  <nationId>1</nationId>
+  <regionId>12</regionId>
+  <standings>0</standings>
+  <attendance>27076</attendance>
+  <meteo>4</meteo>
+  <status>3</status>
+  <event id="43214478"/>
+  <event id="43214479"/>
+  <event id="43214480"/>
+  <event id="43214481"/>
+  <event id="43214482"/>
+  <event id="43214483"/>
+  <event id="43214484"/>
+  <event id="43214485"/>
+  <event id="43214486"/>
+  <event id="43214487"/>
+  <event id="43214488"/>
+  <event id="43214489"/>
+  <event id="43214490"/>
+  <event id="43214491"/>
+  <event id="43214492"/>
+  <event id="43214493"/>
+  <event id="43214494"/>
+  <event id="43214495"/>
+  <event id="43214496"/>
+  <event id="43214497"/>
+  <event id="43214498"/>
+  <event id="43214499"/>
+  <event id="43214500"/>
+  <event id="43214501"/>
+  <event id="43214502"/>
+  <event id="43214503"/>
+  <event id="43214504"/>
+  <event id="43214505"/>
+  <event id="43214506"/>
+  <event id="43214507"/>
+  <event id="43214508"/>
+  <event id="43214509"/>
+  <event id="43214510"/>
+  <event id="43214511"/>
+  <event id="43214512"/>
+  <event id="43214513"/>
+  <event id="43214514"/>
+  <event id="43214515"/>
+  <event id="43214516"/>
+  <event id="43214517"/>
+  <event id="43214518"/>
+  <event id="43214519"/>
+  <event id="43214520"/>
+  <event id="43214521"/>
+  <event id="43214522"/>
+  <event id="43214523"/>
+  <event id="43214524"/>
+  <event id="43214525"/>
+  <event id="43214526"/>
+  <event id="43214527"/>
+  <event id="43214528"/>
+  <event id="43214529"/>
+  <event id="43214530"/>
+  <event id="43214531"/>
+  <event id="43214532"/>
+  <event id="43214533"/>
+  <event id="43214534"/>
+  <event id="43214535"/>
+  <event id="43214536"/>
+  <event id="43214537"/>
+  <event id="43214538"/>
+  <event id="43214539"/>
+  <event id="43214540"/>
+  <event id="43214541"/>
+  <event id="43214542"/>
+  <event id="43214543"/>
+  <event id="43214544"/>
+  <event id="43214545"/>
+  <event id="43214546"/>
+  <event id="43214547"/>
+  <event id="43214548"/>
+  <event id="43214549"/>
+  <event id="43214550"/>
+  <event id="43214551"/>
+  <event id="43214552"/>
+  <event id="43214553"/>
+  <event id="43214554"/>
+  <event id="43214555"/>
+  <event id="43214556"/>
+</maxi-xml>

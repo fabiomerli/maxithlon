@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>81401</teamId>
+  <teamName>Red Eagles</teamName>
+  <owner>JorgeBez5</owner>
+  <founded>2015-02-28T12:47:36+01:00</founded>
+  <youthFounded>2024-02-19T00:30:02+01:00</youthFounded>
+  <arenaId>50422</arenaId>
+  <arenaName>Eagle's Nest</arenaName>
+  <leagueId>116</leagueId>
+  <youthLeagueId>162</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>194</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>
