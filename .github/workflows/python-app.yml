@@ -16,20 +16,46 @@ permissions:
   
 jobs:
   build:
-
+    
+    # Docker Hub image that `container-job` executes in
+    container: python:3.6.9-jessie
     runs-on: ubuntu-latest
+
+    # Service containers to run with `container-job`
+    services:
+      # Label used to access the service container
+      redis:
+        # Docker Hub image
+        image: redis
+        # Set health checks to wait until redis has started
+        options: >-
+          --health-cmd "redis-cli ping"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+        volumes:
+          - ./redis-volume:/data
+        env:
+          REDIS_ARGS : "--save 5 1 --appendonly yes"
 
     steps:
     - uses: actions/checkout@v3
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v3
-      with:
-        python-version: "3.10"
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install requests
+        pip install redis
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Connect to Redis
+        # Runs a script that creates a Redis client, populates
+        # the client with data, and retrieves data
+      run: python python-client-redis.py
+      # Environment variable used by the `client.js` script to create a new Redis client.
+      env:
+        # The hostname used to communicate with the Redis service container
+        REDIS_HOST: redis
+        # The default Redis port
+        REDIS_PORT: 6379
     - name: Run application 
       run: |
          echo $(ls)
