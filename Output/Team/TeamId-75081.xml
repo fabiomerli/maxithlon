@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>75081</teamId>
+  <teamName>Paraplanisi</teamName>
+  <owner>man1240</owner>
+  <founded>2013-08-24T06:04:20+02:00</founded>
+  <youthFounded>2017-11-13T11:33:08+01:00</youthFounded>
+  <arenaId>46898</arenaId>
+  <arenaName>Naos Paraplanisis</arenaName>
+  <leagueId>150</leagueId>
+  <youthLeagueId>176</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>239</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

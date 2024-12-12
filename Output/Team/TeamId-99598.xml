@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>99598</teamId>
+  <teamName>Atletica Centro Italia</teamName>
+  <owner>Gianluca_92</owner>
+  <founded>2024-08-25T16:44:45+02:00</founded>
+  <youthFounded>2024-09-06T00:30:05+02:00</youthFounded>
+  <arenaId>58537</arenaId>
+  <arenaName>Stadio Guidobaldi</arenaName>
+  <leagueId>12</leagueId>
+  <youthLeagueId>122</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>17</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

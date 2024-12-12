@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <id>43213964</id>
+  <typeId>72</typeId>
+  <sex>1</sex>
+  <date>2024-12-11T17:18:00+01:00</date>
+  <status>3</status>
+  <heat index="1">
+    <athlete index="1">
+      <id>4912733</id>
+      <teamId>20858</teamId>
+      <performance>15436.53</performance>
+      <placing>8</placing>
+      <score>1202</score>
+    </athlete>
+    <athlete index="2">
+      <id>5088429</id>
+      <teamId>83466</teamId>
+      <performance>15922.04</performance>
+      <placing>18</placing>
+      <score>1137</score>
+    </athlete>
+    <athlete index="3">
+      <id>5101730</id>
+      <teamId>34918</teamId>
+      <performance>14782.63</performance>
+      <placing>1</placing>
+      <score>1290</score>
+    </athlete>
+    <athlete index="4">
+      <id>5102504</id>
+      <teamId>81</teamId>
+      <performance>15627.57</performance>
+      <placing>12</placing>
+      <score>1177</score>
+    </athlete>
+    <athlete index="5">
+      <id>5157036</id>
+      <teamId>52507</teamId>
+      <performance>15912.46</performance>
+      <placing>17</placing>
+      <score>1139</score>
+    </athlete>
+    <athlete index="6">
+      <id>5212476</id>
+      <teamId>63341</teamId>
+      <performance>15240.27</performance>
+      <placing>3</placing>
+      <score>1229</score>
+    </athlete>
+    <athlete index="7">
+      <id>5244500</id>
+      <teamId>12408</teamId>
+      <performance>15269.84</performance>
+      <placing>4</placing>
+      <score>1225</score>
+    </athlete>
+    <athlete index="8">
+      <id>5249511</id>
+      <teamId>46651</teamId>
+      <performance>15308.68</performance>
+      <placing>5</placing>
+      <score>1220</score>
+    </athlete>
+    <athlete index="9">
+      <id>5269416</id>
+      <teamId>55799</teamId>
+      <performance>16016.25</performance>
+      <placing>19</placing>
+      <score>1125</score>
+    </athlete>
+    <athlete index="10">
+      <id>5087381</id>
+      <teamId>29922</teamId>
+      <performance>15900.93</performance>
+      <placing>16</placing>
+      <score>1140</score>
+    </athlete>
+    <athlete index="11">
+      <id>5082507</id>
+      <teamId>77470</teamId>
+      <performance>15547.36</performance>
+      <placing>10</placing>
+      <score>1188</score>
+    </athlete>
+    <athlete index="12">
+      <id>4936595</id>
+      <teamId>657</teamId>
+      <performance>15867.03</performance>
+      <placing>14</placing>
+      <score>1145</score>
+    </athlete>
+    <athlete index="13">
+      <id>4972797</id>
+      <teamId>2917</teamId>
+      <performance>15235.20</performance>
+      <placing>2</placing>
+      <score>1229</score>
+    </athlete>
+    <athlete index="14">
+      <id>4973957</id>
+      <teamId>64584</teamId>
+      <performance>15684.86</performance>
+      <placing>13</placing>
+      <score>1169</score>
+    </athlete>
+    <athlete index="15">
+      <id>4987235</id>
+      <teamId>14707</teamId>
+      <performance>15534.57</performance>
+      <placing>9</placing>
+      <score>1189</score>
+    </athlete>
+    <athlete index="16">
+      <id>4989122</id>
+      <teamId>38542</teamId>
+      <performance>15401.67</performance>
+      <placing>7</placing>
+      <score>1207</score>
+    </athlete>
+    <athlete index="17">
+      <id>5023389</id>
+      <teamId>10889</teamId>
+      <performance>15895.21</performance>
+      <placing>15</placing>
+      <score>1141</score>
+    </athlete>
+    <athlete index="18">
+      <id>5027386</id>
+      <teamId>25870</teamId>
+      <performance>15610.50</performance>
+      <placing>11</placing>
+      <score>1179</score>
+    </athlete>
+    <athlete index="19">
+      <id>5081732</id>
+      <teamId>29922</teamId>
+      <performance>15308.68</performance>
+      <placing>6</placing>
+      <score>1220</score>
+    </athlete>
+    <athlete index="20">
+      <id>4936333</id>
+      <teamId>100893</teamId>
+      <performance>0.00</performance>
+      <placing>0</placing>
+      <score>0</score>
+    </athlete>
+  </heat>
+</maxi-xml>

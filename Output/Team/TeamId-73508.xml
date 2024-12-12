@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>73508</teamId>
+  <teamName>Lk Bottrop 91</teamName>
+  <owner>Michael91</owner>
+  <founded>2013-06-23T19:55:33+02:00</founded>
+  <youthFounded>2017-11-16T22:46:27+01:00</youthFounded>
+  <arenaId>46029</arenaId>
+  <arenaName>Stadium of Liberty</arenaName>
+  <leagueId>66</leagueId>
+  <youthLeagueId>198</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>53</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>
