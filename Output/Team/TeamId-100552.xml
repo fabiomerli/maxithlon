@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>100552</teamId>
+  <teamName>Atletica Murcielago</teamName>
+  <owner>NarseteMorelli</owner>
+  <founded>2024-09-20T14:04:26+02:00</founded>
+  <youthFounded>2024-10-07T00:30:07+02:00</youthFounded>
+  <arenaId>58583</arenaId>
+  <arenaName>La Caverna</arenaName>
+  <leagueId>9</leagueId>
+  <youthLeagueId>123</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>16</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>100422</teamId>
+  <teamName>NovoCastelo Unidos</teamName>
+  <owner>AAssuncao</owner>
+  <founded>2024-09-18T14:44:18+02:00</founded>
+  <youthFounded>2024-09-24T00:31:04+02:00</youthFounded>
+  <arenaId>58577</arenaId>
+  <arenaName>Parque de Santiago</arenaName>
+  <leagueId>116</leagueId>
+  <youthLeagueId>168</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>200</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

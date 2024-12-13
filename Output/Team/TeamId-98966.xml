@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>98966</teamId>
+  <teamName>Hawarden Rangers AC</teamName>
+  <owner>GlenJ</owner>
+  <founded>2024-08-08T11:38:28+02:00</founded>
+  <youthFounded>2024-08-09T00:30:06+02:00</youthFounded>
+  <arenaId>58489</arenaId>
+  <arenaName>Hawarden Arena</arenaName>
+  <leagueId>574</leagueId>
+  <youthLeagueId>174</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>164</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

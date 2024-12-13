@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>98987</teamId>
+  <teamName>Valenti NiCorsia</teamName>
+  <owner>Robbies</owner>
+  <founded>2024-08-08T12:19:20+02:00</founded>
+  <youthFounded>2024-09-03T00:30:04+02:00</youthFounded>
+  <arenaId>58495</arenaId>
+  <arenaName>El Cangaceiro</arenaName>
+  <leagueId>14</leagueId>
+  <youthLeagueId>120</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>17</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

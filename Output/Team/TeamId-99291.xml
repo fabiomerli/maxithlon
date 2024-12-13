@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>99291</teamId>
+  <teamName>AVII Hoogeveen</teamName>
+  <owner>HHden</owner>
+  <founded>2024-08-19T21:02:41+02:00</founded>
+  <youthFounded>2024-08-21T00:30:01+02:00</youthFounded>
+  <arenaId>58531</arenaId>
+  <arenaName>Hoogkasteel</arenaName>
+  <leagueId>42</leagueId>
+  <youthLeagueId>156</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>79</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

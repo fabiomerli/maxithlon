@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>100835</teamId>
+  <teamName>Cumaribo</teamName>
+  <owner>salofri16</owner>
+  <founded>2024-10-19T20:41:18+02:00</founded>
+  <youthFounded>2024-10-29T00:30:05+01:00</youthFounded>
+  <arenaId>58613</arenaId>
+  <arenaName>Estadio Vichada</arenaName>
+  <leagueId>593</leagueId>
+  <youthLeagueId>154</youthLeagueId>
+  <nationId>27</nationId>
+  <regionId>315</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

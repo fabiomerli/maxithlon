@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>99024</teamId>
+  <teamName>Olona Athletic</teamName>
+  <owner>morla</owner>
+  <founded>2024-08-08T10:46:26+02:00</founded>
+  <youthFounded>2024-08-09T00:30:06+02:00</youthFounded>
+  <arenaId>58484</arenaId>
+  <arenaName>Olona Colosseum</arenaName>
+  <leagueId>8</leagueId>
+  <youthLeagueId>116</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

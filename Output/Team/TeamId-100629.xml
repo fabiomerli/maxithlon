@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>100629</teamId>
+  <teamName>Union Saint Runner</teamName>
+  <owner>JulesCez</owner>
+  <founded>2024-09-30T14:19:46+02:00</founded>
+  <youthFounded>2024-10-01T00:31:04+02:00</youthFounded>
+  <arenaId>58592</arenaId>
+  <arenaName>Choco Prince</arenaName>
+  <leagueId>37</leagueId>
+  <youthLeagueId>161</youthLeagueId>
+  <nationId>6</nationId>
+  <regionId>101</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

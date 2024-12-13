@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>96709</teamId>
+  <teamName>Jambes de bois</teamName>
+  <owner>polomoizix</owner>
+  <founded>2024-05-03T02:37:56+02:00</founded>
+  <youthFounded>2024-06-03T00:30:14+02:00</youthFounded>
+  <arenaId>58423</arenaId>
+  <arenaName>Stade Christian Karpicek</arenaName>
+  <leagueId>113</leagueId>
+  <youthLeagueId>142</youthLeagueId>
+  <nationId>12</nationId>
+  <regionId>550</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

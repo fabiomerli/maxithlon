@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>99092</teamId>
+  <teamName>South Hams Harriers</teamName>
+  <owner>nae199</owner>
+  <founded>2024-08-08T09:31:29+02:00</founded>
+  <youthFounded>2024-08-09T00:30:07+02:00</youthFounded>
+  <arenaId>58468</arenaId>
+  <arenaName>Sea View Arena</arenaName>
+  <leagueId>576</leagueId>
+  <youthLeagueId>173</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>154</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

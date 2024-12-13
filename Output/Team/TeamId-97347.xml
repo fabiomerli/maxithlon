@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>97347</teamId>
+  <teamName>Teeriniemen Teho</teamName>
+  <owner>Jancker</owner>
+  <founded>2024-05-14T13:06:22+02:00</founded>
+  <youthFounded>2024-05-15T00:30:01+02:00</youthFounded>
+  <arenaId>58434</arenaId>
+  <arenaName>Teeri Areena</arenaName>
+  <leagueId>571</leagueId>
+  <youthLeagueId>180</youthLeagueId>
+  <nationId>16</nationId>
+  <regionId>219</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>100854</teamId>
+  <teamName>Bolonus Team</teamName>
+  <owner>awolniaczyk</owner>
+  <founded>2024-10-09T08:36:54+02:00</founded>
+  <youthFounded>2024-10-10T00:30:02+02:00</youthFounded>
+  <arenaId>58604</arenaId>
+  <arenaName>Bolonus Arena</arenaName>
+  <leagueId>235</leagueId>
+  <youthLeagueId>148</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>272</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>100570</teamId>
+  <teamName>TeamRaul</teamName>
+  <owner>Raul</owner>
+  <founded>2024-09-22T20:42:39+02:00</founded>
+  <youthFounded>2024-10-01T00:31:04+02:00</youthFounded>
+  <arenaId>58585</arenaId>
+  <arenaName>Monte Olimpo</arenaName>
+  <leagueId>82</leagueId>
+  <youthLeagueId>133</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>102</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

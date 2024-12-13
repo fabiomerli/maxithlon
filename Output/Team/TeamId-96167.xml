@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>96167</teamId>
+  <teamName>Rohracker Kings</teamName>
+  <owner>Andreas Tiede</owner>
+  <founded>2024-03-26T08:33:41+01:00</founded>
+  <youthFounded>2024-03-29T00:31:03+01:00</youthFounded>
+  <arenaId>58378</arenaId>
+  <arenaName>Rohrackerarena</arenaName>
+  <leagueId>39</leagueId>
+  <youthLeagueId>199</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>44</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

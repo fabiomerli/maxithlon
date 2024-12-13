@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>100675</teamId>
+  <teamName>Atlétiko Bons</teamName>
+  <owner>Miroslav53</owner>
+  <founded>2024-10-01T11:28:50+02:00</founded>
+  <youthFounded>2024-10-16T00:31:03+02:00</youthFounded>
+  <arenaId>58594</arenaId>
+  <arenaName>Plácek</arenaName>
+  <leagueId>320</leagueId>
+  <youthLeagueId>208</youthLeagueId>
+  <nationId>38</nationId>
+  <regionId>392</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

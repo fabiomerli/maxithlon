@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>99100</teamId>
+  <teamName>LV Potsdam</teamName>
+  <owner>Azamalin</owner>
+  <founded>2024-08-08T16:48:44+02:00</founded>
+  <youthFounded>2024-08-09T00:30:07+02:00</youthFounded>
+  <arenaId>58510</arenaId>
+  <arenaName>Green Stadium</arenaName>
+  <leagueId>39</leagueId>
+  <youthLeagueId>197</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>47</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

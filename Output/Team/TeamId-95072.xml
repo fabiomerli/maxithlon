@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>95072</teamId>
+  <teamName>TSV Rosenstadt</teamName>
+  <owner>hjagemann</owner>
+  <founded>2024-01-23T07:12:49+01:00</founded>
+  <youthFounded>2024-01-30T00:30:03+01:00</youthFounded>
+  <arenaId>58310</arenaId>
+  <arenaName>Rosenstadion</arenaName>
+  <leagueId>67</leagueId>
+  <youthLeagueId>195</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>58</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

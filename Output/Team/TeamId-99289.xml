@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>99289</teamId>
+  <teamName>Five Guys AC</teamName>
+  <owner>DeveloperRage</owner>
+  <founded>2024-08-13T03:30:16+02:00</founded>
+  <youthFounded>2024-08-14T00:30:03+02:00</youthFounded>
+  <arenaId>58521</arenaId>
+  <arenaName>Five Guys Field</arenaName>
+  <leagueId>176</leagueId>
+  <youthLeagueId>175</youthLeagueId>
+  <nationId>18</nationId>
+  <regionId>235</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

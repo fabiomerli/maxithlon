@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>100738</teamId>
+  <teamName>Kariba_jumbo</teamName>
+  <owner>Kariba_jumbo</owner>
+  <founded>2024-10-02T08:49:03+02:00</founded>
+  <youthFounded>2024-10-04T00:30:04+02:00</youthFounded>
+  <arenaId>58596</arenaId>
+  <arenaName>Jumbo Stars</arenaName>
+  <leagueId>577</leagueId>
+  <youthLeagueId>192</youthLeagueId>
+  <nationId>50</nationId>
+  <regionId>474</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

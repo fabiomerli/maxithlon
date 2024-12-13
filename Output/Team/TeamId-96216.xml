@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>96216</teamId>
+  <teamName>Crossfiter</teamName>
+  <owner>crossfiter</owner>
+  <founded>2024-04-04T02:38:19+02:00</founded>
+  <youthFounded>2024-04-05T00:30:03+02:00</youthFounded>
+  <arenaId>58387</arenaId>
+  <arenaName>Ssbox</arenaName>
+  <leagueId>115</leagueId>
+  <youthLeagueId>163</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>210</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

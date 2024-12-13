@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>95511</teamId>
+  <teamName>Sprinterteam</teamName>
+  <owner>Taliswoman</owner>
+  <founded>2024-02-21T09:35:37+01:00</founded>
+  <youthFounded>2024-02-22T00:30:03+01:00</youthFounded>
+  <arenaId>58340</arenaId>
+  <arenaName>Olimpico di Nerviano</arenaName>
+  <leagueId>13</leagueId>
+  <youthLeagueId>115</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>11</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

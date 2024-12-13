@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>88</teamId>
+  <teamName>GS Diavoli</teamName>
+  <owner>simo</owner>
+  <founded>2006-05-10T12:09:21+02:00</founded>
+  <youthFounded>2018-01-01T14:18:26+01:00</youthFounded>
+  <arenaId>67</arenaId>
+  <arenaName>La Fossa</arenaName>
+  <leagueId>12</leagueId>
+  <youthLeagueId>117</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>14</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

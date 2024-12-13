@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>100443</teamId>
+  <teamName>XYZ Ludwigshafen</teamName>
+  <owner>Martin_Snow</owner>
+  <founded>2024-09-19T09:01:44+02:00</founded>
+  <youthFounded>2024-09-20T00:30:05+02:00</youthFounded>
+  <arenaId>58581</arenaId>
+  <arenaName>NordOstStadion</arenaName>
+  <leagueId>69</leagueId>
+  <youthLeagueId>197</youthLeagueId>
+  <nationId>5</nationId>
+  <regionId>54</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

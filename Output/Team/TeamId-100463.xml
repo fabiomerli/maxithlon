@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>100463</teamId>
+  <teamName>AC Raymundo</teamName>
+  <owner>Ewoody911</owner>
+  <founded>2024-09-18T22:43:46+02:00</founded>
+  <youthFounded>2024-09-19T00:30:02+02:00</youthFounded>
+  <arenaId>58579</arenaId>
+  <arenaName>Raymonds Arena</arenaName>
+  <leagueId>38</leagueId>
+  <youthLeagueId>158</youthLeagueId>
+  <nationId>6</nationId>
+  <regionId>94</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

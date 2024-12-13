@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>99454</teamId>
+  <teamName>Club Atlético Fondón</teamName>
+  <owner>Esejebi2</owner>
+  <founded>2024-08-17T09:12:59+02:00</founded>
+  <youthFounded>2024-08-19T00:30:06+02:00</youthFounded>
+  <arenaId>58527</arenaId>
+  <arenaName>Jose Luis</arenaName>
+  <leagueId>82</leagueId>
+  <youthLeagueId>134</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>104</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>85434</teamId>
+  <teamName>Spartacus</teamName>
+  <owner>Bardosz</owner>
+  <founded>2016-10-13T20:33:54+02:00</founded>
+  <youthFounded>2018-01-10T15:50:22+01:00</youthFounded>
+  <arenaId>52926</arenaId>
+  <arenaName>Atletic-Center</arenaName>
+  <leagueId>575</leagueId>
+  <youthLeagueId>185</youthLeagueId>
+  <nationId>41</nationId>
+  <regionId>406</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

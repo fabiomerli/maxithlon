@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>99006</teamId>
+  <teamName>Adrap Machico</teamName>
+  <owner>Martinez96</owner>
+  <founded>2024-08-09T06:49:42+02:00</founded>
+  <youthFounded>2024-08-12T00:30:10+02:00</youthFounded>
+  <arenaId>58516</arenaId>
+  <arenaName>Estádio Municipal de Machico</arenaName>
+  <leagueId>116</leagueId>
+  <youthLeagueId>164</youthLeagueId>
+  <nationId>13</nationId>
+  <regionId>210</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

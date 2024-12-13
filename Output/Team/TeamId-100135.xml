@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>100135</teamId>
+  <teamName>Nz-klub</teamName>
+  <owner>Nz100abc/</owner>
+  <founded>2024-09-17T12:10:55+02:00</founded>
+  <youthFounded>2024-09-18T00:30:02+02:00</youthFounded>
+  <arenaId>58573</arenaId>
+  <arenaName>Nz-stadion</arenaName>
+  <leagueId>233</leagueId>
+  <youthLeagueId>147</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>263</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>
