@@ -31,6 +31,9 @@ def doLoadMondiali():
 def doLoadPremiPolonia():
     return loadByFile("/Input/PremiIndNazPol.csv")
 
+def doLoadPremiU21Mondiali():
+    return loadByFile("/Input/PremiMondialiU21.csv")
+
 def loadByFile(filePath):
     PREMIO_MAPPA = {}
     with open(os.getcwd()+filePath) as csvfile:

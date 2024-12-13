@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>84015</teamId>
+  <teamName>Los Olímpicos</teamName>
+  <owner>barea</owner>
+  <founded>2016-03-11T14:24:56+01:00</founded>
+  <youthFounded>2023-12-18T00:30:41+01:00</youthFounded>
+  <arenaId>52017</arenaId>
+  <arenaName>Balaidos</arenaName>
+  <leagueId>93</leagueId>
+  <youthLeagueId>133</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>113</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

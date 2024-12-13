@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>3751</teamId>
+  <teamName>Dream Academy</teamName>
+  <owner>Keizerkeyser</owner>
+  <founded>2007-06-07T22:48:56+02:00</founded>
+  <youthFounded>2017-11-26T14:19:07+01:00</youthFounded>
+  <arenaId>2705</arenaId>
+  <arenaName>Dream Stadium</arenaName>
+  <leagueId>38</leagueId>
+  <youthLeagueId>155</youthLeagueId>
+  <nationId>6</nationId>
+  <regionId>94</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

@@ -90,6 +90,11 @@ def checkIfisContEu():
     type = rootXml.find('./type').text
     return type == "9"
 
+def checkIfisCalcolaPriceU21Mondiali():
+    rootXml = ET.parse(FOLDER_NAME + COMPETITION_ID+'.xml').getroot()
+    type = rootXml.find('./type').text
+    return type == "18"
+
 ### Questo metodo verifica se la manifestazione è un campionato nazionale italiano
 def checkIfisITorSpaANatInd():
     rootXml = ET.parse(FOLDER_NAME + COMPETITION_ID+'.xml').getroot()
@@ -108,6 +113,7 @@ def calcolaPunteggio():
     isCalcolaPriceIndPol = checkIfisITANatPolonia()
     isCalcolaPriceMondiali = checkIfisMondiali()
     isCalcolaPriceContEu = checkIfisContEu()
+    isCalcolaPriceU21Mondiali = checkIfisCalcolaPriceU21Mondiali()
     
     if isCalcolaPriceIndITAOrSpain:
         PREMIO_MAPPA = doLoadPremiIndividualiNazItalia()
@@ -117,6 +123,8 @@ def calcolaPunteggio():
         PREMIO_MAPPA = doLoadPremiContEu();
     elif isCalcolaPriceIndPol:
         PREMIO_MAPPA = doLoadPremiPolonia();
+    elif isCalcolaPriceU21Mondiali:
+        PREMIO_MAPPA = doLoadPremiU21Mondiali();
     
     for teamId in TEAM_MAP:
         teamFilePath = TEAM_FOLDER + 'TeamId-' + teamId + '.xml'
@@ -139,7 +147,11 @@ def calcolaPunteggio():
         for (position,score) in TEAM_MAP.get(teamId):
             if position in PUNTEGGIO_MAPPA.keys():
                 punteggioTeam = punteggioTeam + PUNTEGGIO_MAPPA.get(position)
-            if (isCalcolaPriceIndITAOrSpain or isCalcolaPriceMondiali or isCalcolaPriceContEu or isCalcolaPriceIndPol) and position in PREMIO_MAPPA.keys():
+            if (isCalcolaPriceIndITAOrSpain or 
+                isCalcolaPriceMondiali or 
+                isCalcolaPriceContEu or 
+                isCalcolaPriceIndPol or
+                isCalcolaPriceU21Mondiali) and position in PREMIO_MAPPA.keys():
                 premioTeam = premioTeam + PREMIO_MAPPA.get(position)
             scoreTeam = scoreTeam +  score
 

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>80440</teamId>
+  <teamName>LeanBody Perform</teamName>
+  <owner>FdotC</owner>
+  <founded>2014-12-20T16:54:17+01:00</founded>
+  <youthFounded>2024-10-04T00:30:04+02:00</youthFounded>
+  <arenaId>49968</arenaId>
+  <arenaName>Performance Center</arenaName>
+  <leagueId>571</leagueId>
+  <youthLeagueId>192</youthLeagueId>
+  <nationId>67</nationId>
+  <regionId>539</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

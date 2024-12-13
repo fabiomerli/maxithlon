@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>70404</teamId>
+  <teamName>Misfits</teamName>
+  <owner>Vastarouxas</owner>
+  <founded>2013-01-15T22:03:08+01:00</founded>
+  <youthFounded>2023-05-01T00:31:33+02:00</youthFounded>
+  <arenaId>44525</arenaId>
+  <arenaName>Ultras</arenaName>
+  <leagueId>165</leagueId>
+  <youthLeagueId>177</youthLeagueId>
+  <nationId>20</nationId>
+  <regionId>240</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

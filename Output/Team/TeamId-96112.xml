@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>96112</teamId>
+  <teamName>Club Atletismo Madrid</teamName>
+  <owner>Ardato</owner>
+  <founded>2024-03-21T11:30:25+01:00</founded>
+  <youthFounded>2024-04-04T00:30:05+02:00</youthFounded>
+  <arenaId>58373</arenaId>
+  <arenaName>Estadio de la Peineta</arenaName>
+  <leagueId>91</leagueId>
+  <youthLeagueId>134</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>116</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

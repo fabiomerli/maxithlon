@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>85369</teamId>
+  <teamName>Floppzzy Returns</teamName>
+  <owner>Floppzzy</owner>
+  <founded>2016-09-28T10:26:05+02:00</founded>
+  <youthFounded>2024-08-11T00:30:02+02:00</youthFounded>
+  <arenaId>52890</arenaId>
+  <arenaName>Jan Dop Memorial Arena</arenaName>
+  <leagueId>42</leagueId>
+  <youthLeagueId>158</youthLeagueId>
+  <nationId>4</nationId>
+  <regionId>89</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

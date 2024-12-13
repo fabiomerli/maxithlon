@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>100610</teamId>
+  <teamName>Baloo in Memory</teamName>
+  <owner>_Tutte_</owner>
+  <founded>2024-09-25T06:43:05+02:00</founded>
+  <youthFounded>2024-10-06T00:31:02+02:00</youthFounded>
+  <arenaId>58586</arenaId>
+  <arenaName>Ruffes Yard</arenaName>
+  <leagueId>572</leagueId>
+  <youthLeagueId>181</youthLeagueId>
+  <nationId>3</nationId>
+  <regionId>68</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

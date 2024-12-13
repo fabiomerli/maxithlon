@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>89731</teamId>
+  <teamName>Adrirral Athletics Club</teamName>
+  <owner>Adrirral</owner>
+  <founded>2019-08-15T13:16:54+02:00</founded>
+  <youthFounded>2024-10-01T00:31:04+02:00</youthFounded>
+  <arenaId>55541</arenaId>
+  <arenaName>Estadio El Saler</arenaName>
+  <leagueId>81</leagueId>
+  <youthLeagueId>134</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>110</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

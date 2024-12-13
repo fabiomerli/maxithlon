@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>99070</teamId>
+  <teamName>KKS Milenium Bieliny</teamName>
+  <owner>Gvmmy98</owner>
+  <founded>2024-08-08T23:00:53+02:00</founded>
+  <youthFounded>2024-08-12T00:30:10+02:00</youthFounded>
+  <arenaId>58515</arenaId>
+  <arenaName>Milenium Arena</arenaName>
+  <leagueId>235</leagueId>
+  <youthLeagueId>148</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>269</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

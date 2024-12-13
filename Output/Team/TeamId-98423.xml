@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>98423</teamId>
+  <teamName>Elite Squad</teamName>
+  <owner>tommy</owner>
+  <founded>2024-07-16T17:28:55+02:00</founded>
+  <youthFounded>No youth team</youthFounded>
+  <arenaId>58461</arenaId>
+  <arenaName>ES Arena</arenaName>
+  <leagueId>193</leagueId>
+  <nationId>23</nationId>
+  <regionId>265</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

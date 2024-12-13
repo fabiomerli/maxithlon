@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>82543</teamId>
+  <teamName>Fluminense Nilopolitano</teamName>
+  <owner>Daniel_Santana</owner>
+  <founded>2015-07-21T23:45:31+02:00</founded>
+  <youthFounded>2017-11-12T17:38:11+01:00</youthFounded>
+  <arenaId>51085</arenaId>
+  <arenaName>Arena Nilopolitana</arenaName>
+  <leagueId>577</leagueId>
+  <youthLeagueId>164</youthLeagueId>
+  <nationId>17</nationId>
+  <regionId>227</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>
