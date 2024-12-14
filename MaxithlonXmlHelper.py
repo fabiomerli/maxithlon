@@ -22,6 +22,12 @@ def doLoadMappaPunteggio():
 def doLoadPremiContEu():
     return loadByFile("/Input/PremiContEu.csv")
 
+def doLoadPremiContAmerica():
+    return loadByFile("/Input/PremiContAmerica.csv")
+
+def doLoadPremiContAsiaAfrica():
+    return loadByFile("/Input/PremiContAsiaAfrica.csv")
+
 def doLoadPremiIndividualiNazItalia():
     return loadByFile("/Input/PremiIndNazItalia.csv")
 

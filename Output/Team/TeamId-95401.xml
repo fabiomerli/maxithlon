@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>95401</teamId>
+  <teamName>Shropshire Chaos</teamName>
+  <owner>Lubotty</owner>
+  <founded>2024-02-09T14:49:02+01:00</founded>
+  <youthFounded>2024-04-25T00:30:03+02:00</youthFounded>
+  <arenaId>58326</arenaId>
+  <arenaName>Chaos Arena</arenaName>
+  <leagueId>576</leagueId>
+  <youthLeagueId>174</youthLeagueId>
+  <nationId>11</nationId>
+  <regionId>155</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

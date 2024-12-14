@@ -88,7 +88,20 @@ def checkIfisMondiali():
 def checkIfisContEu():
     rootXml = ET.parse(FOLDER_NAME + COMPETITION_ID+'.xml').getroot()
     type = rootXml.find('./type').text
-    return type == "9"
+    name = rootXml.find('./name').text
+    return type == "9" and name == "Continental Championships Europe"
+
+def checkIfisContAmerica():
+    rootXml = ET.parse(FOLDER_NAME + COMPETITION_ID+'.xml').getroot()
+    type = rootXml.find('./type').text
+    name = rootXml.find('./name').text
+    return type == "9" and name == "Continental Championships America"
+
+def checkIfisContAsiaAfrica():
+    rootXml = ET.parse(FOLDER_NAME + COMPETITION_ID+'.xml').getroot()
+    type = rootXml.find('./type').text
+    name = rootXml.find('./name').text
+    return type == "9" and name == "Continental Championships Asia - Africa - Pacific"
 
 def checkIfisCalcolaPriceU21Mondiali():
     rootXml = ET.parse(FOLDER_NAME + COMPETITION_ID+'.xml').getroot()
@@ -123,6 +136,8 @@ def calcolaPunteggio():
     isCalcolaPriceIndPol = checkIfisITANatPolonia()
     isCalcolaPriceMondiali = checkIfisMondiali()
     isCalcolaPriceContEu = checkIfisContEu()
+    isCalcolaPriceisContAsiaAfrica =  checkIfisContAsiaAfrica()
+    isCalcolaPriceisContAmerica = checkIfisContAmerica()
     isCalcolaPriceU21Mondiali = checkIfisCalcolaPriceU21Mondiali()
     isCalcolaPriceJunioresMondiali = checkIfisCalcolaPriceJunioresMondiali()
     isCalcolaPriceMasterMondiali = checkIfisCalcolaPriceMasterMondiali()
@@ -141,6 +156,10 @@ def calcolaPunteggio():
         PREMIO_MAPPA = doLoadPremiU21Mondiali(); #hanno stessi premi
     elif isCalcolaPriceMasterMondiali:
         PREMIO_MAPPA = doLoadPremiU21Mondiali(); #hanno stessi premi
+    elif isCalcolaPriceisContAsiaAfrica:
+        PREMIO_MAPPA = doLoadPremiContAsiaAfrica();
+    elif isCalcolaPriceisContAmerica:
+        PREMIO_MAPPA = doLoadPremiContAmerica();
     
     for teamId in TEAM_MAP:
         teamFilePath = TEAM_FOLDER + 'TeamId-' + teamId + '.xml'
@@ -166,6 +185,8 @@ def calcolaPunteggio():
             if (isCalcolaPriceIndITAOrSpain or 
                 isCalcolaPriceMondiali or 
                 isCalcolaPriceContEu or 
+                isCalcolaPriceisContAsiaAfrica or
+                isCalcolaPriceisContAmerica or
                 isCalcolaPriceIndPol or
                 isCalcolaPriceU21Mondiali or
                 isCalcolaPriceJunioresMondiali or

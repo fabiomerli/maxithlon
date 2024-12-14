@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>85242</teamId>
+  <teamName>Marben</teamName>
+  <owner>Bolivar</owner>
+  <founded>2016-09-05T01:08:58+02:00</founded>
+  <youthFounded>2017-11-12T09:59:52+01:00</youthFounded>
+  <arenaId>52805</arenaId>
+  <arenaName>Licchio Arena</arenaName>
+  <leagueId>7</leagueId>
+  <youthLeagueId>121</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>13</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

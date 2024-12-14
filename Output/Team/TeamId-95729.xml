@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>95729</teamId>
+  <teamName>Ole Miss Rebels</teamName>
+  <owner>Lame Kiffiin</owner>
+  <founded>2024-03-05T09:31:31+01:00</founded>
+  <youthFounded>2024-03-06T00:31:02+01:00</youthFounded>
+  <arenaId>58357</arenaId>
+  <arenaName>The Tad Pad</arenaName>
+  <leagueId>577</leagueId>
+  <youthLeagueId>171</youthLeagueId>
+  <nationId>14</nationId>
+  <regionId>204</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

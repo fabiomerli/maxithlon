@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <id>43214143</id>
+  <typeId>121</typeId>
+  <sex>1</sex>
+  <date>2024-12-11T23:00:00+01:00</date>
+  <status>3</status>
+  <heat index="1">
+    <athlete index="1">
+      <id>5366651</id>
+      <teamId>76765</teamId>
+      <performance>18.52</performance>
+      <placing>9</placing>
+      <score>981</score>
+    </athlete>
+    <athlete index="2">
+      <id>5158033</id>
+      <teamId>22858</teamId>
+      <performance>18.54</performance>
+      <placing>10</placing>
+      <score>979</score>
+    </athlete>
+    <athlete index="3">
+      <id>5097175</id>
+      <teamId>88699</teamId>
+      <performance>18.83</performance>
+      <placing>14</placing>
+      <score>939</score>
+    </athlete>
+    <athlete index="4">
+      <id>5163088</id>
+      <teamId>78081</teamId>
+      <performance>18.22</performance>
+      <placing>4</placing>
+      <score>1022</score>
+    </athlete>
+    <athlete index="5">
+      <id>5046615</id>
+      <teamId>85759</teamId>
+      <performance>18.12</performance>
+      <placing>3</placing>
+      <score>1036</score>
+    </athlete>
+    <athlete index="6">
+      <id>5185105</id>
+      <teamId>85032</teamId>
+      <performance>17.98</performance>
+      <placing>2</placing>
+      <score>1055</score>
+    </athlete>
+    <athlete index="7">
+      <id>5017841</id>
+      <teamId>89964</teamId>
+      <performance>18.68</performance>
+      <placing>11</placing>
+      <score>960</score>
+    </athlete>
+  </heat>
+  <heat index="2">
+    <athlete index="8">
+      <id>5225917</id>
+      <teamId>92216</teamId>
+      <performance>18.91</performance>
+      <placing>16</placing>
+      <score>928</score>
+    </athlete>
+    <athlete index="9">
+      <id>5266349</id>
+      <teamId>52053</teamId>
+      <performance>18.70</performance>
+      <placing>12</placing>
+      <score>957</score>
+    </athlete>
+    <athlete index="10">
+      <id>5305072</id>
+      <teamId>91049</teamId>
+      <performance>18.47</performance>
+      <placing>8</placing>
+      <score>988</score>
+    </athlete>
+    <athlete index="11">
+      <id>5146818</id>
+      <teamId>22392</teamId>
+      <performance>18.43</performance>
+      <placing>6</placing>
+      <score>994</score>
+    </athlete>
+    <athlete index="12">
+      <id>5127677</id>
+      <teamId>92655</teamId>
+      <performance>18.87</performance>
+      <placing>15</placing>
+      <score>934</score>
+    </athlete>
+    <athlete index="13">
+      <id>5122234</id>
+      <teamId>91303</teamId>
+      <performance>18.22</performance>
+      <placing>5</placing>
+      <score>1022</score>
+    </athlete>
+    <athlete index="14">
+      <id>5103166</id>
+      <teamId>92500</teamId>
+      <performance>18.46</performance>
+      <placing>7</placing>
+      <score>990</score>
+    </athlete>
+    <athlete index="15">
+      <id>5030464</id>
+      <teamId>27064</teamId>
+      <performance>17.91</performance>
+      <placing>1</placing>
+      <score>1064</score>
+    </athlete>
+  </heat>
+  <heat index="3">
+    <athlete index="16">
+      <id>5056919</id>
+      <teamId>93363</teamId>
+      <performance>18.96</performance>
+      <placing>19</placing>
+      <score>922</score>
+    </athlete>
+    <athlete index="17">
+      <id>5017665</id>
+      <teamId>59376</teamId>
+      <performance>18.94</performance>
+      <placing>17</placing>
+      <score>924</score>
+    </athlete>
+    <athlete index="18">
+      <id>5262375</id>
+      <teamId>93224</teamId>
+      <performance>18.73</performance>
+      <placing>13</placing>
+      <score>953</score>
+    </athlete>
+    <athlete index="19">
+      <id>5011983</id>
+      <teamId>100463</teamId>
+      <performance>18.95</performance>
+      <placing>18</placing>
+      <score>923</score>
+    </athlete>
+    <athlete index="20">
+      <id>5010540</id>
+      <teamId>3676</teamId>
+      <performance>20.23</performance>
+      <placing>21</placing>
+      <score>749</score>
+    </athlete>
+    <athlete index="21">
+      <id>4975296</id>
+      <teamId>93451</teamId>
+      <performance>19.31</performance>
+      <placing>20</placing>
+      <score>874</score>
+    </athlete>
+  </heat>
+</maxi-xml>
