@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <id>43214350</id>
+  <typeId>90</typeId>
+  <sex>0</sex>
+  <date>2024-12-11T16:00:00+01:00</date>
+  <status>3</status>
+  <heat index="1">
+    <relay index="1">
+      <id>15716</id>
+      <teamId>14980</teamId>
+      <performance>217.02</performance>
+      <placing>2</placing>
+      <score>956</score>
+    </relay>
+    <relay index="2">
+      <id>208084</id>
+      <teamId>2585</teamId>
+      <performance>233.58</performance>
+      <placing>10</placing>
+      <score>780</score>
+    </relay>
+    <relay index="3">
+      <id>204922</id>
+      <teamId>15330</teamId>
+      <performance>214.69</performance>
+      <placing>1</placing>
+      <score>981</score>
+    </relay>
+    <relay index="4">
+      <id>202672</id>
+      <teamId>71916</teamId>
+      <performance>221.07</performance>
+      <placing>4</placing>
+      <score>913</score>
+    </relay>
+    <relay index="5">
+      <id>202475</id>
+      <teamId>8585</teamId>
+      <performance>224.90</performance>
+      <placing>6</placing>
+      <score>872</score>
+    </relay>
+    <relay index="6">
+      <id>198572</id>
+      <teamId>14707</teamId>
+      <performance>229.11</performance>
+      <placing>8</placing>
+      <score>827</score>
+    </relay>
+    <relay index="7">
+      <id>185346</id>
+      <teamId>90884</teamId>
+      <performance>220.67</performance>
+      <placing>3</placing>
+      <score>917</score>
+    </relay>
+    <relay index="8">
+      <id>209826</id>
+      <teamId>978</teamId>
+      <performance>223.20</performance>
+      <placing>5</placing>
+      <score>890</score>
+    </relay>
+  </heat>
+  <heat index="2">
+    <relay index="9">
+      <id>190904</id>
+      <teamId>91789</teamId>
+      <performance>232.74</performance>
+      <placing>9</placing>
+      <score>789</score>
+    </relay>
+    <relay index="10">
+      <id>181583</id>
+      <teamId>18742</teamId>
+      <performance>229.00</performance>
+      <placing>7</placing>
+      <score>829</score>
+    </relay>
+  </heat>
+</maxi-xml>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <name>World Master Championships</name>
+  <type>17</type>
+  <season>98</season>
+  <date>2024-12-11T15:00:00+01:00</date>
+  <arenaId>38518</arenaId>
+  <nationId>19</nationId>
+  <regionId>245</regionId>
+  <standings>0</standings>
+  <attendance>65947</attendance>
+  <meteo>4</meteo>
+  <status>3</status>
+  <event id="43214320"/>
+  <event id="43214321"/>
+  <event id="43214322"/>
+  <event id="43214323"/>
+  <event id="43214324"/>
+  <event id="43214325"/>
+  <event id="43214326"/>
+  <event id="43214327"/>
+  <event id="43214328"/>
+  <event id="43214329"/>
+  <event id="43214330"/>
+  <event id="43214331"/>
+  <event id="43214332"/>
+  <event id="43214333"/>
+  <event id="43214334"/>
+  <event id="43214335"/>
+  <event id="43214336"/>
+  <event id="43214337"/>
+  <event id="43214338"/>
+  <event id="43214339"/>
+  <event id="43214340"/>
+  <event id="43214341"/>
+  <event id="43214342"/>
+  <event id="43214343"/>
+  <event id="43214344"/>
+  <event id="43214345"/>
+  <event id="43214346"/>
+  <event id="43214347"/>
+  <event id="43214348"/>
+  <event id="43214349"/>
+  <event id="43214350"/>
+  <event id="43214351"/>
+  <event id="43214352"/>
+  <event id="43214353"/>
+  <event id="43214354"/>
+  <event id="43214355"/>
+  <event id="43214356"/>
+  <event id="43214357"/>
+  <event id="43214358"/>
+  <event id="43214359"/>
+  <event id="43214360"/>
+  <event id="43214361"/>
+  <event id="43214362"/>
+  <event id="43214363"/>
+  <event id="43214364"/>
+  <event id="43214365"/>
+  <event id="43214366"/>
+  <event id="43214367"/>
+  <event id="43214368"/>
+  <event id="43214369"/>
+  <event id="43214370"/>
+  <event id="43214371"/>
+  <event id="43214372"/>
+  <event id="43214373"/>
+  <event id="43214374"/>
+  <event id="43214375"/>
+  <event id="43214376"/>
+  <event id="43214377"/>
+  <event id="43214378"/>
+  <event id="43214379"/>
+  <event id="43214380"/>
+  <event id="43214381"/>
+  <event id="43214382"/>
+  <event id="43214383"/>
+  <event id="43214384"/>
+  <event id="43214385"/>
+  <event id="43214386"/>
+  <event id="43214387"/>
+  <event id="43214388"/>
+  <event id="43214389"/>
+  <event id="43214390"/>
+  <event id="43214391"/>
+  <event id="43214392"/>
+  <event id="43214393"/>
+  <event id="43214394"/>
+  <event id="43214395"/>
+  <event id="43214396"/>
+  <event id="43214397"/>
+  <event id="43214398"/>
+</maxi-xml>
