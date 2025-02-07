@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>101036</teamId>
+  <teamName>Faenza Mud T&amp;F</teamName>
+  <owner>Mak_1981</owner>
+  <founded>2024-10-22T22:06:23+02:00</founded>
+  <youthFounded>2024-10-30T00:30:02+01:00</youthFounded>
+  <arenaId>58619</arenaId>
+  <arenaName>Stadio "P. Crementi"</arenaName>
+  <leagueId>8</leagueId>
+  <youthLeagueId>121</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>19</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

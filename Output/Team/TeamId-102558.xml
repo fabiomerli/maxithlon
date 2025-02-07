@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>102558</teamId>
+  <teamName>Germinal</teamName>
+  <owner>Macno</owner>
+  <founded>2024-12-15T17:18:27+01:00</founded>
+  <youthFounded>2024-12-18T00:30:02+01:00</youthFounded>
+  <arenaId>58695</arenaId>
+  <arenaName>Il casotto</arenaName>
+  <leagueId>10</leagueId>
+  <youthLeagueId>123</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>12</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

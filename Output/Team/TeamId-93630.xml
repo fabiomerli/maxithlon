@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93630</teamId>
+  <teamName>A.S. Murika</teamName>
+  <owner>modicano92</owner>
+  <founded>2023-06-09T22:15:27+02:00</founded>
+  <youthFounded>2023-06-14T00:30:36+02:00</youthFounded>
+  <arenaId>58045</arenaId>
+  <arenaName>Corcirus</arenaName>
+  <leagueId>5</leagueId>
+  <youthLeagueId>120</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>5</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

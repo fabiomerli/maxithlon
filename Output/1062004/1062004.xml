@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <name>Campionati Individuali Nazionali Italia</name>
+  <type>8</type>
+  <season>99</season>
+  <date>2025-02-05T18:00:00+01:00</date>
+  <arenaId>22068</arenaId>
+  <nationId>1</nationId>
+  <regionId>8</regionId>
+  <standings>0</standings>
+  <attendance>26132</attendance>
+  <meteo>4</meteo>
+  <status>3</status>
+  <event id="43873498"/>
+  <event id="43873499"/>
+  <event id="43873500"/>
+  <event id="43873501"/>
+  <event id="43873502"/>
+  <event id="43873503"/>
+  <event id="43873504"/>
+  <event id="43873505"/>
+  <event id="43873506"/>
+  <event id="43873507"/>
+  <event id="43873508"/>
+  <event id="43873509"/>
+  <event id="43873510"/>
+  <event id="43873511"/>
+  <event id="43873512"/>
+  <event id="43873513"/>
+  <event id="43873514"/>
+  <event id="43873515"/>
+  <event id="43873516"/>
+  <event id="43873517"/>
+  <event id="43873518"/>
+  <event id="43873519"/>
+  <event id="43873520"/>
+  <event id="43873521"/>
+  <event id="43873522"/>
+  <event id="43873523"/>
+  <event id="43873524"/>
+  <event id="43873525"/>
+  <event id="43873526"/>
+  <event id="43873527"/>
+  <event id="43873528"/>
+  <event id="43873529"/>
+  <event id="43873530"/>
+  <event id="43873531"/>
+  <event id="43873532"/>
+  <event id="43873533"/>
+  <event id="43873534"/>
+  <event id="43873535"/>
+  <event id="43873536"/>
+  <event id="43873537"/>
+  <event id="43873538"/>
+  <event id="43873539"/>
+  <event id="43873540"/>
+  <event id="43873541"/>
+  <event id="43873542"/>
+  <event id="43873543"/>
+  <event id="43873544"/>
+  <event id="43873545"/>
+  <event id="43873546"/>
+  <event id="43873547"/>
+  <event id="43873548"/>
+  <event id="43873549"/>
+  <event id="43873550"/>
+  <event id="43873551"/>
+  <event id="43873552"/>
+  <event id="43873553"/>
+  <event id="43873554"/>
+  <event id="43873555"/>
+  <event id="43873556"/>
+  <event id="43873557"/>
+  <event id="43873558"/>
+  <event id="43873559"/>
+  <event id="43873560"/>
+  <event id="43873561"/>
+  <event id="43873562"/>
+  <event id="43873563"/>
+  <event id="43873564"/>
+  <event id="43873565"/>
+  <event id="43873566"/>
+  <event id="43873567"/>
+  <event id="43873568"/>
+  <event id="43873569"/>
+  <event id="43873570"/>
+  <event id="43873571"/>
+  <event id="43873572"/>
+  <event id="43873573"/>
+  <event id="43873574"/>
+  <event id="43873575"/>
+  <event id="43873576"/>
+</maxi-xml>

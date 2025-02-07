@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>102114</teamId>
+  <teamName>Atletica PaolinoMagoRegiOli</teamName>
+  <owner>brady1986</owner>
+  <founded>2024-11-27T08:02:16+01:00</founded>
+  <youthFounded>2024-11-28T00:30:02+01:00</youthFounded>
+  <arenaId>58665</arenaId>
+  <arenaName>Arena dei gatti</arenaName>
+  <leagueId>9</leagueId>
+  <youthLeagueId>124</youthLeagueId>
+  <nationId>1</nationId>
+  <regionId>2</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>
