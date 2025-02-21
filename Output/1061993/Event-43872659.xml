@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <id>43872659</id>
+  <typeId>33</typeId>
+  <sex>0</sex>
+  <date>2025-02-19T15:00:00+01:00</date>
+  <status>3</status>
+  <heat index="1">
+    <athlete index="1">
+      <id>4850482</id>
+      <teamId>90516</teamId>
+      <performance>68.16</performance>
+      <placing>12</placing>
+      <score>919</score>
+    </athlete>
+    <athlete index="2">
+      <id>5185854</id>
+      <teamId>92216</teamId>
+      <performance>73.79</performance>
+      <placing>7</placing>
+      <score>1043</score>
+    </athlete>
+    <athlete index="3">
+      <id>5186427</id>
+      <teamId>58741</teamId>
+      <performance>63.79</performance>
+      <placing>20</placing>
+      <score>823</score>
+    </athlete>
+    <athlete index="4">
+      <id>5193545</id>
+      <teamId>13162</teamId>
+      <performance>76.64</performance>
+      <placing>3</placing>
+      <score>1105</score>
+    </athlete>
+    <athlete index="5">
+      <id>5196600</id>
+      <teamId>90571</teamId>
+      <performance>64.52</performance>
+      <placing>19</placing>
+      <score>839</score>
+    </athlete>
+    <athlete index="6">
+      <id>5211969</id>
+      <teamId>92124</teamId>
+      <performance>62.53</performance>
+      <placing>21</placing>
+      <score>796</score>
+    </athlete>
+    <athlete index="7">
+      <id>5224710</id>
+      <teamId>38542</teamId>
+      <performance>54.65</performance>
+      <placing>32</placing>
+      <score>623</score>
+    </athlete>
+    <athlete index="8">
+      <id>5230616</id>
+      <teamId>83466</teamId>
+      <performance>65.59</performance>
+      <placing>17</placing>
+      <score>863</score>
+    </athlete>
+    <athlete index="9">
+      <id>5259772</id>
+      <teamId>92500</teamId>
+      <performance>56.49</performance>
+      <placing>29</placing>
+      <score>663</score>
+    </athlete>
+    <athlete index="10">
+      <id>5269602</id>
+      <teamId>89469</teamId>
+      <performance>67.69</performance>
+      <placing>15</placing>
+      <score>909</score>
+    </athlete>
+    <athlete index="11">
+      <id>5304068</id>
+      <teamId>52053</teamId>
+      <performance>64.94</performance>
+      <placing>18</placing>
+      <score>849</score>
+    </athlete>
+    <athlete index="12">
+      <id>5309500</id>
+      <teamId>59703</teamId>
+      <performance>61.38</performance>
+      <placing>23</placing>
+      <score>770</score>
+    </athlete>
+    <athlete index="13">
+      <id>5310185</id>
+      <teamId>92655</teamId>
+      <performance>54.94</performance>
+      <placing>31</placing>
+      <score>629</score>
+    </athlete>
+    <athlete index="14">
+      <id>5312487</id>
+      <teamId>93329</teamId>
+      <performance>53.35</performance>
+      <placing>33</placing>
+      <score>594</score>
+    </athlete>
+    <athlete index="15">
+      <id>5363836</id>
+      <teamId>92026</teamId>
+      <performance>56.49</performance>
+      <placing>28</placing>
+      <score>663</score>
+    </athlete>
+    <athlete index="16">
+      <id>5406256</id>
+      <teamId>55383</teamId>
+      <performance>59.37</performance>
+      <placing>24</placing>
+      <score>726</score>
+    </athlete>
+    <athlete index="17">
+      <id>5437764</id>
+      <teamId>88255</teamId>
+      <performance>43.31</performance>
+      <placing>36</placing>
+      <score>374</score>
+    </athlete>
+    <athlete index="18">
+      <id>5170404</id>
+      <teamId>90412</teamId>
+      <performance>49.81</performance>
+      <placing>35</placing>
+      <score>516</score>
+    </athlete>
+    <athlete index="19">
+      <id>5168414</id>
+      <teamId>23998</teamId>
+      <performance>67.96</performance>
+      <placing>13</placing>
+      <score>915</score>
+    </athlete>
+    <athlete index="20">
+      <id>5149752</id>
+      <teamId>34329</teamId>
+      <performance>61.82</performance>
+      <placing>22</placing>
+      <score>780</score>
+    </athlete>
+    <athlete index="21">
+      <id>4873809</id>
+      <teamId>29922</teamId>
+      <performance>82.76</performance>
+      <placing>1</placing>
+      <score>1240</score>
+    </athlete>
+    <athlete index="22">
+      <id>4964226</id>
+      <teamId>90402</teamId>
+      <performance>78.36</performance>
+      <placing>2</placing>
+      <score>1143</score>
+    </athlete>
+    <athlete index="23">
+      <id>5017004</id>
+      <teamId>92500</teamId>
+      <performance>56.94</performance>
+      <placing>27</placing>
+      <score>673</score>
+    </athlete>
+    <athlete index="24">
+      <id>5018761</id>
+      <teamId>46151</teamId>
+      <performance>67.75</performance>
+      <placing>14</placing>
+      <score>910</score>
+    </athlete>
+    <athlete index="25">
+      <id>5020181</id>
+      <teamId>77207</teamId>
+      <performance>58.40</performance>
+      <placing>25</placing>
+      <score>705</score>
+    </athlete>
+    <athlete index="26">
+      <id>5054420</id>
+      <teamId>59703</teamId>
+      <performance>69.55</performance>
+      <placing>10</placing>
+      <score>950</score>
+    </athlete>
+    <athlete index="27">
+      <id>5078859</id>
+      <teamId>64584</teamId>
+      <performance>74.21</performance>
+      <placing>5</placing>
+      <score>1052</score>
+    </athlete>
+    <athlete index="28">
+      <id>5081635</id>
+      <teamId>20087</teamId>
+      <performance>74.20</performance>
+      <placing>6</placing>
+      <score>1052</score>
+    </athlete>
+    <athlete index="29">
+      <id>5088523</id>
+      <teamId>92500</teamId>
+      <performance>58.24</performance>
+      <placing>26</placing>
+      <score>701</score>
+    </athlete>
+    <athlete index="30">
+      <id>5091853</id>
+      <teamId>68726</teamId>
+      <performance>68.84</performance>
+      <placing>11</placing>
+      <score>934</score>
+    </athlete>
+    <athlete index="31">
+      <id>5093839</id>
+      <teamId>74448</teamId>
+      <performance>73.49</performance>
+      <placing>8</placing>
+      <score>1036</score>
+    </athlete>
+    <athlete index="32">
+      <id>5094655</id>
+      <teamId>43704</teamId>
+      <performance>55.90</performance>
+      <placing>30</placing>
+      <score>650</score>
+    </athlete>
+    <athlete index="33">
+      <id>5103705</id>
+      <teamId>76765</teamId>
+      <performance>67.16</performance>
+      <placing>16</placing>
+      <score>897</score>
+    </athlete>
+    <athlete index="34">
+      <id>5117757</id>
+      <teamId>84679</teamId>
+      <performance>53.24</performance>
+      <placing>34</placing>
+      <score>592</score>
+    </athlete>
+    <athlete index="35">
+      <id>5126852</id>
+      <teamId>91120</teamId>
+      <performance>75.45</performance>
+      <placing>4</placing>
+      <attitude>2</attitude>
+      <score>1079</score>
+    </athlete>
+    <athlete index="36">
+      <id>5127627</id>
+      <teamId>12233</teamId>
+      <performance>70.71</performance>
+      <placing>9</placing>
+      <score>975</score>
+    </athlete>
+    <athlete index="37">
+      <id>5492660</id>
+      <teamId>94143</teamId>
+      <performance>38.23</performance>
+      <placing>37</placing>
+      <score>262</score>
+    </athlete>
+  </heat>
+</maxi-xml>

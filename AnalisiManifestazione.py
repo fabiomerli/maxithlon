@@ -129,7 +129,12 @@ def checkIfisITANatPolonia():
     rootXml = ET.parse(FOLDER_NAME + COMPETITION_ID+'.xml').getroot()
     type = rootXml.find('./type').text
     nationId = rootXml.find('./nationId').text
-    return type == "8" and nationId == "23" 
+    return type == "8" and nationId == "23"
+
+def checkIfisOlimpiadi():
+    rootXml = ET.parse(FOLDER_NAME + COMPETITION_ID+'.xml').getroot()
+    type = rootXml.find('./type').text
+    return type == "16"
     
 def calcolaPunteggio():
     isCalcolaPriceIndITAOrSpain = checkIfisITorSpaANatInd()
@@ -141,6 +146,7 @@ def calcolaPunteggio():
     isCalcolaPriceU21Mondiali = checkIfisCalcolaPriceU21Mondiali()
     isCalcolaPriceJunioresMondiali = checkIfisCalcolaPriceJunioresMondiali()
     isCalcolaPriceMasterMondiali = checkIfisCalcolaPriceMasterMondiali()
+    isOlimpiadi = checkIfisOlimpiadi()
     
     if isCalcolaPriceIndITAOrSpain:
         PREMIO_MAPPA = doLoadPremiIndividualiNazItalia()
@@ -160,6 +166,8 @@ def calcolaPunteggio():
         PREMIO_MAPPA = doLoadPremiContAsiaAfrica();
     elif isCalcolaPriceisContAmerica:
         PREMIO_MAPPA = doLoadPremiContAmerica();
+    elif isOlimpiadi:
+        PREMIO_MAPPA = doLoadPremiOlimpiadi();
     
     for teamId in TEAM_MAP:
         teamFilePath = TEAM_FOLDER + 'TeamId-' + teamId + '.xml'

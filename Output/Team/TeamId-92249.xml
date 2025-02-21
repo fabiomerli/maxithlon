@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>92249</teamId>
+  <teamName>C.D. TopyNow</teamName>
+  <owner>TopyNow</owner>
+  <founded>2021-08-31T13:59:06+02:00</founded>
+  <youthFounded>2024-08-14T00:30:02+02:00</youthFounded>
+  <arenaId>57185</arenaId>
+  <arenaName>La Madriguera</arenaName>
+  <leagueId>88</leagueId>
+  <youthLeagueId>131</youthLeagueId>
+  <nationId>7</nationId>
+  <regionId>102</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

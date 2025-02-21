@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>91555</teamId>
+  <teamName>MKS Orlik</teamName>
+  <owner>Staszek</owner>
+  <founded>2021-01-08T12:06:26+01:00</founded>
+  <youthFounded>2021-01-20T15:29:46+01:00</youthFounded>
+  <arenaId>56717</arenaId>
+  <arenaName>Kujawiak</arenaName>
+  <leagueId>194</leagueId>
+  <youthLeagueId>146</youthLeagueId>
+  <nationId>23</nationId>
+  <regionId>262</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>

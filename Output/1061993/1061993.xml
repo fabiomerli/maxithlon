@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <name>Olympic Games</name>
+  <type>16</type>
+  <season>99</season>
+  <date>2025-02-19T14:00:00+01:00</date>
+  <arenaId>19266</arenaId>
+  <nationId>1</nationId>
+  <regionId>5</regionId>
+  <standings>0</standings>
+  <attendance>100000</attendance>
+  <meteo>5</meteo>
+  <status>3</status>
+  <event id="43872629"/>
+  <event id="43872630"/>
+  <event id="43872631"/>
+  <event id="43872632"/>
+  <event id="43872633"/>
+  <event id="43872634"/>
+  <event id="43872635"/>
+  <event id="43872636"/>
+  <event id="43872637"/>
+  <event id="43872638"/>
+  <event id="43872639"/>
+  <event id="43872640"/>
+  <event id="43872641"/>
+  <event id="43872642"/>
+  <event id="43872643"/>
+  <event id="43872644"/>
+  <event id="43872645"/>
+  <event id="43872646"/>
+  <event id="43872647"/>
+  <event id="43872648"/>
+  <event id="43872649"/>
+  <event id="43872650"/>
+  <event id="43872651"/>
+  <event id="43872652"/>
+  <event id="43872653"/>
+  <event id="43872654"/>
+  <event id="43872655"/>
+  <event id="43872656"/>
+  <event id="43872657"/>
+  <event id="43872658"/>
+  <event id="43872659"/>
+  <event id="43872660"/>
+  <event id="43872661"/>
+  <event id="43872662"/>
+  <event id="43872663"/>
+  <event id="43872664"/>
+  <event id="43872665"/>
+  <event id="43872666"/>
+  <event id="43872667"/>
+  <event id="43872668"/>
+  <event id="43872669"/>
+  <event id="43872670"/>
+  <event id="43872671"/>
+  <event id="43872672"/>
+  <event id="43872673"/>
+  <event id="43872674"/>
+  <event id="43872675"/>
+  <event id="43872676"/>
+  <event id="43872677"/>
+  <event id="43872678"/>
+  <event id="43872679"/>
+  <event id="43872680"/>
+  <event id="43872681"/>
+  <event id="43872682"/>
+  <event id="43872683"/>
+  <event id="43872684"/>
+  <event id="43872685"/>
+  <event id="43872686"/>
+  <event id="43872687"/>
+  <event id="43872688"/>
+  <event id="43872689"/>
+  <event id="43872690"/>
+  <event id="43872691"/>
+  <event id="43872692"/>
+  <event id="43872693"/>
+  <event id="43872694"/>
+  <event id="43872695"/>
+  <event id="43872696"/>
+  <event id="43872697"/>
+  <event id="43872698"/>
+  <event id="43872699"/>
+  <event id="43872700"/>
+  <event id="43872701"/>
+  <event id="43872702"/>
+  <event id="43872703"/>
+  <event id="43872704"/>
+  <event id="43872705"/>
+  <event id="43872706"/>
+  <event id="43872707"/>
+</maxi-xml>

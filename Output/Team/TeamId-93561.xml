@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93561</teamId>
+  <teamName>Rakete</teamName>
+  <owner>Andrej</owner>
+  <founded>2023-05-02T21:43:13+02:00</founded>
+  <youthFounded>2024-09-14T00:30:02+02:00</youthFounded>
+  <arenaId>58001</arenaId>
+  <arenaName>Raketoplan</arenaName>
+  <leagueId>592</leagueId>
+  <youthLeagueId>188</youthLeagueId>
+  <nationId>40</nationId>
+  <regionId>403</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

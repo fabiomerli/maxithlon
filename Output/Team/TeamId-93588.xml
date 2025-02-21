@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>93588</teamId>
+  <teamName>AK Istra</teamName>
+  <owner>JureL</owner>
+  <founded>2023-05-18T20:06:51+02:00</founded>
+  <youthFounded>2023-05-21T00:30:35+02:00</youthFounded>
+  <arenaId>58015</arenaId>
+  <arenaName>Istra Arena</arenaName>
+  <leagueId>588</leagueId>
+  <youthLeagueId>191</youthLeagueId>
+  <nationId>29</nationId>
+  <regionId>323</regionId>
+  <maxitrainer>1</maxitrainer>
+</maxi-xml>

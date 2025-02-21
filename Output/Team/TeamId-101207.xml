@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maxi-xml>
+  <teamId>101207</teamId>
+  <teamName>Casi AC</teamName>
+  <owner>casizb</owner>
+  <founded>2024-10-25T20:35:51+02:00</founded>
+  <youthFounded>2024-11-01T00:30:04+01:00</youthFounded>
+  <arenaId>58621</arenaId>
+  <arenaName>Casi Stadium</arenaName>
+  <leagueId>570</leagueId>
+  <youthLeagueId>178</youthLeagueId>
+  <nationId>79</nationId>
+  <regionId>542</regionId>
+  <maxitrainer>0</maxitrainer>
+</maxi-xml>
